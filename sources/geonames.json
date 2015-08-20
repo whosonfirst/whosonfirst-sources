@@ -1,0 +1,6 @@
+{
+	"name": "GeoNames",
+	"prefix": "gn",
+	"url": "http://www.geonames.org/",
+	"license": "http://www.geonames.org/about.html"
+}
