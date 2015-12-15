@@ -1,5 +1,7 @@
 {
-	"name": "GeoNames",
+	"id": 404734175,
+	"fullname": "GeoNames",
+	"name": "geonames",
 	"prefix": "gn",
 	"url": "http://www.geonames.org/",
 	"license": "http://www.geonames.org/about.html"

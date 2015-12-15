@@ -1,5 +1,7 @@
 {
-	"name": "Wikipedia",
+	"id": 404734189,
+	"fullname": "Wikipedia",
+	"name": "wikipedia",
 	"prefix": "wk",
 	"url": "http://www.wikipedia.org/",
 	"license": "https://en.wikipedia.org/wiki/Wikipedia:Copyrights"

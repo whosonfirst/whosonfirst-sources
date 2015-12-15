@@ -1,5 +1,7 @@
 {
-	"name": "Natural Earth",
+	"id": 404734179,
+	"fullname": "Natural Earth",
+	"name": "naturalearth",
 	"prefix": "ne",
 	"url": "http://www.naturalearthdata.com/",
 	"license": "http://www.naturalearthdata.com/about/terms-of-use/"

@@ -1,5 +1,7 @@
 {
-	"name": "Extended Date/Time Format",
+	"id": 404734173,
+	"fullname": "Extended Date/Time Format",
+	"name": "edtf",
 	"prefix": "edtf",
 	"url": "http://loc.gov/standards/datetime/",
 	"license": ""

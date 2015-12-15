@@ -1,5 +1,7 @@
 {
-	"name": "Yahoo! GeoPlanet",
+	"id": 404734177,
+	"fullname": "Yahoo! GeoPlanet",
+	"name": "geoplanet",
 	"prefix": "gp",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
 	"license": "http://developer.yahoo.com/geo/geoplanet/data/"

@@ -1,5 +1,7 @@
 {
-	"name": "Yahoo! GeoPlanet (formerly Where On Earth)",
+	"id": 404734187,
+	"fullname": "Yahoo! GeoPlanet (formerly Where On Earth)",
+	"name": "whereonearth",
 	"prefix": "woe",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
 	"license": "http://developer.yahoo.com/geo/geoplanet/data/"
