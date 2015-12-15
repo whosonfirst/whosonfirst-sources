@@ -50,6 +50,10 @@ if __name__ == '__main__':
             docs.write("_%s_\n\n" % (details['description']))
 
         for k in ('id', 'name', 'prefix', 'url', 'license'):
+
+            if details[k] == '':
+                continue
+
             docs.write("* %s `%s`\n" % (k, details[k]))
 
         docs.write("\n")
