@@ -1,0 +1,118 @@
+# sources
+
+## Extended Date/Time Format
+
+* id `404734173`
+* name `edtf`
+* prefix `edtf`
+* url `http://loc.gov/standards/datetime/`
+* license ``
+
+## Factual
+
+* id `404734193`
+* name `factual`
+* prefix `fct`
+* url `https://github.com/Factual/places`
+* license ``
+
+## GeoNames
+
+* id `404734175`
+* name `geonames`
+* prefix `gn`
+* url `http://www.geonames.org/`
+* license `http://www.geonames.org/about.html`
+
+## Yahoo! GeoPlanet
+
+* id `404734177`
+* name `geoplanet`
+* prefix `gp`
+* url `http://developer.yahoo.com/geo/geoplanet/`
+* license `http://developer.yahoo.com/geo/geoplanet/data/`
+
+## Mapshaper
+
+* id `404734195`
+* name `mapshaper`
+* prefix `ms`
+* url ``
+* license `CC0`
+
+## Mapzen
+
+* id `404734197`
+* name `mapzen`
+* prefix `mz`
+* url ``
+* license `CC0`
+
+## Natural Earth
+
+* id `404734179`
+* name `naturalearth`
+* prefix `ne`
+* url `http://www.naturalearthdata.com/`
+* license `http://www.naturalearthdata.com/about/terms-of-use/`
+
+## OurAirports
+
+* id `404734181`
+* name `ourairports`
+* prefix `oa`
+* url `http://ourairports.com/data/`
+* license `http://ourairports.com/`
+
+## Quattroshapes
+
+* id `404734183`
+* name `quattroshapes`
+* prefix `qs`
+* url `http://www.quattroshapes.com/`
+* license `https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md`
+
+## SimpleGeo
+
+_SimpleGeo was a location aware services company that operated between 2009 and 2011. It is no longer an active company._
+
+* id `404734199`
+* name `simplegeo`
+* prefix `sg`
+* url ``
+* license `https://creativecommons.org/publicdomain/zero/1.0/`
+
+## Yahoo! GeoPlanet (formerly Where On Earth)
+
+* id `404734187`
+* name `whereonearth`
+* prefix `woe`
+* url `http://developer.yahoo.com/geo/geoplanet/`
+* license `http://developer.yahoo.com/geo/geoplanet/data/`
+
+## Wikipedia
+
+* id `404734189`
+* name `wikipedia`
+* prefix `wk`
+* url `http://www.wikipedia.org/`
+* license `https://en.wikipedia.org/wiki/Wikipedia:Copyrights`
+
+## Yerbashapes
+
+_Weighted means from Quattroshapes_
+
+* id `404734201`
+* name `yerbashapes`
+* prefix `ys`
+* url ``
+* license `CC0`
+
+## Zetashapes
+
+* id `404734191`
+* name `zetashapes`
+* prefix `zs`
+* url `http://www.zetashapes.com`
+* license `http://www.zetashapes.com/license`
+
