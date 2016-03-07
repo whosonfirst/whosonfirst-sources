@@ -1,0 +1,9 @@
+{
+	"id": 420577535,
+	"fullname": "Wikidata",
+	"name": "wikidata",
+	"prefix": "wd",
+	"url": "https://www.wikidata.org/",
+	"license": "https://creativecommons.org/publicdomain/zero/1.0/",
+	"description": "Concordances against Wikidata; public domain structured data."
+}
