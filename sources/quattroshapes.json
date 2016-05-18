@@ -3,6 +3,7 @@
 	"fullname": "Quattroshapes",
 	"name": "quattroshapes",
 	"prefix": "qs",
+   	"key": "id",
 	"url": "http://www.quattroshapes.com/",
 	"license": "https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md"
 }

@@ -3,7 +3,8 @@
 	"fullname": "Mapshaper",
 	"name": "mapshaper",
 	"prefix": "ms",
-	"url": "",
+    	"key":"",
+	"url": "https://github.com/mbloch/mapshaper",
 	"license": "CC0",
 	"description": ""
 }

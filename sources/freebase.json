@@ -1,0 +1,9 @@
+{
+	"id": 840464287,
+	"fullname": "Freebase",
+	"name": "freebase",
+	"prefix": "fb",
+    	"key": "id",
+	"url": "https://en.wikipedia.org/wiki/Freebase",
+	"license": "http://creativecommons.org/licenses/by/2.5/"
+}

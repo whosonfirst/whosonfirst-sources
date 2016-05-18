@@ -3,6 +3,7 @@
 	"fullname": "Wikidata",
 	"name": "wikidata",
 	"prefix": "wd",
+    	"key": "id",
 	"url": "https://www.wikidata.org/",
 	"license": "https://creativecommons.org/publicdomain/zero/1.0/",
 	"description": "Concordances against Wikidata; public domain structured data."

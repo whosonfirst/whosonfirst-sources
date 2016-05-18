@@ -3,7 +3,8 @@
 	"fullname": "Null Island",
 	"name": "nullisland",
 	"prefix": "ni",
-	"url": "",
+	"key":"",
+	"url": "http://www.nullisland.com/",
 	"license": "",
         "description": ""
 }

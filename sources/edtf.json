@@ -3,6 +3,7 @@
 	"fullname": "Extended Date/Time Format",
 	"name": "edtf",
 	"prefix": "edtf",
+    	"key":"",
 	"url": "http://loc.gov/standards/datetime/",
 	"license": ""
 }

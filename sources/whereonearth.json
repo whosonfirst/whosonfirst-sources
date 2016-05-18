@@ -3,6 +3,7 @@
 	"fullname": "Yahoo! GeoPlanet (formerly Where On Earth)",
 	"name": "whereonearth",
 	"prefix": "woe",
+    	"key":"id",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
 	"license": "http://developer.yahoo.com/geo/geoplanet/data/"
 }

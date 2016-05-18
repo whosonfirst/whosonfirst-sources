@@ -3,6 +3,7 @@
 	"fullname": "Statistics Canada",
 	"name": "statcan",
 	"prefix": "statcan",
+    	"key":"",
 	"url": "http://statcan.gc.ca/",
 	"license": "http://www.statcan.gc.ca/eng/reference/licence-eng",
 	"description": ""

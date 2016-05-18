@@ -1,0 +1,10 @@
+{
+	"id": 840464303,
+	"fullname": "Mapzen Borders",
+	"name": "mapzenborders",
+	"prefix": "mzb",
+    	"key": "id",
+	"url": "https://mapzen.com/data/borders/",
+	"license": "CC0",
+	"description": ""
+}

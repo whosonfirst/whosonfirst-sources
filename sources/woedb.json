@@ -3,6 +3,7 @@
 	"fullname": "WOE DB",
 	"name": "woedb",
 	"prefix": "woedb",
+	"key":"id",
 	"url": "http://woe.spum.org/",
 	"license": "CC0",
 	"description": ""

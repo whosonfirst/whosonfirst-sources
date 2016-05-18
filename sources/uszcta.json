@@ -3,6 +3,7 @@
 	"fullname": "US ZIP Code Tabulation Area",
 	"name": "uszcta",
 	"prefix": "uszcta",
+    	"key":"id",
 	"url": "http://www.census.gov/geo/reference/zctas.html",
 	"license": "",
 	"description": ""

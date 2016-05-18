@@ -3,6 +3,7 @@
 	"fullname": "San Francisco Arts Commission",
 	"name": "sfac",
 	"prefix": "sfac",
+	"key":"id",
 	"url": "http://www.sfartscommission.org/",
 	"license": "",
 	"description": ""

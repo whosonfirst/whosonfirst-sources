@@ -3,6 +3,7 @@
 	"fullname": "Mini Tenders",
 	"name": "minitenders",
 	"prefix": "mt",
+    	"key":"id",
 	"url": "http://www.thebolditalic.com/articles/1101-mini-tenders",
 	"license": "",
 	"description": ""

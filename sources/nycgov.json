@@ -3,6 +3,7 @@
 	"fullname": "NYC OpenData",
 	"name": "nycgov",
 	"prefix": "nycgov",
+	"key":"id",
 	"url": "https://data.cityofnewyork.us/",
 	"license": "http://www.nyc.gov/html/misc/html/tou.html"
 }

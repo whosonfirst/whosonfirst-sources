@@ -3,7 +3,8 @@
 	"fullname": "Mapzen",
 	"name": "mapzen",
 	"prefix": "mz",
-	"url": "",
+    	"key":"",
+	"url": "https://www.mapzen.com/",
 	"license": "CC0",
 	"description": ""
 }

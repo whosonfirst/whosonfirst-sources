@@ -1,0 +1,9 @@
+{
+	"id": 840464229,
+	"fullname": "Federal Information Processing Standards",
+	"name": "fips",
+	"prefix": "fips",
+    	"key": "id",
+	"url": "http://www.nist.gov/itl/fips.cfm",
+	"license": "https://www.usa.gov/government-works"
+}

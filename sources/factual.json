@@ -3,6 +3,7 @@
 	"fullname": "Factual",
 	"name": "factual",
 	"prefix": "fct",
+    	"key": "id",
 	"url": "https://github.com/Factual/places",
 	"license": ""
 }

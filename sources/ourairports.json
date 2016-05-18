@@ -3,6 +3,7 @@
 	"fullname": "OurAirports",
 	"name": "ourairports",
 	"prefix": "oa",
+    	"key": "id",
 	"url": "http://ourairports.com/data/",
 	"license": "http://ourairports.com/"
 }

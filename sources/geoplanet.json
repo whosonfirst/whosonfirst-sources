@@ -3,6 +3,7 @@
 	"fullname": "Yahoo! GeoPlanet",
 	"name": "geoplanet",
 	"prefix": "gp",
+    	"key": "id",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
 	"license": "http://developer.yahoo.com/geo/geoplanet/data/"
 }

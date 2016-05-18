@@ -3,6 +3,7 @@
 	"fullname": "City of San Francisco",
 	"name": "sfgov",
 	"prefix": "sfgov",
+	"key":"",
 	"url": "https://data.sfgov.org/",
 	"license": "https://data.sfgov.org/terms-of-use",
 	"description": ""

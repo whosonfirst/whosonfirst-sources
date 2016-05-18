@@ -1,0 +1,9 @@
+{
+	"id": 840464261,
+	"fullname": "Getty Thesaurus of Geographic Names",
+	"name": "tgn",
+	"prefix": "tgn",
+    	"key":"id",
+	"url": "https://www.getty.edu/research/tools/vocabularies/tgn/index.html",
+	"license": "http://opendatacommons.org/licenses/by/1-0/"
+}

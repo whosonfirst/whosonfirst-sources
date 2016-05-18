@@ -1,0 +1,9 @@
+{
+	"id": 840464301,
+	"fullname": "Library of Congress",
+	"name": "loc",
+	"prefix": "loc",
+    	"key": "id",
+	"url": "http://www.loc.gov",
+	"license": "https://www.usa.gov/government-works"
+}
