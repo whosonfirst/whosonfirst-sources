@@ -1,0 +1,10 @@
+{
+	"id": 857004783,
+	"fullname": "Voorlopig Referentiebestand Gemeentegrenzen",
+	"name": "begov",
+	"prefix": "begov",
+    	"key":"id",
+	"url": "http://www.geopunt.be/download?container=referentiebestand-gemeenten&title=Voorlopig%20referentiebestand%20gemeentegrenzen",
+	"license": "https://downloadagiv.blob.core.windows.net/referentiebestand-gemeenten/VoorlopigRefBestandGemeentegrenzen_2016-01-29/Voorlopig_referentiebestand_gemeentegrenzen_toestand_29_01_2016_GewVLA_Shape.zip",
+	"description": ""
+}
