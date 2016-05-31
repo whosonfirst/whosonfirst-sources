@@ -1,0 +1,10 @@
+{
+	"id": 874342855,
+	"fullname": "Helsinki Region Infoshare",
+	"name": "hsgov",
+	"prefix": "hsgov",
+    	"key":"id",
+	"url": "http://ptp.hel.fi/avoindata/aineistot/Helsingin_kaupunginosat.zip",
+	"license": "http://www.hri.fi/en/dataset/helsingin-kaupunginosat",
+	"description": ""
+}
