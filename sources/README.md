@@ -226,14 +226,6 @@ _Missing - as in a placeholder for WOF records without a geometry_
 * url `http://ourairports.com/data/`
 * license `http://ourairports.com/`
 
-## Pediacities
-
-* id `907131617`
-* name `pedia`
-* prefix `pedia`
-* url `http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods`
-* license `http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods/resource/91778048-3c58-449c-a3f9-365ed203e914`
-
 ## Quattroshapes
 
 * id `404734183`
@@ -256,15 +248,6 @@ _Missing - as in a placeholder for WOF records without a geometry_
 * prefix `sfgov`
 * url `https://data.sfgov.org/`
 * license `https://data.sfgov.org/terms-of-use`
-
-## Seattle City GIS Program
-
-* id `874455653`
-* name `seagv`
-* prefix `seagv`
-* url `https://data.seattle.gov/dataset/data-seattle-gov-GIS-shapefile-datasets/f7tb-rnup`
-* license `https://data.seattle.gov/dataset/Neighborhoods/2mbt-aqqx`
-
 
 ## SimpleGeo
 
