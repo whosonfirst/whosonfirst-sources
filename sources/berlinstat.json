@@ -1,0 +1,10 @@
+{
+	"id": 907215807,
+	"fullname": "Statistik Berlin Brandenburg",
+	"name": "statistikberlin",
+	"prefix": "berln",
+    	"key":"id",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/opendata/geometrienOD.asp?Kat=6301",
+	"license": "https://www.statistik-berlin-brandenburg.de/produkte/opendata/geometrienOD.asp?Kat=6301",
+	"description": "Berlin Open Data. CC-BY license information and download link are include on the same webpage."
+}
