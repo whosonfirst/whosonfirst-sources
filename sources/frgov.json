@@ -1,0 +1,9 @@
+{
+	"id": 1108725001,
+	"fullname": "Open Data France",
+	"name": "frgov",
+	"prefix": "frgov",
+    "key": "id",
+	"url": "https://www.data.gouv.fr/en/datasets/fond-de-carte-des-codes-postaux/",
+	"license": "https://www.data.gouv.fr/en/terms/"
+}
