@@ -1,0 +1,10 @@
+{
+	"id": 1108728281,
+	"fullname": "Tampere City Survey GIS",
+	"name": "tmpgov",
+	"prefix": "tmpgov",
+	"key":"",
+	"url": "http://opendata.navici.com/tampere/opendata/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=opendata:KH_TILASTO&outputFormat=json",
+	"license": "http://palvelut2.tampere.fi/tietovaranto/tietovaranto.php?id=20&alasivu=1&vapaasana=tilastoalueet",
+	"description": ""
+}
