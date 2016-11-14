@@ -1,8 +1,8 @@
 {
 	"id": 1108739789,
 	"fullname": "United States Census Bureau",
-	"name": "census",
-	"prefix": "census",
+	"name": "uscensus",
+	"prefix": "uscensus",
 	"key":"",
 	"url": "https://www.census.gov/cgi-bin/geo/shapefiles/index.php",
 	"license": "https://www.census.gov/data/developers/about/terms-of-service.html",

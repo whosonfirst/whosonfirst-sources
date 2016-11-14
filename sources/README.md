@@ -78,16 +78,6 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 * url `http://www.cambridgema.gov/GIS/gisdatadictionary/Boundary/BOUNDARY_CDDNeighborhoods`
 * license `https://data.cambridgema.gov/Planning/Cambridge-Neighborhood-Polygons/4ys2-ebga`
 
-## United States Census Bureau
-
-_All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record._
-
-* id `1108739789`
-* name `census`
-* prefix `census`
-* url `https://www.census.gov/cgi-bin/geo/shapefiles/index.php`
-* license `https://www.census.gov/data/developers/about/terms-of-service.html`
-
 ## Swiss Confederation
 
 * id `772975927`
@@ -442,6 +432,16 @@ _https://data.smcgov.org/_
 * prefix `unlc`
 * url `http://www.unece.org/cefact/locode/welcome.html`
 * license `http://www.unece.org/cefact/locode/locode_since1981.html`
+
+## United States Census Bureau
+
+_All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record._
+
+* id `1108739789`
+* name `uscensus`
+* prefix `uscensus`
+* url `https://www.census.gov/cgi-bin/geo/shapefiles/index.php`
+* license `https://www.census.gov/data/developers/about/terms-of-service.html`
 
 ## US ZIP Code Tabulation Area
 
