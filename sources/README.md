@@ -259,7 +259,7 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 
 ## Mesoshapes
 
-_Mesoshapes are a product of Who's On First via Martin Gamache, Art of the Mappable._
+_Mesoshapes are a product of Who's On First under CC0._
 
 * id `1108756907`
 * name `meso`
