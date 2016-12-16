@@ -179,6 +179,16 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 * url `http://developer.yahoo.com/geo/geoplanet/`
 * license `http://developer.yahoo.com/geo/geoplanet/data/`
 
+## Statoids HASC
+
+_CC0 per email with Gwillim Law of Statoids on August 11, 2015: 'Yes. As far as I'm concerned, HASC codes are in the public domain - to encourage people or organizations to use them for data communication.'_
+
+* id `1108786417`
+* name `hasc`
+* prefix `hasc`
+* url `http://www.statoids.com/ihasc.html`
+* license `http://www.statoids.com/ihasc.html`
+
 ## Helsinki City Real Estate Department
 
 * id `1108726815`
