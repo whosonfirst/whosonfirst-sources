@@ -1,0 +1,10 @@
+{
+	"id": 1108800651,
+	"fullname": "SanGIS/SANDAG GIS Data Warehouse",
+	"name": "sdgis",
+	"prefix": "sdgis",
+	"key":"",
+	"url": "http://rdw.sandag.org/Account/GetFSFile.aspx?dir=Law&Name=SDPD_BEATS.zip",
+	"license": "http://www.sangis.org/Legal_Notice.htm",
+	"description": ""
+}
