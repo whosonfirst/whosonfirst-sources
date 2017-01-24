@@ -1,0 +1,10 @@
+{
+	"id": 1108802967,
+	"fullname": "Amsterdam Open Datakaart",
+	"name": "amsgis",
+	"prefix": "amsgis",
+	"key":"",
+	"url": "https://kaart.amsterdam.nl",
+	"license": "https://kaart.amsterdam.nl/datasets",
+	"description": "Layers are viewable from the link in the url field as Buurten (microhoods), Buurtcombinaties (neighbourhoods), and Stadsdelen en Haven (boroughs). Open source information as well as downloadable datasets are available from the link in the license field."
+}
