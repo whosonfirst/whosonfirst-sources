@@ -1,0 +1,10 @@
+{
+	"id": 1108808939,
+	"fullname": "Senatsverwaltung fur Stadtentwicklung und Umwelt Berlin",
+	"name": "ssuberlin",
+	"prefix": "ssuberlin",
+	"key":"",
+	"url": "http://daten.berlin.de/datensaetze?field_category_tid%5B%5D=231",
+	"license": "http://www.stadtentwicklung.berlin.de/geoinformation/download/nutzIII.pdf",
+	"description": "Bezirke (districts) and Ortsteile (localities) provided under an open data license"
+}
