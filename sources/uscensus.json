@@ -1,10 +1,21 @@
 {
-	"id": 1108739789,
-	"fullname": "United States Census Bureau",
-	"name": "uscensus",
-	"prefix": "uscensus",
-	"key":"",
-	"url": "https://www.census.gov/cgi-bin/geo/shapefiles/index.php",
-	"license": "https://www.census.gov/data/developers/about/terms-of-service.html",
-	"description": "All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record."
+    "id": 1108739789,
+    "fullname": "United States Census Bureau",
+    "name": "uscensus",
+    "prefix": "uscensus",
+    "key": "",
+    "url": "https://www.census.gov/",
+    "data_sources": [{
+        "default": "https://www.census.gov/cgi-bin/geo/shapefiles/index.php",
+        "alt-uscensus-display-terrestrial-zoom-10": "http://www2.census.gov/geo/tiger/GENZ2015/shp/cb_2015_us_state_500k.zip"
+    }],
+    "license": "https://www.census.gov/data/developers/about/terms-of-service.html",
+    "description": "All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record.",
+    "alt": [{
+        "extras": [
+            "scope",
+            "detail"
+        ],
+        "function": "display"
+    }]
 }
