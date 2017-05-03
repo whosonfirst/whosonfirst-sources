@@ -600,6 +600,14 @@ _Bezirke (districts) and Ortsteile (localities) provided under an open data lice
 * url `https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b`
 * license `https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb`
 
+## Surveying and Mapping Authority of the Republic of Slovenia
+
+* id `1108955989`
+* name `svn-sma`
+* prefix `svn-sma`
+* url ` http://egp.gu.gov.si/egp/`
+* license `https://creativecommons.org/licenses/by/2.5/si/legalcode`
+
 ## Getty Thesaurus of Geographic Names
 
 * id `840464261`
