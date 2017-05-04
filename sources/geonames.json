@@ -3,7 +3,8 @@
 	"fullname": "GeoNames",
 	"name": "geonames",
 	"prefix": "gn",
-    	"key": "id",
+	"key": "id",
 	"url": "http://www.geonames.org/",
-	"license": "http://www.geonames.org/about.html"
+	"license": "http://www.geonames.org/about.html",
+    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geonames.md"
 }

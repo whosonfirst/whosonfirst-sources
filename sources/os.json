@@ -5,5 +5,6 @@
 	"prefix": "os",
 	"key": "",
 	"url": "https://www.ordnancesurvey.co.uk",
-	"license": "https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html"
+	"license": "https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html",
+    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/os.md"
 }

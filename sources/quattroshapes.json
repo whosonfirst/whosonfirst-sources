@@ -5,5 +5,6 @@
 	"prefix": "qs",
    	"key": "id",
 	"url": "http://www.quattroshapes.com/",
-	"license": "https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md"
+	"license": "https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md",
+    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes.md"
 }

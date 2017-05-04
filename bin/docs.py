@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
     whoami = sys.argv[0]
     whoami = os.path.abspath(whoami)
-    
+
     bin = os.path.dirname(whoami)
     root = os.path.dirname(bin)
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
     now = datetime.datetime.now()
     ymd = now.strftime("%Y-%m-%d")
-    
+
     docs = open(readme, "w")
     docs.write("# sources\n\n")
 
@@ -49,15 +49,22 @@ if __name__ == '__main__':
         if details.get('description'):
             docs.write("_%s_\n\n" % (details['description']))
 
-        for k in ('id', 'name', 'prefix', 'url', 'license'):
+        for k in ('id', 'name', 'prefix'):
 
             if details[k] == '':
                 continue
 
             docs.write("* %s `%s`\n" % (k, details[k]))
 
+        if details.get('url'):
+            docs.write("* %s _%s_\n" % ('url', details['url']))
+
+        if details.get('license') and details.get('license').startswith("http"):
+            docs.write("* %s _%s_\n" % ('license', details['license']))
+        else:
+            docs.write("* %s `%s`\n" % ('license', details['license']))
+
+
         docs.write("\n")
 
     docs.close()
-        
-
