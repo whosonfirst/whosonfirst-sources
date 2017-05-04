@@ -5,5 +5,6 @@
 	"prefix": "zs",
 	"key":"id",
 	"url": "http://www.zetashapes.com",
-	"license": "http://www.zetashapes.com/license"
+	"license": "http://www.zetashapes.com/license",
+    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes.md"
 }

@@ -269,6 +269,8 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 
 ## GeoNames
 
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geonames.md_
+
 * id `404734175`
 * name `geonames`
 * prefix `gn`
@@ -276,6 +278,8 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 * license `http://www.geonames.org/about.html`
 
 ## Yahoo! GeoPlanet
+
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geoplanet.md_
 
 * id `404734177`
 * name `geoplanet`
@@ -380,7 +384,7 @@ _CC0 per email with Gwillim Law of Statoids on August 11, 2015: 'Yes. As far as 
 
 ## Mesoshapes
 
-_Mesoshapes are a product of Who's On First under CC0._
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso.md_
 
 * id `1108756907`
 * name `meso`
@@ -411,6 +415,8 @@ _Missing - as in a placeholder for WOF records without a geometry_
 * license `CC0`
 
 ## Natural Earth
+
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/naturalearth.md_
 
 * id `404734179`
 * name `naturalearth`
@@ -468,6 +474,8 @@ _CC0 1.0 Universal_
 
 ## Ordnance Survey
 
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/os.md_
+
 * id `874390485`
 * name `ordnancesurvey`
 * prefix `os`
@@ -483,6 +491,8 @@ _CC0 1.0 Universal_
 * license `http://www.ouka.fi/oulu/oulu-tietoa/kayttoehdot`
 
 ## OurAirports
+
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/ourairports.md_
 
 * id `404734181`
 * name `ourairports`
@@ -518,6 +528,8 @@ _Confirmed Public Domain by Kevin Martin of the Portland BPS on 2016-10-07 <Kevi
 * license `https://www.arcgis.com/home/item.html?id=c11815647b3949faa20b16cf50ab214d`
 
 ## Quattroshapes
+
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes.md_
 
 * id `404734183`
 * name `quattroshapes`
@@ -764,6 +776,8 @@ _Weighted means from Quattroshapes_
 * license `CC0`
 
 ## Zetashapes
+
+_https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes.md_
 
 * id `404734191`
 * name `zetashapes`
