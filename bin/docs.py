@@ -61,7 +61,6 @@ if __name__ == '__main__':
         
         if details.get('license') and details.get('license').startswith("http"):
             docs.write("* %s _%s_\n" % ('license', details['license']))
-        
         else:
             docs.write("* %s `%s`\n" % ('license', details['license']))
             
