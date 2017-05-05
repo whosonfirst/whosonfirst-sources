@@ -3,8 +3,9 @@
 	"fullname": "OurAirports",
 	"name": "ourairports",
 	"prefix": "oa",
-    "key": "id",
+	"key": "id",
 	"url": "http://ourairports.com/data/",
 	"license": "http://ourairports.com/",
-    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/ourairports.md"
+	"description": "OurAirports is a free site where visitors can explore the world's airports.",
+	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/ourairports_remarks.md"
 }

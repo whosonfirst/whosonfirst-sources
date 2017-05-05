@@ -6,5 +6,6 @@
 	"key":"id",
 	"url": "http://www.naturalearthdata.com/",
 	"license": "http://www.naturalearthdata.com/about/terms-of-use/",
-    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/naturalearth.md"
+	"description": "Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales, which features tightly integrated vector and raster data.",
+	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/naturalearth_remarks.md"
 }
