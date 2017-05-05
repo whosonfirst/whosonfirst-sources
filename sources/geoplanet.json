@@ -3,7 +3,9 @@
 	"fullname": "Yahoo! GeoPlanet",
 	"name": "geoplanet",
 	"prefix": "gp",
-    	"key": "id",
+	"key": "id",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
-	"license": "http://developer.yahoo.com/geo/geoplanet/data/"
+	"license": "http://developer.yahoo.com/geo/geoplanet/data/",
+	"description":"GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet.",
+	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geoplanet_remarks.md"
 }

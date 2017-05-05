@@ -5,5 +5,7 @@
 	"prefix": "zs",
 	"key":"id",
 	"url": "http://www.zetashapes.com",
-	"license": "http://www.zetashapes.com/license"
+	"license": "http://www.zetashapes.com/license",
+	"description":"Zetashapes is an experiment in crowdsourced US neighborhood polygons.",
+	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes_remarks.md"
 }
