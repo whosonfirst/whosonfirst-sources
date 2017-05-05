@@ -5,5 +5,6 @@
 	"prefix": "ne",
 	"key":"id",
 	"url": "http://www.naturalearthdata.com/",
-	"license": "http://www.naturalearthdata.com/about/terms-of-use/"
+	"license": "http://www.naturalearthdata.com/about/terms-of-use/",
+    "description": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/naturalearth.md"
 }
