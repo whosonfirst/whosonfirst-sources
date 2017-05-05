@@ -554,7 +554,7 @@ _Confirmed Public Domain by Kevin Martin of the Portland BPS on 2016-10-07 <Kevi
 
 ## Quattroshapes
 
-_A gazetteer of non-overlapping, authoritative polygons around a curated list of places._
+_A gazetteer of non-overlapping, authoritative polygons around a curated list of places. Quattroshapes includes open data from government and other sources, many of which require attribution. See [remarks](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md) for detail._
 
 * id `404734183`
 * name `quattroshapes`
