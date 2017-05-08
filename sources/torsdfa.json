@@ -5,6 +5,8 @@
 	"prefix": "torsdfa",
 	"key":"",
 	"url": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=04b489fe9c18b210VgnVCM1000003dd60f89RCRD&vgnextchannel=75d6e03bb8d1e310VgnVCM10000071d60f89RCRD",
-	"license": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD",
-	"description": ""
+    "license": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD",
+    "license_type": "Open Government Licence – Ontario, v1.0",
+    "license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"description": "Open Data portal for Toronto, ON."
 }

@@ -3,7 +3,10 @@
 	"fullname": "Yahoo! GeoPlanet (formerly Where On Earth)",
 	"name": "whereonearth",
 	"prefix": "woe",
-    	"key":"id",
+	"key":"id",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
-	"license": "http://developer.yahoo.com/geo/geoplanet/data/"
+	"license": "http://developer.yahoo.com/geo/geoplanet/data/",
+    "license_type": "",
+    "license_text": "",
+    "description": "Yahoo! GeoPlanet is a resource for managing all geo-permanent named places on Earth."
 }

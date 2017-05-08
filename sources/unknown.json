@@ -3,8 +3,10 @@
 	"fullname": "unknown",
 	"name": "unknown",
 	"prefix": "unknown",
-    	"key":"id",
+	"key":"id",
 	"url": "",
-	"license": "CC0",
-	"description": ""
+	"license": "",
+    "license_type": "",
+    "license_text": "",
+	"description": "Unknown."
 }
