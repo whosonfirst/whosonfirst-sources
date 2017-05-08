@@ -3,8 +3,10 @@
 	"fullname": "San Francisco Arts Commission",
 	"name": "sfac",
 	"prefix": "sfac",
-	"key":"accession_id",
+	"key": "accession_id",
 	"url": "http://www.sfartscommission.org/",
-	"license": "",
-	"description": ""
+    "license": "http://www.sfartscommission.org/terms-use",
+    "license_type": "various",
+	"license_text": "As a convenience to potential users, the City and County of San Francisco (“City”) makes a variety of datasets (“Data”) available for download through this website. Your use of the Data is subject to these terms of use, which constitute a legal agreement between You and the City and County of San Francisco (“City”). This legal agreement is referred to as the “Terms of Use.”",
+	"description": "Official website for the San Francisco Arts Commission."
 }
