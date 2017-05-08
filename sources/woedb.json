@@ -5,6 +5,8 @@
 	"prefix": "woedb",
 	"key":"id",
 	"url": "http://woe.spum.org/",
-	"license": "CC0",
-	"description": ""
+	"license":"",
+    "license_type":"CC0",
+    "license_text":"The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+	"description": "Clickable database of Where On Earth (woe) ids."
 }

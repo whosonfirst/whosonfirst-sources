@@ -1,10 +1,12 @@
 {
-    "id": 907219099,
-    "fullname": "Zolk Chicago Neighborhoods Map",
-    "name": "zolk",
-    "prefix": "zolk",
-    "key":"",
-    "url": "http://chicagomap.zolk.com/",
-    "license": "http://chicagomap.zolk.com/about.html",
-    "description": ""
+	"id": 907219099,
+	"fullname": "Zolk Chicago Neighborhoods Map",
+	"name": "zolk",
+	"prefix": "zolk",
+	"key":"",
+	"url": "http://chicagomap.zolk.com/",
+	"license": "http://chicagomap.zolk.com/about.html",
+	"license_type": "CC BY 3.0 US",
+	"license_text": "The resulting KML source data is licensed under a Creative Commons Attribution License. This means that you're free to use the data from this map as you wish, but credit to either Kevin Zolkiewicz or this web site is appreciated.",
+	"description": "An overlay of boundaries for Chicago’s 228 neighborhoods."
 }
