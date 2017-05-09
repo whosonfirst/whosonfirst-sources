@@ -53,8 +53,13 @@ if __name__ == '__main__':
 
             if details[k] == '':
                 continue
-
             docs.write("* %s `%s`\n" % (k, details[k]))
+
+        if details.get('license_type'):
+            docs.write("* %s _%s_\n" % ('license_type', details['license_type']))
+
+        if details.get('license_text'):
+            docs.write("* %s _%s_\n" % ('license_text', details['license_text']))
 
         if details.get('url'):
             docs.write("* %s _%s_\n" % ('url', details['url']))
@@ -66,7 +71,6 @@ if __name__ == '__main__':
             docs.write("* %s _%s_\n" % ('license', details['license']))
         else:
             docs.write("* %s `%s`\n" % ('license', details['license']))
-
 
         docs.write("\n")
 
