@@ -5,8 +5,8 @@
 	"prefix": "stpaulgov",
 	"key": "",
 	"url": "https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b",
-    "license": "https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb",
-    "license_type": "CC0 equivalent",
-    "license_text": "The City shall develop and implement practices allowing it to prioritize the proactive release of high quality, machine-readable, disclosable city data, making it freely available via an open license without restrictions on use, reuse, or redistribution, ensuring it is fully accessible to the broadest range of users possible.",
+	"license": "https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb",
+	"license_type": "CC0 equivalent",
+	"license_text": "The City shall develop and implement practices allowing it to prioritize the proactive release of high quality, machine-readable, disclosable city data, making it freely available via an open license without restrictions on use, reuse, or redistribution, ensuring it is fully accessible to the broadest range of users possible.",
 	"description": "The Open Information portal for the Saint Paul, MN government."
 }

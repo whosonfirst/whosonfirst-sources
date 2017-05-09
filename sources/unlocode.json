@@ -3,10 +3,10 @@
 	"fullname": "UN/LOCODE (United Nations Code for Trade and Transport Locations)",
 	"name": "unlocode",
 	"prefix": "unlc",
-	"key":"id",
+	"key": "id",
 	"url": "http://www.unece.org/cefact/locode/welcome.html",
 	"license": "http://www.unece.org/cefact/locode/locode_since1981.html",
-    "license_type": "CC0",
-    "license_text": "UN/LOCODE is freely available to all interested users.",
-    "description": "UN/LOCODE is based on a code structure set up by ECLAC and a list of locations originating in ESCAP, developed in UNCTAD in co-operation with transport organisations like IATA and the ICS and with active contributions from national governments and commercial bodies."
+	"license_type": "CC0",
+	"license_text": "UN/LOCODE is freely available to all interested users.",
+	"description": "UN/LOCODE is based on a code structure set up by ECLAC and a list of locations originating in ESCAP, developed in UNCTAD in co-operation with transport organisations like IATA and the ICS and with active contributions from national governments and commercial bodies."
 }

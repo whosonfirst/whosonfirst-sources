@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "https://github.com/Factual/places",
 	"license": "http://factual.com/tos",
-    "license_type": "Restricted",
-    "license_text": "All of the information and data made available via the Sites (“Site Data”) is provided solely to enable you to learn about Factual and the Services. You are not licensed to store, copy, or use any Site Data for any other purpose.",
-    "description": "Location data for Mobile Advertising, Developers, and Enterprise solutions."
+	"license_type": "Restricted",
+	"license_text": "All of the information and data made available via the Sites (“Site Data”) is provided solely to enable you to learn about Factual and the Services. You are not licensed to store, copy, or use any Site Data for any other purpose.",
+	"description": "Location data for Mobile Advertising, Developers, and Enterprise solutions."
 }

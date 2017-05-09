@@ -3,10 +3,10 @@
 	"fullname": "Mini Tenders",
 	"name": "minitenders",
 	"prefix": "mt",
-	"key":"id",
+	"key": "id",
 	"url": "http://www.thebolditalic.com/articles/1101-mini-tenders",
-    "license": "",
-    "license_type": "",
-    "license_text": "",
+	"license": "",
+	"license_type": "",
+	"license_text": "",
 	"description": "A Tenderloin of many neighbourhoods."
 }

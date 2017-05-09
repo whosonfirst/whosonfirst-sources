@@ -5,9 +5,9 @@
 	"prefix": "oa",
 	"key": "id",
 	"url": "http://ourairports.com/data/",
-    "license": "http://ourairports.com/",
-    "license_type": "CC0",
-    "license_text": "OurAirports is a public site, and by 'public', we mean PUBLIC.",
+	"license": "http://ourairports.com/",
+	"license_type": "CC0",
+	"license_text": "OurAirports is a public site, and by 'public', we mean PUBLIC.",
 	"description": "OurAirports is a free site where visitors can explore the world's airports. [...] This is an open-data web site, after all, and we don't believe that 'open' means 'we can benefit from it, but we'll hide it from everyone else'.",
 	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/ourairports_remarks.md"
 }

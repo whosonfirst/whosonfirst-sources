@@ -3,10 +3,10 @@
 	"fullname": "Atlanta Department of Planning and Community Development",
 	"name": "atldpcd",
 	"prefix": "atldpcd",
-	"key":"",
+	"key": "",
 	"url": "http://dpcd.coaplangis.opendata.arcgis.com/datasets/neighborhoods",
 	"license": "https://www.arcgis.com/home/item.html?id=716f417a1990446389ef7fd2c381d09f",
-    "license_type": "CC BY 4.0",
-    "license_text": "Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.",
+	"license_type": "CC BY 4.0",
+	"license_text": "Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.",
 	"description": "Neighborhoods within the City of Atlanta."
 }

@@ -5,8 +5,8 @@
 	"prefix": "frgov",
 	"key": "id",
 	"url": "https://www.data.gouv.fr/en/datasets/fond-de-carte-des-codes-postaux/",
-    "license": "https://www.data.gouv.fr/en/terms/",
-    "license_type": "CC BY 2.0",
-    "license_text": "The Open License is part of an international context and is compatible with the standards of open data licenses developed abroad, in particular those of the Government of the United Kingdom (Open Government License) and other international standards (ODC-BY, CC-BY 2.0).",
-    "description": "Open platform for French public data."
+	"license": "https://www.data.gouv.fr/en/terms/",
+	"license_type": "CC BY 2.0",
+	"license_text": "The Open License is part of an international context and is compatible with the standards of open data licenses developed abroad, in particular those of the Government of the United Kingdom (Open Government License) and other international standards (ODC-BY, CC-BY 2.0).",
+	"description": "Open platform for French public data."
 }

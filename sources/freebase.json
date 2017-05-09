@@ -5,8 +5,8 @@
 	"prefix": "fb",
 	"key": "id",
 	"url": "https://developers.google.com/freebase/",
-    "license": "https://developers.google.com/freebase/",
-    "license_type": "CC0 / CC BY",
-    "license_text": "Freebase constitutes a snapshot of the data stored in Freebase and the Schema that structures it, and are provided under the same CC-BY license. The Freebase/Wikidata mappings are provided under the CC0 license.",
-    "description": "Freebase was a large collaborative knowledge base consisting of data composed mainly by its community members. It was an online collection of structured data harvested from many sources, including individual, user-submitted wiki contributions. See also: http://creativecommons.org/licenses/by/2.5/."
+	"license": "https://developers.google.com/freebase/",
+	"license_type": "CC0 / CC BY",
+	"license_text": "Freebase constitutes a snapshot of the data stored in Freebase and the Schema that structures it, and are provided under the same CC-BY license. The Freebase/Wikidata mappings are provided under the CC0 license.",
+	"description": "Freebase was a large collaborative knowledge base consisting of data composed mainly by its community members. It was an online collection of structured data harvested from many sources, including individual, user-submitted wiki contributions. See also: http://creativecommons.org/licenses/by/2.5/."
 }

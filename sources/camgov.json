@@ -3,10 +3,10 @@
 	"fullname": "City of Cambridge Geographic Information System Department",
 	"name": "camgov",
 	"prefix": "camgov",
-	"key":"",
+	"key": "",
 	"url": "http://www.cambridgema.gov/GIS/gisdatadictionary/Boundary/BOUNDARY_CDDNeighborhoods",
 	"license": "https://data.cambridgema.gov/download/tif9-pmiw/application/pdf",
-    "license_type": "CC BY",
-    "license_text": "Any user of Data distributed by the City may modify, use and publish such Data without charge.",
+	"license_type": "CC BY",
+	"license_text": "Any user of Data distributed by the City may modify, use and publish such Data without charge.",
 	"description": "Neighbourhood data for the City of Cambrige, MA."
 }

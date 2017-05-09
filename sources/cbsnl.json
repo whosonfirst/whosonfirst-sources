@@ -3,10 +3,10 @@
 	"fullname": "Centraal Bureau voor de Statistiek",
 	"name": "cbsnl",
 	"prefix": "cbsnl",
-	"key":"",
+	"key": "",
 	"url": "https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1/resource/7f32452a-f035-4a23-bce9-1972f5189beb",
 	"license": "https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1",
-    "license_type": "CC BY 3.0",
-    "license_text": "With this license, a re-user is free to share, copy, distribute and transmit the dataset through any medium or file format. The dataset may be edited and may be used for commercial purposes. A reference to the creator of the data is required.",
+	"license_type": "CC BY 3.0",
+	"license_text": "With this license, a re-user is free to share, copy, distribute and transmit the dataset through any medium or file format. The dataset may be edited and may be used for commercial purposes. A reference to the creator of the data is required.",
 	"description": "This data portal consists of a register containing information about and references to data sets by Dutch authorities."
 }

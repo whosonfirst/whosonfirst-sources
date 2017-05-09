@@ -3,10 +3,10 @@
 	"fullname": "Laval Service de l'urbanisme",
 	"name": "can-lvlsu",
 	"prefix": "can-lvlsu",
-	"key":"",
+	"key": "",
 	"url": "https://www.donneesquebec.ca/recherche/fr/dataset/limites-des-anciennes-municipalites",
 	"license": "https://www.donneesquebec.ca/fr/licence/#cc-by",
-    "license_type": "CC BY",
-    "license_text": "This license allows other people to distribute, remix, arrange and adapt your work, even for commercial purposes, as long as you are credited with the original creation by quoting your name.",
+	"license_type": "CC BY",
+	"license_text": "This license allows other people to distribute, remix, arrange and adapt your work, even for commercial purposes, as long as you are credited with the original creation by quoting your name.",
 	"description": "The collaborative crossroads in Quebec open data."
 }

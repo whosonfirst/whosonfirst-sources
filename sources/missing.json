@@ -3,10 +3,10 @@
 	"fullname": "Missing",
 	"name": "missing",
 	"prefix": "xx",
-	"key":"",
+	"key": "",
 	"url": "",
 	"license": "",
-    "license_type": "",
-    "license_text": "",
+	"license_type": "",
+	"license_text": "",
 	"description": "Missing - as in a placeholder for WOF records without a geometry."
 }

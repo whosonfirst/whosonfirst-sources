@@ -3,7 +3,7 @@
 	"fullname": "NLS National Land Survey of Finland",
 	"name": "figov",
 	"prefix": "figov",
-    	"key":"id",
+	"key": "id",
 	"url": "http://www.maanmittauslaitos.fi/en/digituotteet/municipal-division-finland",
 	"license": "http://www.maanmittauslaitos.fi/en/professionals/digital-products/datasets-free-charge/open-data-licence.zip",
 	"description": ""

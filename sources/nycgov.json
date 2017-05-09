@@ -3,10 +3,10 @@
 	"fullname": "NYC OpenData",
 	"name": "nycgov",
 	"prefix": "nycgov",
-	"key":"id",
+	"key": "id",
 	"url": "https://data.cityofnewyork.us/",
-    "license": "http://legistar.council.nyc.gov/ViewReport.ashx?M=R&N=Text&GID=61&ID=1090992&GUID=B1263195-66B9-48AD-A381-57584D623443&Title=Legislation+Text",
-    "license_type": "CC0 equivalent",
-    "license_text": "Such public data sets shall be made available without any registration requirement, license requirement or restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set.",
-    "description": "Open Data portal for New York City, NY."
+	"license": "http://legistar.council.nyc.gov/ViewReport.ashx?M=R&N=Text&GID=61&ID=1090992&GUID=B1263195-66B9-48AD-A381-57584D623443&Title=Legislation+Text",
+	"license_type": "CC0 equivalent",
+	"license_text": "Such public data sets shall be made available without any registration requirement, license requirement or restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set.",
+	"description": "Open Data portal for New York City, NY."
 }

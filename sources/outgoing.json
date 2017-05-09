@@ -3,10 +3,10 @@
 	"fullname": "OUTgoing",
 	"name": "outgoing",
 	"prefix": "out",
-	"key":"",
+	"key": "",
 	"url": "http://outgoingnyc.com/",
-    "license": "",
-    "license_type": "",
-    "license_text": "Data is assumed to be in the Public Domain.",
+	"license": "",
+	"license_type": "",
+	"license_text": "Data is assumed to be in the Public Domain.",
 	"description": "OUTgoing: The Hidden History of New York's Gay Nightlife by Jeff Ferzoco."
 }

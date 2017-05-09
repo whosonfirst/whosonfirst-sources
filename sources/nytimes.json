@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "http://www.nytimes.com/",
 	"license": "https://www.nytimes.com/content/help/rights/terms/terms-of-service.html",
-    "license_type": "",
-    "license_text": "",
-    "description": "The New York Times"
+	"license_type": "",
+	"license_text": "",
+	"description": "The New York Times"
 }
