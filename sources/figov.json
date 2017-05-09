@@ -6,5 +6,7 @@
 	"key": "id",
 	"url": "http://www.maanmittauslaitos.fi/en/digituotteet/municipal-division-finland",
 	"license": "http://www.maanmittauslaitos.fi/en/professionals/digital-products/datasets-free-charge/open-data-licence.zip",
+    "license_type": "",
+    "license_text": "",
 	"description": ""
 }
