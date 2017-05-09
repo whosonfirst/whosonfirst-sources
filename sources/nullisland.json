@@ -5,6 +5,8 @@
 	"prefix": "ni",
 	"key":"",
 	"url": "http://www.nullisland.com/",
-	"license": "",
-        "description": ""
+    "license": "",
+    "license_type": "",
+    "license_text": "",
+	"description": "Home of Null Island."
 }

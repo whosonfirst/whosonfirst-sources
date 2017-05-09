@@ -3,7 +3,10 @@
 	"fullname": "Library of Congress",
 	"name": "loc",
 	"prefix": "loc",
-    	"key": "id",
+	"key": "id",
 	"url": "http://www.loc.gov",
-	"license": "https://www.usa.gov/government-works"
+	"license": "https://www.usa.gov/government-works",
+    "license_type": "",
+    "license_text": "",
+    "description": ""
 }

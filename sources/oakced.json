@@ -5,6 +5,8 @@
 	"prefix": "oakced",
 	"key":"",
 	"url": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9",
-	"license": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9/about",
-	"description": ""
+    "license": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9/about",
+    "license_type": "Public Domain",
+    "license_text": "",
+	"description": "Open Data portal for the City of Oakland, CA."
 }

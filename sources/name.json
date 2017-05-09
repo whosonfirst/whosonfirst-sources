@@ -3,8 +3,10 @@
 	"fullname": "name",
 	"name": "name",
 	"prefix": "name",
-    	"key":"id",
+	"key":"id",
 	"url": "",
-	"license": "CC0",
-	"description": ""
+    "license": "",
+    "license_type": "",
+    "license_text": "",
+	"description": "A name for a given record."
 }
