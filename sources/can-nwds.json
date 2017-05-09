@@ -3,8 +3,10 @@
 	"fullname": "City of New Westminster Development Services Department",
 	"name": "can-nwds",
 	"prefix": "can-nwds",
-	"key":"",
+	"key": "",
 	"url": "http://opendata.newwestcity.ca/datasets/neighbourhoods",
 	"license": "http://opendata.newwestcity.ca/licence",
-	"description": ""
+    "license_type": "OGL - City of New Westminster",
+    "license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"description": "Open Data portal for the City of New Westminster, BC."
 }

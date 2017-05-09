@@ -5,7 +5,9 @@
 	"prefix": "gp",
 	"key": "id",
 	"url": "http://developer.yahoo.com/geo/geoplanet/",
-	"license": "http://developer.yahoo.com/geo/geoplanet/data/",
+    "license": "http://developer.yahoo.com/geo/geoplanet/data/",
+    "license_type": "",
+    "license_text": "",
 	"description":"GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet.",
 	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geoplanet_remarks.md"
 }

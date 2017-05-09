@@ -5,6 +5,8 @@
 	"prefix": "oulugov",
 	"key":"",
 	"url": "http://www.ouka.fi/oulu/oulu-tietoa/avoin-data-aineisto",
-	"license": "http://www.ouka.fi/oulu/oulu-tietoa/kayttoehdot",
-	"description": ""
+    "license": "http://www.ouka.fi/oulu/oulu-tietoa/kayttoehdot",
+    "license_type": "CC BY 4.0",
+    "license_text": "The license allows you to share, copy and distribute the material remains in any medium and in the form of, and Modify, combine and edit the material and create the basis for new materials.",
+	"description": "Official website for the City of Oulu, Finland."
 }

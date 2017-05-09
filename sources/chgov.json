@@ -3,8 +3,10 @@
 	"fullname": "Swiss Confederation",
 	"name": "chgov",
 	"prefix": "chgov",
-    	"key":"",
+	"key":"",
 	"url": "http://data.geo.admin.ch",
 	"license": "http://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/",
-	"description": ""
+	"license_type": "CC0",
+    "license_text": "The information contained on the websites of the Federal Authorities is made available to the public.",
+    "description": "The Geoportal of the Swiss Federation."
 }

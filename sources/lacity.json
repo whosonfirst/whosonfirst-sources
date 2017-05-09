@@ -3,8 +3,10 @@
 	"fullname": "City of Los Angeles Neighborhood Councils (Certified)",
 	"name": "lacity",
 	"prefix": "lacity",
-	"key":"",
+	"key": "",
 	"url": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f",
-	"license": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about",
-	"description": ""
+    "license": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about",
+    "license_type": "CC0",
+    "license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+	"description": "Official Certified Neighborhood Council boundaries in the City of Los Angeles created and maintained by the Bureau of Engineering / GIS Mapping Division."
 }
