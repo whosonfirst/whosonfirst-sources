@@ -1,0 +1,9 @@
+{
+	"id": 1108962955,
+	"fullname": "Elections BC",
+	"name": "ebc",
+	"prefix": "ebc",
+    	"key": "id",
+	"url": "http://elections.bc.ca/",
+	"license": "http://142.34.128.33/docs/EBC-Open-Data-Licence.pdf"
+}
