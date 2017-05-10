@@ -5,8 +5,8 @@
 	"prefix": "mt",
 	"key": "id",
 	"url": "http://www.thebolditalic.com/articles/1101-mini-tenders",
-	"license": "",
+	"license": "http://www.thebolditalic.com/articles/1101-mini-tenders",
 	"license_type": "",
-	"license_text": "",
+	"license_text": "Data is assumed to be in the Public Domain.",
 	"description": "A Tenderloin of many neighbourhoods."
 }
