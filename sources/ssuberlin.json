@@ -6,7 +6,7 @@
 	"key": "",
 	"url": "http://daten.berlin.de/datensaetze?field_category_tid%5B%5D=231",
 	"license": "http://www.stadtentwicklung.berlin.de/geoinformation/download/nutzIII.pdf",
-	"license_type": "CC0 equivalent",
+	"license_type": "CC0 (assumed)",
 	"license_text": "Geodata and geodata services, including associated metadata, shall be used for: All currently known as well as for all future known commercial and not. Commercial use, as far as possible by special. Legal provisions, or contractual or legal rights. Third does not oppose it.",
 	"description": "Bezirke (districts) and Ortsteile (localities) provided under an open data license."
 }

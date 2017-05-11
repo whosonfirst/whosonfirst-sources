@@ -6,7 +6,7 @@
 	"key": "",
 	"url": "http://opendata.navici.com/tampere/opendata/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=opendata:KH_TILASTO&outputFormat=json",
 	"license": "http://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data/avoin-data-lisenssi.html",
-	"license_type": "CC0 equivalent",
+	"license_type": "CC0 (assumed)",
 	"license_text": "This is a worldwide, royalty-free, irrevocable, parallel license allowing the above-mentioned material to be freely available to 1. Copy and distribute. 2. Modify and utilize commercially and non-commercially to combine with other products. 3. Used as part of an application or service.",
 	"description": "Open Data portal for the City of Tampere, Finland."
 }

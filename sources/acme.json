@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "https://acme.com/",
 	"license": "https://acme.com/license.html",
-	"license_type": "modified version of the BSD license",
+	"license_type": "BSD (modified)",
 	"license_text": "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.",
 	"description": "Purveyors of fine freeware since 1972. On the net since 1991."
 }
