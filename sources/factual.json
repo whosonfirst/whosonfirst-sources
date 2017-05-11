@@ -4,7 +4,6 @@
 	"name": "factual",
 	"prefix": "fct",
 	"key": "id",
-	"concordance": "1",
 	"url": "https://github.com/Factual/places",
 	"license": "http://factual.com/tos",
 	"license_type": "Restricted",

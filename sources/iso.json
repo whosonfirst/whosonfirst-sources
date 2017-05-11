@@ -4,10 +4,9 @@
 	"name": "iso",
 	"prefix": "iso",
 	"key": "id",
-	"concordance": "1",
 	"url": "http://www.iso.org/",
 	"license": "https://www.iso.org/privacy-and-copyright.html",
 	"license_type": "Restricted",
-	"license_text": "This source is only used for concordance purposes. All content on ISO Online is copyright protected. The copyright is owned by ISO. Any use of the content, including copying of it in whole or in part, for example to another Internet site, is prohibited and would require written permission from ISO.",
+	"license_text": "All content on ISO Online is copyright protected. The copyright is owned by ISO. Any use of the content, including copying of it in whole or in part, for example to another Internet site, is prohibited and would require written permission from ISO.",
 	"description": "ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies."
 }
