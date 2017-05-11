@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "",
 	"license": "",
-	"license_type": "",
+	"license_type": "CC0",
 	"license_text": "",
-	"description": "A name for a given record."
+	"description": "Property prefix."
 }
