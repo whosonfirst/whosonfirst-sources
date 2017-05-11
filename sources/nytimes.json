@@ -4,9 +4,10 @@
 	"name": "nytimes",
 	"prefix": "nyt",
 	"key": "id",
+	"concordance": "1",
 	"url": "http://www.nytimes.com/",
 	"license": "https://www.nytimes.com/content/help/rights/terms/terms-of-service.html",
 	"license_type": "Restricted",
-	"license_text": "You may not sublicense, assign or transfer any licenses granted by NYTimes.com, and any attempt at such sublicense, assignment or transfer shall be null and void.",
-	"description": "The New York Times"
+	"license_text": "This source is only used for concordance purposes. You may not sublicense, assign or transfer any licenses granted by NYTimes.com, and any attempt at such sublicense, assignment or transfer shall be null and void.",
+	"description": "The New York Times."
 }
