@@ -253,6 +253,8 @@ _Datasets can be found under the shapefile or geodatabase directories, sorted by
 * id `1108962077`
 * name `canvec-hydro`
 * prefix `canvec-hydro`
+* license_type _Open Government Licence, Canada_
+* license_text _You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose._
 * url _http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b_
 * license _http://open.canada.ca/en/open-government-licence-canada_
 
@@ -306,9 +308,13 @@ _Open Data portal for the City of Denver, CO_
 
 ## Elections BC
 
+_Elections BC is an independent and non-partisan Office of the Legislature, British Colombia._
+
 * id `1108962955`
 * name `ebc`
 * prefix `ebc`
+* license_type _Elections BC Open Data Licence_
+* license_text _You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose_
 * url _http://elections.bc.ca/_
 * license _http://142.34.128.33/docs/EBC-Open-Data-Licence.pdf_
 
@@ -536,6 +542,8 @@ _Official Certified Neighborhood Council boundaries in the City of Los Angeles c
 * license _https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about_
 
 ## Los Angeles Times
+
+_The Los Angeles Times._
 
 * id `1108962957`
 * name `latimes`

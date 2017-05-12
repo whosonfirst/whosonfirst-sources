@@ -3,7 +3,8 @@
 	"fullname": "Los Angeles Times",
 	"name": "latimes",
 	"prefix": "latimes",
-    	"key": "id",
+	"key": "id",
 	"url": "http://www.latimes.com/",
-	"license": ""
+	"license": "",
+    "description": "The Los Angeles Times."
 }

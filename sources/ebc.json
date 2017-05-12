@@ -3,7 +3,10 @@
 	"fullname": "Elections BC",
 	"name": "ebc",
 	"prefix": "ebc",
-    	"key": "id",
+	"key": "id",
 	"url": "http://elections.bc.ca/",
-	"license": "http://142.34.128.33/docs/EBC-Open-Data-Licence.pdf"
+	"license": "http://142.34.128.33/docs/EBC-Open-Data-Licence.pdf",
+	"license_type": "Elections BC Open Data Licence",
+	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose",
+	"description": "Elections BC is an independent and non-partisan Office of the Legislature, British Colombia."
 }
