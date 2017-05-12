@@ -2,22 +2,13 @@
 
 Where things come from in Who's On First.
 
-## Source Example
+Click [here](sources/README.md) to see a full list of Who's On First sources.
 
-**See:** The `whosonfirst-sources` [template file](https://github.com/whosonfirst/whosonfirst-sources/blob/master/source_template.json) when adding a new source.
+### Adding a new source
 
-#### Atlanta Department of Planning and Community Development
-
-_Neighborhoods within the City of Atlanta._
-
-* id `1108797031`
-* name `atldpcd`
-* prefix `atldpcd`
-* license_type _CC BY 4.0_
-* license_text _Share, copy and redistribute the material in any medium or format. Adapt, remix, transform, and build upon the material for any purpose, even commercially._
-* url _http://dpcd.coaplangis.opendata.arcgis.com/datasets/neighborhoods_
-* license _https://www.arcgis.com/home/item.html?id=716f417a1990446389ef7fd2c381d09f_
-
+1. Create a new source .json file using the [template file](source_template.json).
+2. Fill out all required properties and optional properties, if available.
+3. Run the [Makefile](Makefile) using the `make all` command.
 
 ### Source Properties
 

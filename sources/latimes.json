@@ -5,6 +5,6 @@
 	"prefix": "latimes",
 	"key": "id",
 	"url": "http://www.latimes.com/",
-	"license": "",
+	"license": "N/A",
     "description": "The Los Angeles Times."
 }
