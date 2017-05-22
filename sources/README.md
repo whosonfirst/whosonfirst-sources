@@ -145,7 +145,7 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 * id `404734212`
 * name `btvneighborhoods`
 * prefix `btv`
-* license_type _CC0_
+* license_type _CC0 equivalent_
 * license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * url _https://gist.github.com/wboykinm/dfe44481d8ff759c4f1afea223a7c070_
 * license _http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html_
