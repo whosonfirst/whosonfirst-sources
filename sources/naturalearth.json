@@ -3,7 +3,7 @@
 	"fullname": "Natural Earth",
 	"name": "naturalearth",
 	"prefix": "ne",
-	"key": "id",
+	"key": "",
 	"url": "http://www.naturalearthdata.com/",
 	"license": "http://www.naturalearthdata.com/about/terms-of-use/",
 	"license_type": "Public Domain (assumed)",
