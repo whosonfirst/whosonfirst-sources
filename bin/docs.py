@@ -61,7 +61,7 @@ if __name__ == '__main__':
         if details.get('license_text'):
             docs.write("* %s _%s_\n" % ('license_text', details['license_text']))
 
-        if details.get('url'):
+        if not details.get('url') == "":
             docs.write("* %s _%s_\n" % ('url', details['url']))
 
         if details.get('remarks'):
