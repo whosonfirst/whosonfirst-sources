@@ -370,7 +370,7 @@ _The American National Standards Institute (ANSI) operates the National Standard
 * name `fips`
 * prefix `fips`
 * license_type _CC0_
-* license_text _Most U.S. government creative works such as writing or images are copyright-free._
+* license_text _United States government creative works, including writing, images, and computer code, are usually prepared by officers or employees of the United States government as part of their official duties. A government work is generally not subject to copyright in the United States and there is generally no copyright restriction on reproduction, derivative works, distribution, performance, or display of a government work._
 * url _http://www.nist.gov/itl/fips.cfm_
 * license _https://www.usa.gov/government-works_
 
@@ -548,8 +548,10 @@ _The Los Angeles Times._
 * id `1108962957`
 * name `latimes`
 * prefix `latimes`
+* license_type _Restricted_
+* license_text _If you operate a Web site and wish to link to the Site, you may do so provided you agree to cease such link upon request from us. No other use is permitted without prior written permission of tronc._
 * url _http://www.latimes.com/_
-* license `N/A`
+* license _http://www.tronc.com/central-terms-of-service/_
 
 ## Library of Congress
 
@@ -589,7 +591,7 @@ _ Mapzen is an open, sustainable, and accessible mapping platform. Our tools let
 
 ## Mapzen Borders
 
-_Country, region and city boundary data from OpenStreetMap, served monthly._
+_Country, region and city boundary data from OpenStreetMap, served monthly until October 2016._
 
 * id `840464303`
 * name `mapzenborders`
@@ -601,7 +603,7 @@ _Country, region and city boundary data from OpenStreetMap, served monthly._
 
 ## Mesoshapes
 
-_Mesoshapes are a product of Who's On First._
+_Mesoshapes are a product of Mapzen for Who's On First._
 
 * id `1108756907`
 * name `meso`
@@ -1093,7 +1095,7 @@ _Who's On First is a gazetteer of places. Not quite all the places in the world 
 * name `whosonfirst`
 * prefix `wof`
 * license_type _CC0_
-* license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
+* license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. Note that some included work is available under CC BY._
 * url _http://whosonfirst.mapzen.com/_
 * license _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 
@@ -1133,7 +1135,7 @@ _Clickable database of Where On Earth (woe) ids._
 
 ## Yerbashapes
 
-_Weighted means from Quattroshapes._
+_Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who's On First._
 
 * id `404734201`
 * name `yerbashapes`
