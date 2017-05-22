@@ -434,13 +434,13 @@ _The GeoNames geographical database covers all countries and contains over eleve
 
 ## Yahoo! GeoPlanet
 
-_GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet._
+_GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet. (Cached, accessed: 2017-05-11, via: https://web.archive.org/web/20111028163611/http://developer.yahoo.com/geo/geoplanet/data/)._
 
 * id `404734177`
 * name `geoplanet`
 * prefix `gp`
 * license_type _CC BY_
-* license_text _This page provides open access to the underlying data under a Creative Commons Attribution license so that you can incorporate WOEIDs and the GeoPlanet hierarchy into your own applications. (Cached, accessed: 2017-05-11, via: https://web.archive.org/web/20111028163611/http://developer.yahoo.com/geo/geoplanet/data/._
+* license_text _This page provides open access to the underlying data under a Creative Commons Attribution license so that you can incorporate WOEIDs and the GeoPlanet hierarchy into your own applications._
 * url _http://developer.yahoo.com/geo/geoplanet/_
 * remarks _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geoplanet_remarks.md_
 * license _http://developer.yahoo.com/geo/geoplanet/data/_
@@ -1075,11 +1075,13 @@ _A map of neighborhood boundaries in the District of Columbia._
 
 ## Yahoo! GeoPlanet (formerly Where On Earth)
 
+_Cached, accessed: 2017-05-11, via: https://web.archive.org/web/20111028163611/http://developer.yahoo.com/geo/geoplanet/data/._
+
 * id `404734187`
 * name `whereonearth`
 * prefix `woe`
 * license_type _CC BY_
-* license_text _This page provides open access to the underlying data under a Creative Commons Attribution license so that you can incorporate WOEIDs and the GeoPlanet hierarchy into your own applications. (Cached, accessed: 2017-05-11, via: https://web.archive.org/web/20111028163611/http://developer.yahoo.com/geo/geoplanet/data/._
+* license_text _This page provides open access to the underlying data under a Creative Commons Attribution license so that you can incorporate WOEIDs and the GeoPlanet hierarchy into your own applications._
 * url _http://developer.yahoo.com/geo/geoplanet/_
 * license _http://developer.yahoo.com/geo/geoplanet/data/_
 
