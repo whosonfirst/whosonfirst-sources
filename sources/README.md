@@ -447,13 +447,13 @@ _GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-r
 
 ## Statoids HASC
 
-_Administrative subdivisions of countries; a comprehensive world reference, 1900 to 1998._
+_Administrative subdivisions of countries; a comprehensive world reference, 1900 to 1998. Gwillim Law: 'As far as I'm concerned, HASC codes are in the public domain - to encourage people or organizations to use them for data communication.'_
 
 * id `1108827445`
 * name `hasc`
 * prefix `hasc`
 * license_type _CC0_
-* license_text _CC0 per email with Gwillim Law of Statoids on August 11, 2015: 'Yes. As far as I'm concerned, HASC codes are in the public domain - to encourage people or organizations to use them for data communication._
+* license_text _CC0 per email with Gwillim Law of Statoids on August 11, 2015._
 * url _http://www.statoids.com/_
 * license _http://www.statoids.com/ihasc.html_
 
