@@ -152,7 +152,7 @@ _Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-
 
 ## Burrito Justice
 
-_Burrito Justice - La Lengua, San Francisco, CA_
+_Burrito Justice - La Lengua, San Francisco, CA._
 
 * id `404734205`
 * name `burritojustice`
@@ -188,7 +188,7 @@ _Open Data Portal for Burnaby, B.C._
 
 ## District of North Vancouver Government
 
-_Open Data Portal for the District of North Vancouver_
+_Open Data Portal for the District of North Vancouver._
 
 * id `1108906765`
 * name `can-dnvgov`
@@ -284,7 +284,7 @@ _The Geoportal of the Swiss Federation._
 
 ## DBpedia
 
-_Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowledge Graph_
+_Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowledge Graph._
 
 * id `840464281`
 * name `dbpedia`
@@ -296,7 +296,7 @@ _Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowle
 
 ## Denver Department of Community Planning and Development
 
-_Open Data portal for the City of Denver, CO_
+_Open Data portal for the City of Denver, CO._
 
 * id `1108748977`
 * name `denvercpd`
@@ -320,7 +320,7 @@ _Elections BC is an independent and non-partisan Office of the Legislature, Brit
 
 ## Extended Date/Time Format
 
-_Property prefix. This website describes the current effort to develop a reasonably comprehensive date/time definition for the bibliographic community, as well as other interested communities, and submitting it for standardization or some other mode of formalization, for example a W3C note or an amendment to ISO 8601. _
+_Property prefix. This website describes the current effort to develop a reasonably comprehensive date/time definition for the bibliographic community, as well as other interested communities, and submitting it for standardization or some other mode of formalization, for example a W3C note or an amendment to ISO 8601._
 
 * id `404734173`
 * name `edtf`
@@ -332,7 +332,7 @@ _Property prefix. This website describes the current effort to develop a reasona
 
 ## Federal Aviation Administration
 
-_Homepage for the Federal Aviation Administration_
+_Homepage for the Federal Aviation Administration._
 
 * id `840464293`
 * name `faa`
@@ -752,7 +752,7 @@ _Official website for the City of Oulu, Finland._
 
 ## OurAirports
 
-_OurAirports is a free site where visitors can explore the world's airports. [...] This is an open-data web site, after all, and we don't believe that 'open' means 'we can benefit from it, but we'll hide it from everyone else'._
+_OurAirports is a free site where visitors can explore the world's airports. [...] This is an open-data web site, after all, and we don't believe that 'open' means 'we can benefit from it, but we'll hide it from everyone else._
 
 * id `404734181`
 * name `ourairports`
@@ -994,7 +994,7 @@ _Open Data portal for Toronto, ON._
 
 ## Transitland
 
-_Transitland brings together many sources of transit data to build a directory of operators and feeds that can be edited by transit enthusiasts and developers. _
+_Transitland brings together many sources of transit data to build a directory of operators and feeds that can be edited by transit enthusiasts and developers._
 
 * id `1108955939`
 * name `transitland`
@@ -1039,7 +1039,7 @@ _The leading source of quality data about the nation's people and economy from t
 
 ## US ZIP Code Tabulation Area
 
-_ZIP Code Tabulation Areas (ZCTAs) are generalized areal representations of United States Postal Service (USPS) ZIP Code service areas. _
+_ZIP Code Tabulation Areas (ZCTAs) are generalized areal representations of United States Postal Service (USPS) ZIP Code service areas._
 
 * id `554867137`
 * name `uszcta`
@@ -1051,7 +1051,7 @@ _ZIP Code Tabulation Areas (ZCTAs) are generalized areal representations of Unit
 
 ## Vancouver Planning and Development Services
 
-_Open Data portal for the City of Vancouver_
+_Open Data portal for the City of Vancouver._
 
 * id `1108906615`
 * name `vanpds`
