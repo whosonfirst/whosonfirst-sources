@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "http://www.latimes.com/",
 	"license": "http://www.tronc.com/central-terms-of-service/",
-    "license_type": "Restricted",
-    "license_text": "If you operate a Web site and wish to link to the Site, you may do so provided you agree to cease such link upon request from us. No other use is permitted without prior written permission of tronc.",
+	"license_type": "Restricted",
+	"license_text": "If you operate a Web site and wish to link to the Site, you may do so provided you agree to cease such link upon request from us. No other use is permitted without prior written permission of tronc.",
 	"description": "The Los Angeles Times."
 }
