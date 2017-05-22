@@ -43,7 +43,7 @@ _Property prefix._
 * id `1108832191`
 * name `addr`
 * prefix `addr`
-* license_type _CC0_
+* license_type _N/A_
 * license `N/A`
 
 ## Amsterdam Open Datakaart
