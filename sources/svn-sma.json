@@ -3,8 +3,10 @@
 	"fullname": "Surveying and Mapping Authority of the Republic of Slovenia",
 	"name": "svn-sma",
 	"prefix": "svn-sma",
-	"key":"",
-	"url": " http://egp.gu.gov.si/egp/",
+	"key": "",
+	"url": "http://egp.gu.gov.si/egp/",
 	"license": "https://creativecommons.org/licenses/by/2.5/si/legalcode",
-	"description": ""
+	"license_type": "CC BY 2.5 SI",
+	"license_text": "Licensor in accordance with the terms and conditions of this License grants the user free, nonexclusive, territorial and unlimited (for the duration of the rights stipulated by the Law on copyright) license to exercise the rights at work.",
+	"description": "The Surveying and Mapping Authority of the Republic of Slovenia's Open Data portal."
 }

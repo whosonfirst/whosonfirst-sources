@@ -3,8 +3,10 @@
 	"fullname": "US ZIP Code Tabulation Area",
 	"name": "uszcta",
 	"prefix": "uszcta",
-    	"key":"id",
+	"key": "id",
 	"url": "http://www.census.gov/geo/reference/zctas.html",
-	"license": "",
-	"description": ""
+	"license": "https://www.census.gov/data/developers/about/terms-of-service.html",
+	"license_type": "CC0",
+	"license_text": "All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record.",
+	"description": "ZIP Code Tabulation Areas (ZCTAs) are generalized areal representations of United States Postal Service (USPS) ZIP Code service areas."
 }

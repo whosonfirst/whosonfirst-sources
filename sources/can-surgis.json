@@ -3,8 +3,10 @@
 	"fullname": "City of Surrey GIS Section",
 	"name": "can-surgis",
 	"prefix": "can-surgis",
-	"key":"",
+	"key": "",
 	"url": "https://data.surrey.ca/dataset/surrey-city-boundary",
 	"license": "http://data.surrey.ca/pages/open-government-licence-surrey",
-	"description": ""
+	"license_type": "OGL - City of Surrey",
+	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"description": "Open data portal for the City of Surrey, BC."
 }

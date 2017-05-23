@@ -3,8 +3,10 @@
 	"fullname": "Foursquare",
 	"name": "foursquare",
 	"prefix": "4sq",
-    	"key":"id",
+	"key": "id",
 	"url": "http://www.foursquare.com",
-	"license": "",
-	"description": ""
+	"license": "https://foursquare.com/legal/terms",
+	"license_type": "CC BY",
+	"license_text": "Subject to these Terms of Use, Foursquare grants each user of the Site and/or Service a worldwide, non-exclusive, non-sublicensable and non-transferable license to use, modify and reproduce the Content, solely for personal, non-commercial use.",
+	"description": "A search-and-discovery service that compiles a database of locations and places worldwide."
 }

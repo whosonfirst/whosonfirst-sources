@@ -3,8 +3,10 @@
 	"fullname": "addr",
 	"name": "addr",
 	"prefix": "addr",
-    	"key":"id",
+	"key": "id",
 	"url": "",
-	"license": "CC0",
-	"description": ""
+	"license": "N/A",
+	"license_type": "N/A",
+	"license_text": "",
+	"description": "Property prefix."
 }

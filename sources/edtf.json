@@ -3,7 +3,10 @@
 	"fullname": "Extended Date/Time Format",
 	"name": "edtf",
 	"prefix": "edtf",
-    	"key":"",
+	"key": "",
 	"url": "http://loc.gov/standards/datetime/",
-	"license": ""
+	"license": "https://www.loc.gov/legal/",
+	"license_type": "CC0 1.0 Universal",
+	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+	"description": "Property prefix. This website describes the current effort to develop a reasonably comprehensive date/time definition for the bibliographic community, as well as other interested communities, and submitting it for standardization or some other mode of formalization, for example a W3C note or an amendment to ISO 8601."
 }

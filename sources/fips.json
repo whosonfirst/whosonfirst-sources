@@ -3,7 +3,10 @@
 	"fullname": "Federal Information Processing Standards",
 	"name": "fips",
 	"prefix": "fips",
-    	"key": "code",
+	"key": "code",
 	"url": "http://www.nist.gov/itl/fips.cfm",
-	"license": "https://www.usa.gov/government-works"
+	"license": "https://www.usa.gov/government-works",
+	"license_type": "CC0",
+	"license_text": "United States government creative works, including writing, images, and computer code, are usually prepared by officers or employees of the United States government as part of their official duties. A government work is generally not subject to copyright in the United States and there is generally no copyright restriction on reproduction, derivative works, distribution, performance, or display of a government work.",
+	"description": "The American National Standards Institute (ANSI) operates the National Standards System Network (NSSN). This powerful reference tool provides 24-hour access to over 65,000 references to standards and specifications from the U.S. government, U.S. private sector organizations and international standards organizations."
 }

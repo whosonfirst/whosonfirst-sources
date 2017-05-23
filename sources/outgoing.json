@@ -1,10 +1,12 @@
 {
-    "id": 1108952683,
-    "fullname": "OUTgoing",
-    "name": "outgoing",
-    "prefix": "out",
-    "key":"",
-    "url": "http://outgoingnyc.com/",
-    "license": "",
-    "description": "OUTgoing: The Hidden History of New York's Gay Nightlife by Jeff Ferzoco"
+	"id": 1108952683,
+	"fullname": "OUTgoing",
+	"name": "outgoing",
+	"prefix": "out",
+	"key": "",
+	"url": "http://outgoingnyc.com/",
+	"license": "N/A",
+	"license_type": "Public Domain (assumed)",
+	"license_text": "Data is assumed to be in the Public Domain.",
+	"description": "OUTgoing: The Hidden History of New York's Gay Nightlife by Jeff Ferzoco."
 }

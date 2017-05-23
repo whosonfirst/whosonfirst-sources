@@ -3,7 +3,10 @@
 	"fullname": "International Air Transport Association",
 	"name": "iata",
 	"prefix": "iata",
-    	"key": "code",
+	"key": "code",
 	"url": "http://www.iata.org/",
-	"license": ""
+	"license": "http://www.iata.org/Pages/terms.aspx",
+	"license_type": "Restricted",
+	"license_text": "All rights are reserved.",
+	"description": "The International Air Transport Association (IATA) is the trade association for the world's airlines, representing some 265 airlines or 83% of total air traffic."
 }

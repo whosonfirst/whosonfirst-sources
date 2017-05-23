@@ -3,7 +3,10 @@
 	"fullname": "Library of Congress",
 	"name": "loc",
 	"prefix": "loc",
-    	"key": "id",
+	"key": "id",
 	"url": "http://www.loc.gov",
-	"license": "https://www.usa.gov/government-works"
+	"license": "https://www.usa.gov/government-works",
+	"license_type": "CC0",
+	"license_text": "Most U.S. government creative works such as writing or images are copyright-free.",
+	"description": "The Library of Congress is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps and manuscripts in its collections. The Library is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office."
 }

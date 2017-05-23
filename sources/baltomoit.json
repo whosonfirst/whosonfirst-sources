@@ -3,8 +3,10 @@
 	"fullname": "Baltimore Mayor's Office of Information Technology",
 	"name": "baltomoit",
 	"prefix": "baltomoit",
-	"key":"",
+	"key": "",
 	"url": "https://data.baltimorecity.gov/Geographic/Baltimore-Study-Area/cdrh-gpzc",
 	"license": "https://data.baltimorecity.gov/Geographic/Baltimore-Study-Area/cdrh-gpzc/about",
-	"description": ""
+	"license_type": "Attribution 3.0 Unported",
+	"license_text": "THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ('CCPL' OR 'LICENSE'). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW.",
+	"description": "City of Baltimore Open Data Portal. This website is operated by the Mayor and City Council of Baltimore (the 'City') and the data is provided as a service to the public."
 }

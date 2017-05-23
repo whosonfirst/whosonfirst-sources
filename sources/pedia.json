@@ -3,8 +3,10 @@
 	"fullname": "Pediacities",
 	"name": "pedia",
 	"prefix": "pedia",
-	"key":"",
+	"key": "",
 	"url": "http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods",
 	"license": "http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods/resource/91778048-3c58-449c-a3f9-365ed203e914",
-	"description": ""
+	"license_type": "ODC-By, v1.0",
+	"license_text": "Subject to the terms and conditions of this License, the Licensor grants to You a worldwide, royalty-free, non-exclusive, terminable (but only under Section 9) license to Use the Database for the duration of any applicable copyright and Database Rights.",
+	"description": "An open dataset of administrative areas in New York City."
 }
