@@ -1,0 +1,12 @@
+{
+	"id": 1108970625,
+	"fullname": "Quattroshapes Point Gazetteer",
+	"name": "quattroshapes_gp",
+	"prefix": "qs_gp",
+   	"key": "",
+	"url": "http://www.quattroshapes.com/",
+	"license": "https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md",
+	"license_type": "CC BY 2.0",
+	"license_text": "Please include attribution in your app, site, or printed work.",
+	"description": "The Quattroshapes point gazetteer. A gazetteer of non-overlapping, authoritative polygons around a curated list of places."
+}
