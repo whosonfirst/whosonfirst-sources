@@ -862,6 +862,18 @@ _A gazetteer of non-overlapping, authoritative polygons around a curated list of
 * remarks _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md_
 * license _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
 
+## Quattroshapes Point Gazetteer
+
+_The Quattroshapes point gazetteer. A gazetteer of non-overlapping, authoritative polygons around a curated list of places._
+
+* id `1108970625`
+* name `quattroshapes_gp`
+* prefix `qs_gp`
+* license_type _CC BY 2.0_
+* license_text _Please include attribution in your app, site, or printed work._
+* url _http://www.quattroshapes.com/_
+* license _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
+
 ## SanGIS/SANDAG GIS Data Warehouse
 
 _The San Diego Geographic Information Source (SanGIS) is a Joint Powers Authority (JPA) of the City of San Diego and the County of San Diego responsible for maintaining a regional geographic information system (GIS) landbase and data warehouse._
