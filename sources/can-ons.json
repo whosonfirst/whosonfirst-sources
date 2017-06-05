@@ -1,0 +1,12 @@
+{
+	"id": 1108973847,
+	"fullname": "Ottawa Neighbourhood Study (ONS)",
+	"name": "can-ons",
+	"prefix": "can-ons",
+	"key":"",
+	"url": "Data provided by request at http://neighbourhoodstudy.ca/contact/",
+	"license": "http://neighbourhoodstudy.ca/ons-terms-of-use/",
+	"license_type": "CC BY equivalent",
+	"license_text": "....publicly available and accessible data...must give ONS credit for each use or reproduction of the datasets...",
+	"description": "Custom neighbourhood data provided by the Ottawa Neighbourhood Study organization for community enrichment."
+}
