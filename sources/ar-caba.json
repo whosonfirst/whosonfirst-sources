@@ -1,0 +1,12 @@
+{
+	"id": 1108969549,
+	"fullname": "Ciudad Autónoma de Buenos Aires, Iniciativa de Datos Públicos y Transparencia",
+	"name": "arg-caba",
+	"prefix": "arg-caba",
+	"key": "",
+	"url": "https://data.buenosaires.gob.ar/dataset/barrios",
+	"license": "https://data.buenosaires.gob.ar/tyc",
+	"license_type": "CC BY",
+	"license_text": "La reutilización autorizada puede incluir la copia, difusión, modificación, adaptación, extracción, reordenamiento y combinación de la información contenida en el sitio ... Debe citarse la fuente de los documentos objeto de la reutilización.",
+	"description": "Open Data portal for the City of Buenos Aires, Argentina."
+}
