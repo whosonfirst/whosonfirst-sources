@@ -61,8 +61,8 @@ _Layers are viewable from the link in the url field as Buurten (microhoods), Buu
 _Open Data portal for the City of Buenos Aires, Argentina._
 
 * id `1108969549`
-* name `ar-caba`
-* prefix `ar-caba`
+* name `arg-caba`
+* prefix `arg-caba`
 * license_type _CC BY_
 * license_text _La reutilización autorizada puede incluir la copia, difusión, modificación, adaptación, extracción, reordenamiento y combinación de la información contenida en el sitio ... Debe citarse la fuente de los documentos objeto de la reutilización._
 * url _https://data.buenosaires.gob.ar/dataset/barrios_
