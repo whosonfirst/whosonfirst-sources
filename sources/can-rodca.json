@@ -1,0 +1,12 @@
+{
+	"id": 1126113619,
+	"fullname": "City of Regina Open Data - Community Associations",
+	"name": "can-rodca",
+	"prefix": "can-rodca",
+	"key":"",
+	"url": "http://open.regina.ca/dataset/community-associations",
+	"license": "http://www.regina.ca/residents/open-government/open-government-licence/",
+	"license_type": "Open Government Licence - City of Regina",
+	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the data sets in any medium, mode or format for any lawful purpose... Acknowledge the source of the Information by including any attribution statement specified by the Information Provider and, where possible, provide a link to this licence.",
+	"description": "Boundaries provided by the City of Regina to delineate community associations."
+}
