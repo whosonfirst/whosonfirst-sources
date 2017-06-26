@@ -1,0 +1,12 @@
+{
+	"id": 1126129879,
+	"fullname": "City of Victoria Open Data Catalogue",
+	"name": "can-vicodc",
+	"prefix": "can-vicodc",
+	"key":"",
+	"url": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html",
+	"license": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue/open-data-licence.html",
+	"license_type": "Open Government Licence – City of Victoria",
+	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider and, where possible, provide a link to this licence.",
+	"description": "Neighbourhood boundary data provided by the City of Victoria Open Data Catalogue."
+}
