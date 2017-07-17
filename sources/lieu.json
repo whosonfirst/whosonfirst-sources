@@ -3,8 +3,8 @@
 	"fullname": "lieu",
 	"name": "lieu",
 	"prefix": "lieu",
-	"key": "id",
-	"url": "",
+	"key": "guid",
+	"url": "https://github.com/openvenues/lieu",
 	"license": "",
 	"description": "Property prefix."
 }
