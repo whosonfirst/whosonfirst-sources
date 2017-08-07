@@ -3,7 +3,7 @@
 	"fullname": "Statoids HASC",
 	"name": "hasc",
 	"prefix": "hasc",
-	"key": "",
+	"key": "id",
 	"url": "http://www.statoids.com/",
 	"license": "http://www.statoids.com/ihasc.html",
 	"license_type": "CC0",
