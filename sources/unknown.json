@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "",
 	"license": "N/A",
-	"license_type": "",
-	"license_text": "",
-	"description": "Unknown."
+	"license_type": "N/A",
+	"license_text": "N/A",
+	"description": "Used when a property value is not known. A placeholder for 'we do not know'."
 }
