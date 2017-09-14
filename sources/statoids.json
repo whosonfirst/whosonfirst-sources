@@ -4,7 +4,7 @@
 	"name": "statoids",
 	"prefix": "statoids",
 	"key": "",
-	"url": "https://www.statoids.com",
+	"url": "http://www.statoids.com",
 	"license": "Data provided under special license agreement with http://www.statoids.com",
 	"license_type": "CC-BY",
 	"license_text": "The Licensed Materials are licensed, not sold to Mapzen. Statoids grants to Mapzen world-wide, fully-paid, perpetual, non-exclusive right to use the Licensed Materials for any purpose. The parties acknowledge and agree that such rights include, but are not limited to the right to (a) copy, duplicate, reproduce or publish the Licensed Materials or any of their contents; (b) distribute, assign transfer, sub-license the Licensed Materials, the contents of the Licensed Materials or copies thereof, to third parties by any means whatsoever; (d) change, modify, adapt, translate, reverse engineer, disassemble or decompile the Licensed Materials or create derivative works based on the Licensed Materials, or copies thereof, or (e) bundle, repackage, or include the Licensed Materials with any software in any way. By way of explanation, and not limitation, the parties acknowledge that the intent of this license is to give Mapzen all rights in the data other than title. Mapzen agrees that it shall use commercially reasonable efforts to attribute Statoids' ownership of the Licensed Material whenever it publishes the Licensed Materials.",
