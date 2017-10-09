@@ -1,8 +1,8 @@
 {
 	"id": 1158832835,
 	"fullname": "Global Administrative Unit Layers - Food and Agriculture Organization",
-	"name": "Global Administrative Unit Layers",
-	"prefix": "GAUL",
+	"name": "gaul",
+	"prefix": "gaul",
 	"key": "id",
 	"url": "http://www.fao.org/countryprofiles/iso3list/en/",
 	"license": "http://www.fao.org/contact-us/terms/en/",

@@ -1,8 +1,8 @@
 {
 	"id": 1158832825,
 	"fullname": "International Olympics Committee",
-	"name": "International Olympics Committee",
-	"prefix": "IOC",
+	"name": "ioc",
+	"prefix": "ioc",
 	"key": "id",
 	"url": "https://www.olympic.org/the-ioc",
 	"license": "https://www.olympic.org/terms-of-service",

@@ -1,8 +1,8 @@
 {
 	"id": 1158832833,
 	"fullname": "World Meteorological Organization",
-	"name": "World Meteorological Organization",
-	"prefix": "WMO",
+	"name": "wmo",
+	"prefix": "wmo",
 	"key": "id",
 	"url": "http://icoads.noaa.gov/metadata/wmo47/wmo_quarterly/47CodeTables9903.html",
 	"license": "https://public.wmo.int/en/copyright",

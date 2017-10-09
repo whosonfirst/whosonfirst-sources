@@ -1,8 +1,8 @@
 {
 	"id": 1158832839,
 	"fullname": "Dial Codes",
-	"name": "Dial Codes",
-	"prefix": "Dial",
+	"name": "dial",
+	"prefix": "dial",
 	"key": "",
 	"url": "https://www.itu.int/itudoc/itu-t/ob-lists/icc/e164_763.html",
 	"license": "https://www.itu.int/en/Pages/copyright.aspx",

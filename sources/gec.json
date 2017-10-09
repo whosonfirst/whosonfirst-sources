@@ -1,8 +1,8 @@
 {
 	"id": 1158832823,
 	"fullname": "Geopolitical Entities and Codes",
-	"name": "Geopolitical Entities and Codes",
-	"prefix": "GEC",
+	"name": "gec",
+	"prefix": "gec",
 	"key": "",
 	"url": "http://geonames.nga.mil/gns/html/countrycodes.html",
 	"license": "http://geonames.nga.mil/gns/html/namefiles.html",

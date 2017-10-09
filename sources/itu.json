@@ -1,8 +1,8 @@
 {
 	"id": 1158832821,
 	"fullname": "International Telecommunications Union",
-	"name": "International Telecommunications Union",
-	"prefix": "ITU",
+	"name": "itu",
+	"prefix": "itu",
 	"key": "id",
 	"url": "https://www.itu.int/online/mm/scripts/gensel8",
 	"license": "https://www.itu.int/en/Pages/copyright.aspx",

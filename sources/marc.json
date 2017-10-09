@@ -1,8 +1,8 @@
 {
 	"id": 1158832837,
 	"fullname": "Machine-Readable Cataloging - Library of Congress",
-	"name": "Machine-Readable Cataloging",
-	"prefix": "MARC",
+	"name": "marc",
+	"prefix": "marc",
 	"key": "id",
 	"url": "http://www.loc.gov/marc/countries/cou_home.html",
 	"license": "https://www.loc.gov/legal/",
