@@ -1,0 +1,12 @@
+{
+	"id": 1158832835,
+	"fullname": "Global Administrative Unit Layers - Food and Agriculture Organization",
+	"name": "Global Administrative Unit Layers",
+	"prefix": "GAUL",
+	"key": "id",
+	"url": "http://www.fao.org/countryprofiles/iso3list/en/",
+	"license": "http://www.fao.org/contact-us/terms/en/",
+	"license_type": "CC0",
+	"license_text": "FAO encourages unrestricted use of news releases provided on the FAO website, and no formal permission is required to reproduce these materials.",
+	"description": "Country codes used be the Global Administrative Unit Layers from the Food and Agriculture Organization. The entity codes are integers, assigned sequentially, with no duplication between layers; that is, no country has the same code as any primary subdivision, and so on."
+}

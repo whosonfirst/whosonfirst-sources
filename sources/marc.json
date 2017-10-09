@@ -1,0 +1,12 @@
+{
+	"id": 1158832837,
+	"fullname": "Machine-Readable Cataloging - Library of Congress",
+	"name": "Machine-Readable Cataloging",
+	"prefix": "MARC",
+	"key": "id",
+	"url": "http://www.loc.gov/marc/countries/cou_home.html",
+	"license": "https://www.loc.gov/legal/",
+	"license_type": "CC0",
+	"license_text": "Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.",
+	"description": "MARC is a standard for encoding bibliographic materials in electronic form. The Library of Congress maintains the MARC code list for countries."
+}

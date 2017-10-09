@@ -1,0 +1,12 @@
+{
+	"id": 1158832823,
+	"fullname": "Geopolitical Entities and Codes",
+	"name": "Geopolitical Entities and Codes",
+	"prefix": "GEC",
+	"key": "",
+	"url": "http://geonames.nga.mil/gns/html/countrycodes.html",
+	"license": "http://geonames.nga.mil/gns/html/namefiles.html",
+	"license_type": "CC0",
+	"license_text": "Foreign geographic names data is freely available.",
+	"description": "Formerly FIPS PUB 10-4, these country codes were used by the National Geospatial-Intelligence Agency (NGA) to define 'Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions'. GEC maintenance was discontinued on 31 December 2014."
+}

@@ -1,0 +1,12 @@
+{
+	"id": 1158832821,
+	"fullname": "International Telecommunications Union",
+	"name": "International Telecommunications Union",
+	"prefix": "ITU",
+	"key": "id",
+	"url": "https://www.itu.int/online/mm/scripts/gensel8",
+	"license": "https://www.itu.int/en/Pages/copyright.aspx",
+	"license_type": "Restricted",
+	"license_text": "ITU holds copyright in the information available on this Web site, unless otherwise stated. Copyright in any third-party materials found on this Web site must also be respected.",
+	"description": "ITU country codes are used to identify radio transmitter locations."
+}
