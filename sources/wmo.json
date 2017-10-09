@@ -1,0 +1,12 @@
+{
+	"id": 1158832833,
+	"fullname": "World Meteorological Organization",
+	"name": "wmo",
+	"prefix": "wmo",
+	"key": "id",
+	"url": "http://icoads.noaa.gov/metadata/wmo47/wmo_quarterly/47CodeTables9903.html",
+	"license": "https://public.wmo.int/en/copyright",
+	"license_type": "CC BY-NC-ND 4.0",
+	"license_text": "Reproduction of short excerpts of WMO materials, figures and photographs on this website is authorized free of charge and without formal written permission provided that the original source is acknowledged. Reproduction of videos files are authorized free of charge and without formal written permission provided that the original source is acknowledged and subject to the standard creative commons licensing conditions Creative Commons License.",
+	"description": "Country abbreviations used in weather reports from the World Meteorological Organization."
+}

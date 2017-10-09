@@ -1,0 +1,12 @@
+{
+	"id": 1158832839,
+	"fullname": "Dial Codes",
+	"name": "dial",
+	"prefix": "dial",
+	"key": "",
+	"url": "https://www.itu.int/itudoc/itu-t/ob-lists/icc/e164_763.html",
+	"license": "https://www.itu.int/en/Pages/copyright.aspx",
+	"license_type": "Restricted",
+	"license_text": "ITU holds copyright in the information available on this Web site, unless otherwise stated. Copyright in any third-party materials found on this Web site must also be respected.",
+	"description": "In most places that allow direct-dialed international calls, you must first dial an international access code. These access codes are maintained for the member countries or regions by the International Telecommunication Union (ITU)."
+}
