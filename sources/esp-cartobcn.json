@@ -6,7 +6,7 @@
 	"key":"",
 	"url": "http://w20.bcn.cat/cartobcn/",
 	"license": "http://w133.bcn.cat/geoportal/descargas/en_gb_cond_us_carto.pdf",
-	"license_type": "CC-BY",
+	"license_type": "CC BY",
 	"license_text": "...their use for commercial and non-commercial purposes...their modification, transformation and adaptation...so long as reference is made to Barcelona City Council's authorship...",
 	"description": "Neighbourhood (district) data as provided by the Barcelona City Council (CartoBCN)."
 }

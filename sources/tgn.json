@@ -6,7 +6,7 @@
 	"key": "id",
 	"url": "https://www.getty.edu/research/tools/vocabularies/tgn/index.html",
 	"license": "http://opendatacommons.org/licenses/by/1-0/",
-	"license_type": "ODC-By v1.0",
+	"license_type": "ODC-By, v1.0",
 	"license_text": "The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this Database subject only to the attribution requirements set out in Section 4.",
 	"description": "The TGN is an evolving vocabulary, growing and changing thanks to contributions from Getty projects and other institutions."
 }

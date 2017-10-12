@@ -5,8 +5,8 @@
 	"prefix": "figov",
 	"key": "id",
 	"url": "http://www.maanmittauslaitos.fi/en/digituotteet/municipal-division-finland",
-	"license": "http://www.maanmittauslaitos.fi/en/professionals/digital-products/datasets-free-charge/open-data-licence.zip",
-	"license_type": "",
-	"license_text": "",
-	"description": ""
+	"license": "http://www.maanmittauslaitos.fi/en/opendata-licence-cc40",
+	"license_type": "CC BY 4.0",
+	"license_text": "Mention the name of the Licensor, the name of the dataset(s) and the time when the National Land Survey has delivered the dataset(s) (e.g.: contains data from the National Land Survey of Finland Topographic Database",
+	"description": "National Land Survey of Finland performs various kinds of cadastral surveys such as parcelling and reallocations of pieces of land, produces map data and promotes the joint use of such data."
 }
