@@ -5,8 +5,8 @@
 	"prefix": "companieshouse",
 	"key": "number",
 	"url": "https://data.london.gov.uk/dataset/directory-of-london-businesses",
-	"license": "",
-	"license_type": "",
-	"license_text": "",
-	"description": ""
+	"license": "https://data.london.gov.uk/about/terms-and-conditions/",
+	"license_type": "CC0",
+	"license_text": "May use the data contained in this site for any purpose, providing it does not infringe the terms and conditions.",
+	"description": "A directory of business listings in London."
 }

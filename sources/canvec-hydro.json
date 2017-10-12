@@ -6,7 +6,7 @@
 	"key":"",
 	"url": "http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b",
 	"license": "http://open.canada.ca/en/open-government-licence-canada",
-	"license_type": "Open Government Licence, Canada",
+	"license_type": "Open Government Licence - Canada",
 	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
 	"description": "Datasets can be found under the shapefile or geodatabase directories, sorted by precision and location."
 }
