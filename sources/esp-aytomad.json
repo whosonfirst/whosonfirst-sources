@@ -1,0 +1,12 @@
+{
+	"id": 1158844927,
+	"fullname": "Portal de datos abiertos del Ayuntamiento de Madrid",
+	"name": "esp-aytomad",
+	"prefix": "esp-aytomad",
+	"key":"",
+	"url": "http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=46b55cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default",
+	"license": "http://datos.madrid.es/egob/catalogo/aviso-legal",
+	"license_type": "CC0 (equivalent)",
+	"license_text": "Las condiciones generales permiten la reutilización de los documentos para fines comerciales y no comerciales. Se entiende por reutilización el uso de documentos que obran en poder del Ayuntamiento de Madrid, siempre que dicho uso no constituya una actividad administrativa pública.",
+	"description": "Neighbourhood and district data provided by the City of Madrid."
+}
