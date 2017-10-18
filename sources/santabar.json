@@ -1,0 +1,12 @@
+{
+	"id": 1158846735,
+	"fullname": "The City of Santa Barbara",
+	"name": "santabar",
+	"prefix": "santabar",
+	"key": "",
+	"url": "https://maps.santabarbaraca.gov/Html5Viewer/Index.html?configBase=/Geocortex/Essentials/REST/sites/City_of_Santa_Barbara__Public/viewers/SantaBarbaraPublic/virtualdirectory/Resources/Config/Default",
+	"license": "https://www.santabarbaraca.gov/howdoi/get/webhelp/policy.asp",
+	"license_type": "Public Domain",
+	"license_text": "",
+	"description": "Open Data portal for the City of Santa Barbara, CA."
+}
