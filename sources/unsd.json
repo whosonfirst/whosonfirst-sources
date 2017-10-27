@@ -1,0 +1,12 @@
+{
+	"id": 1158856069,
+	"fullname": "UNSD (United Nations Statistics Division)",
+	"name": "unsd",
+	"prefix": "unsd",
+	"key": "id",
+	"url": "https://unstats.un.org/unsd/methodology/m49/",
+	"license": "http://www.un.org/en/sections/about-website/terms-use/",
+	"license_type": "Restricted",
+	"license_text": "The United Nations reserves the right to deny in its sole discretion any user access to this Site or any portion thereof without notice.",
+	"description": "The United Nations Statistics Division compiles and disseminates global statistical information, develops standards and norms for statistical activities, and supports efforts to strengthen national statistical systems."
+}
