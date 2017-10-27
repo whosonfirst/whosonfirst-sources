@@ -1442,7 +1442,7 @@ _The United Nations Statistics Division compiles and disseminates global statist
 
 * id `1158856069`
 * name `unsd`
-* prefix `unsd`
+* prefix `m49`
 * license_type _Restricted_
 * license_text _The United Nations reserves the right to deny in its sole discretion any user access to this Site or any portion thereof without notice._
 * url _https://unstats.un.org/unsd/methodology/m49/_
