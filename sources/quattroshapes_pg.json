@@ -3,7 +3,7 @@
 	"fullname": "Quattroshapes Point Gazetteer",
 	"name": "quattroshapes_pg",
 	"prefix": "qs_pg",
-   	"key": "",
+   	"key": "id",
 	"url": "http://www.quattroshapes.com/",
 	"license": "https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md",
 	"license_type": "CC BY 2.0",
