@@ -1,0 +1,10 @@
+{
+	"id": 1158861161,
+	"fullname": "OpenStreetMap",
+	"name": "osm",
+	"prefix": "osm",
+	"key": "id",
+	"url": "https://openstreetmap.org",
+	"license": "ODbL",
+	"description": "Property prefix (for concordances)."
+}
