@@ -1,0 +1,12 @@
+{
+	"id": 1158868581,
+	"fullname": "DataBC - British Colombia Open Data Catalogue",
+	"name": "can-databc",
+	"prefix": "can-databc",
+	"key": "",
+	"url": "https://catalogue.data.gov.bc.ca/dataset?download_audience=Public",
+	"license": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc",
+	"license_type": "Open Government License - British Columbia",
+	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"description": "Open Data Portal for British Colombia, Canada"
+}
