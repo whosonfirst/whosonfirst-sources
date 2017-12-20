@@ -1,0 +1,12 @@
+{
+	"id": 1158894137,
+	"fullname": "London Datastore - Greater London Authority",
+	"name": "gbr-datalondon",
+	"prefix": "gbr-datalondon",
+	"key":"",
+	"url": "https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london",
+	"license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+	"license_type": "UK Open Government License (OGL v2)",
+	"license_text": "The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information...acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.",
+	"description": "Administrative boundaries provided by the Greater London Authority."
+}
