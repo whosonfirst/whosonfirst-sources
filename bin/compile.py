@@ -27,7 +27,7 @@ if __name__ == '__main__':
         for f in files:
     
             path = os.path.join(root, f)
-
+                        
             if not path.endswith('.json'):
                 continue
 
@@ -58,4 +58,4 @@ if __name__ == '__main__':
             spec[data['id']] = data
 
     print json.dumps(spec)
-    sys.exit()
+    sys.exit(0)
