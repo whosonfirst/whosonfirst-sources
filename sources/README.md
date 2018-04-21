@@ -798,6 +798,18 @@ _The International Civil Aviation Organization (ICAO) is a UN specialized agency
 * url _http://www.icao.int/_
 * license _http://www.icao.int/Pages/Disclaimer.aspx_
 
+## Ordnance Survey Ireland
+
+_The Ordnance Survey Ireland provides products and services that are widely used to support the social, economic, legislative and administrative functions of the state in Ireland._
+
+* id `1159294407`
+* name `ie-gov`
+* prefix `ie-gov`
+* license_type _CC-BY 4.0_
+* license_text _Open Data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement that the source of the information is to attributed._
+* url _https://data-osi.opendata.arcgis.com/datasets/administrative-counties-ungeneralised-osi-national-administrative-boundaries-_
+* license _https://data-osi.opendata.arcgis.com/datasets/_
+
 ## Instituto Nacional de Estadística y Geografía (INEGI)
 
 _The public body responsible for regulating and coordinating the National Statistical System and Geographic Information, as well as to capture and disseminate information of Mexico._
