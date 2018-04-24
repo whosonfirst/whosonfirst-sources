@@ -1,0 +1,12 @@
+{
+	"id": 1159295663,
+	"fullname": "Geonorge Norway",
+	"name": "no-geonorge",
+	"prefix": "no-geonorge",
+	"key": "id",
+	"url": "https://www.geonorge.no/",
+	"license": "https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b",
+	"license_type": "CC BY 4.0",
+	"license_text": "You must provide correct credentials, provide a link to the license, and indicate if changes have been made. You can do this in any reasonable manner, but without it being understood that the licensor approves you or your use of the work. No further restrictions - You may not make use of legal terms or technology measures that legally prevent others from doing anything permitted by the license.",
+	"description": "The Geonorge Kartkatalog allows you to search, view and download Norwegian public map data."
+}
