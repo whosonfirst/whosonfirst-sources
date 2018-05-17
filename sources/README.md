@@ -56,7 +56,7 @@ _Property prefix._
 * name `addr`
 * prefix `addr`
 * license_type _N/A_
-* license `N/A`
+* license _N/A_
 
 ## Amsterdam Open Datakaart
 
@@ -722,7 +722,7 @@ _Property prefix._
 * id `1108830733`
 * name `geom`
 * prefix `geom`
-* license `CC0`
+* license _CC0_
 
 ## GeoNames
 
@@ -902,7 +902,7 @@ _Official Certified Neighborhood Council boundaries in the City of Los Angeles c
 * license_type _CC0_
 * license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * url _https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua_
-* license ``
+* license __
 
 ## Los Angeles Times
 
@@ -921,7 +921,7 @@ _The Los Angeles Times._
 * id `1108955855`
 * name `lbl`
 * prefix `lbl`
-* license `CC0`
+* license _CC0_
 
 ## lieu
 
@@ -931,7 +931,7 @@ _Property prefix._
 * name `lieu`
 * prefix `lieu`
 * url _https://github.com/openvenues/lieu_
-* license ``
+* license __
 
 ## Library of Congress
 
@@ -1017,6 +1017,7 @@ _Mesoshapes are a product of Mapzen for Who's On First._
 * url _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * remarks _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
+* usage _property, geometry_
 
 ## Mini Tenders
 
@@ -1040,7 +1041,7 @@ _The source for this property is missing. For example, if a record in Who's On F
 * license_type _N/A_
 * license_text _N/A_
 * url _N/A_
-* license `N/A`
+* license _N/A_
 
 ## Institute of Museum and Library Services Museum Universe Data File
 
@@ -1050,7 +1051,7 @@ _The Museum Universe Data File is an evolving list of museums and related organi
 * name `mudf`
 * prefix `mudf`
 * url _https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file_
-* license ``
+* license __
 
 ## name
 
@@ -1060,7 +1061,7 @@ _Property prefix._
 * name `name`
 * prefix `name`
 * license_type _CC0_
-* license `N/A`
+* license _N/A_
 
 ## Natural Earth
 
@@ -1107,7 +1108,7 @@ _Home of Null Island._
 * name `nullisland`
 * prefix `ni`
 * url _http://www.nullisland.com/_
-* license `N/A`
+* license _N/A_
 
 ## NYC OpenData
 
@@ -1201,7 +1202,7 @@ _Property prefix (for concordances)._
 * name `osm`
 * prefix `osm`
 * url _https://openstreetmap.org_
-* license `ODbL`
+* license _ODbL_
 
 ## City of Oulu
 
@@ -1238,7 +1239,7 @@ _OUTgoing: The Hidden History of New York's Gay Nightlife by Jeff Ferzoco._
 * license_type _Public Domain (assumed)_
 * license_text _Data is assumed to be in the Public Domain._
 * url _http://outgoingnyc.com/_
-* license `N/A`
+* license _N/A_
 
 ## Pediacities
 
@@ -1442,7 +1443,7 @@ _Statoids is an online database that organizes the primary and secondary adminis
 * license_type _CC BY_
 * license_text _The Licensed Materials are licensed, not sold to Mapzen. Statoids grants to Mapzen world-wide, fully-paid, perpetual, non-exclusive right to use the Licensed Materials for any purpose. The parties acknowledge and agree that such rights include, but are not limited to the right to (a) copy, duplicate, reproduce or publish the Licensed Materials or any of their contents; (b) distribute, assign transfer, sub-license the Licensed Materials, the contents of the Licensed Materials or copies thereof, to third parties by any means whatsoever; (d) change, modify, adapt, translate, reverse engineer, disassemble or decompile the Licensed Materials or create derivative works based on the Licensed Materials, or copies thereof, or (e) bundle, repackage, or include the Licensed Materials with any software in any way. By way of explanation, and not limitation, the parties acknowledge that the intent of this license is to give Mapzen all rights in the data other than title. Mapzen agrees that it shall use commercially reasonable efforts to attribute Statoids' ownership of the Licensed Material whenever it publishes the Licensed Materials._
 * url _http://www.statoids.com_
-* license `Data provided under special license agreement with http://www.statoids.com`
+* license _Data provided under special license agreement with http://www.statoids.com_
 
 ## Open Information Saint Paul
 
@@ -1549,7 +1550,7 @@ _Used when a property value is not known. A placeholder for 'we do not know'._
 * prefix `unknown`
 * license_type _N/A_
 * license_text _N/A_
-* license `N/A`
+* license _N/A_
 
 ## UN/LOCODE (United Nations Code for Trade and Transport Locations)
 
@@ -1661,6 +1662,8 @@ _Concordances against Wikidata; public domain structured data._
 
 ## Wikipedia
 
+_The free online encyclopedia._
+
 * id `404734189`
 * name `wikipedia`
 * prefix `wk`
@@ -1691,7 +1694,7 @@ _Clickable database of Where On Earth (woe) ids._
 * license_type _CC0_
 * license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * url _http://woe.spum.org/_
-* license `N/A`
+* license _N/A_
 
 ## Yerbashapes
 
@@ -1702,7 +1705,7 @@ _Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who'
 * prefix `ys`
 * license_type _CC0_
 * license_text _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
-* license `N/A`
+* license _N/A_
 
 ## Zetashapes
 
