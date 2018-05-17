@@ -72,7 +72,9 @@ if __name__ == '__main__':
 
         if details.get('license') and details.get('license').startswith("http"):
             docs.write("* %s _%s_\n" % ('license', details['license']))
-        
+        else:
+            docs.write("* %s `%s`\n" % ('license', details['license']))
+
         usage = []
         
         if details.get('usage_concordance'):
@@ -89,9 +91,6 @@ if __name__ == '__main__':
         
         if not usage == []:
             docs.write("* %s _%s_\n" % ('usage', usage))
-
-        else:
-            docs.write("* %s `%s`\n" % ('license', details['license']))
 
         docs.write("\n")
 
