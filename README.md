@@ -32,11 +32,11 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"license_text":` A one to two sentence description of what the license allows (_string, optional property_).
 
-* `"usage_concordance":` Represents whether or not this source is used for concordance values. (_integer, required property_)
+* `"usage_concordance":` Represents whether or not this source is used for concordance values (_integer, required property_).
 
-* `"usage_property":` Represents whether or not this source is used for property values. (_integer, required property_)
+* `"usage_property":` Represents whether or not this source is used for property values (_integer, required property_).
 
-* `"usage_geometry":` Represents whether or not this source is used for geometries. (_integer, required property_)
+* `"usage_geometry":` Represents whether or not this source is used for geometries (_integer, required property_).
 
 * `"description":` A one to two sentence description of the source (_string, optional property_).
 
