@@ -1,5 +1,5 @@
 {
-	"id": 1111111111,
+	"id":-1,
 	"fullname": "",
 	"name": "",
 	"prefix": "",
@@ -8,5 +8,8 @@
 	"license": "",
 	"license_type": "",
 	"license_text": "",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": ""
 }
