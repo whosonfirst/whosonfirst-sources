@@ -8,5 +8,8 @@
 	"license": "https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1",
 	"license_type": "CC BY 3.0",
 	"license_text": "With this license, a re-user is free to share, copy, distribute and transmit the dataset through any medium or file format. The dataset may be edited and may be used for commercial purposes. A reference to the creator of the data is required.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "This data portal consists of a register containing information about and references to data sets by Dutch authorities."
 }

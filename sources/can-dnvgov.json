@@ -8,5 +8,8 @@
 	"license": "http://geoweb.dnv.org/data/metadata.php?dataset=RegNeighbourhood",
 	"license_type": "Open Government Licence - British Columbia, v2.0",
 	"license_text": "you are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Open Data Portal for the District of North Vancouver."
 }

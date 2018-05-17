@@ -8,5 +8,8 @@
 	"license": "N/A",
 	"license_type": "N/A",
 	"license_text": "N/A",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The source for this property is missing. For example, if a record in Who's On First was imported without a src:geom property, the source would be considered 'missing'."
 }

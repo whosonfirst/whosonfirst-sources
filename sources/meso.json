@@ -8,6 +8,9 @@
 	"license": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
 	"license_type": "CC0",
 	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Mesoshapes are a product of Mapzen for Who's On First.",
 	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md"
 }

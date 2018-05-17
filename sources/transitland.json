@@ -8,5 +8,8 @@
 	"license": "https://transit.land/an-open-project/contributor-agreement.html",
 	"license_type": "CC0",
 	"license_text": "Mapzen hereby grants to You and You hereby accept a limited, non-exclusive, royalty free, non-transferable, non-sublicensable, freely revocable, worldwide license solely to use the Licensed Material to develop Products.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Transitland brings together many sources of transit data to build a directory of operators and feeds that can be edited by transit enthusiasts and developers."
 }

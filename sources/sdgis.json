@@ -8,5 +8,8 @@
 	"license": "http://www.sangis.org/Legal_Notice.htm",
 	"license_type": "CC0",
 	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The San Diego Geographic Information Source (SanGIS) is a Joint Powers Authority (JPA) of the City of San Diego and the County of San Diego responsible for maintaining a regional geographic information system (GIS) landbase and data warehouse."
 }

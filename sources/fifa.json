@@ -8,5 +8,8 @@
 	"license": "http://www.rsssf.com/miscellaneous/fifa-codes.html",
 	"license_type": "CC BY 1.0",
 	"license_text": "You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Country codes for each member (and non-member) country, used by FIFA during competition."
 }

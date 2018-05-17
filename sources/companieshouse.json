@@ -8,5 +8,8 @@
 	"license": "https://data.london.gov.uk/about/terms-and-conditions/",
 	"license_type": "CC0",
 	"license_text": "May use the data contained in this site for any purpose, providing it does not infringe the terms and conditions.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "A directory of business listings in London."
 }

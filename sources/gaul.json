@@ -8,5 +8,8 @@
 	"license": "http://www.fao.org/contact-us/terms/en/",
 	"license_type": "CC0",
 	"license_text": "FAO encourages unrestricted use of news releases provided on the FAO website, and no formal permission is required to reproduce these materials.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Country codes used be the Global Administrative Unit Layers from the Food and Agriculture Organization. The entity codes are integers, assigned sequentially, with no duplication between layers; that is, no country has the same code as any primary subdivision, and so on."
 }

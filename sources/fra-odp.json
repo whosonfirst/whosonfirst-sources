@@ -8,5 +8,8 @@
 	"license": "http://opendata2.paris.fr/opendata/document?id=78&id_attribute=48",
 	"license_type": "CC0 (equivalent)",
 	"license_text": "Ces droits incluent expressément les utilisations commerciales et non commerciales...La distribution, la communication, l’affichage, la location, la mise à disposition ou la diffusion au public, par tous moyens et sous quelque forme que ce soit, en tout ou en partie, y compris de toute Base de données dérivée ou en tant que partie d’une Base de données collaborative.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Neighbourhood data provided by Open Data Paris."
 }

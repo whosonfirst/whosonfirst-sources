@@ -8,5 +8,8 @@
 	"license": "https://www.santabarbaraca.gov/howdoi/get/webhelp/policy.asp",
 	"license_type": "Public Domain",
 	"license_text": "",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Open Data portal for the City of Santa Barbara, CA."
 }

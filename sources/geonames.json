@@ -8,6 +8,9 @@
 	"license": "http://www.geonames.org/about.html",
 	"license_type": "CC BY",
 	"license_text": "The GeoNames geographical database is available for download free of charge under a creative commons attribution license.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.",
 	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geonames_remarks.md"
 }

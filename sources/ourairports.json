@@ -8,6 +8,9 @@
 	"license": "http://ourairports.com/",
 	"license_type": "Public domain",
 	"license_text": "OurAirports is a public site, and by 'public', we mean PUBLIC.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "OurAirports is a free site where visitors can explore the world's airports. [...] This is an open-data web site, after all, and we don't believe that 'open' means 'we can benefit from it, but we'll hide it from everyone else.",
 	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/ourairports_remarks.md"
 }

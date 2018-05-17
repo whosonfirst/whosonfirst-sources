@@ -8,5 +8,8 @@
 	"license": "http://www.unece.org/legal_notice/copyrightnotice.html",
 	"license_type": "Restricted",
 	"license_text": "All rights reserved.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "These codes are provided for by Article 20 of the Convention on Road Traffic (Geneva, 1949). Therein, they are called 'distinguishing signs of the place of registration' of vehicles."
 }

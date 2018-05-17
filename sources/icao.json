@@ -8,5 +8,8 @@
 	"license": "http://www.icao.int/Pages/Disclaimer.aspx",
 	"license_type": "Restricted",
 	"license_text": "ICAO grants permission to Users to visit the Site and to download, preprint and copy the information, documents and materials (collectively, 'Materials') from the Site for the User's personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site. ",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The International Civil Aviation Organization (ICAO) is a UN specialized agency, established by States in 1944 to manage the administration and governance of the Convention on International Civil Aviation (Chicago Convention)."
 }
