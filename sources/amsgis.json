@@ -8,5 +8,8 @@
 	"license": "https://kaart.amsterdam.nl/datasets",
 	"license_type": "CC BY (assumed)",
 	"license_text": "N/A",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Layers are viewable from the link in the url field as Buurten (microhoods), Buurtcombinaties (neighbourhoods), and Stadsdelen en Haven (boroughs). Open source information as well as downloadable datasets are available from the link in the license field."
 }

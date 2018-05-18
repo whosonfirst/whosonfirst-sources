@@ -8,5 +8,8 @@
 	"license": "https://data.cambridgema.gov/download/tif9-pmiw/application/pdf",
 	"license_type": "CC BY",
 	"license_text": "Any user of Data distributed by the City may modify, use and publish such Data without charge.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Neighbourhood data for the City of Cambrige, MA."
 }

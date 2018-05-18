@@ -8,5 +8,8 @@
 	"license": "https://www.nytimes.com/content/help/rights/terms/terms-of-service.html",
 	"license_type": "Restricted",
 	"license_text": "You may not sublicense, assign or transfer any licenses granted by NYTimes.com, and any attempt at such sublicense, assignment or transfer shall be null and void.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The New York Times."
 }

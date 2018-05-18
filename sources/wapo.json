@@ -8,5 +8,8 @@
 	"license": "http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes",
 	"license_type": "CC-BY",
 	"license_text": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "A map of neighborhood boundaries in the District of Columbia."
 }

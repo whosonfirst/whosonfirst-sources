@@ -8,5 +8,8 @@
 	"license": "http://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/",
 	"license_type": "CC0",
 	"license_text": "The information contained on the websites of the Federal Authorities is made available to the public.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The Geoportal of the Swiss Federation."
 }

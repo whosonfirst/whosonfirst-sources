@@ -8,5 +8,8 @@
 	"license": "https://data.buenosaires.gob.ar/tyc",
 	"license_type": "CC BY",
 	"license_text": "La reutilización autorizada puede incluir la copia, difusión, modificación, adaptación, extracción, reordenamiento y combinación de la información contenida en el sitio ... Debe citarse la fuente de los documentos objeto de la reutilización.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Open Data portal for the City of Buenos Aires, Argentina."
 }

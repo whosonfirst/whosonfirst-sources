@@ -8,5 +8,8 @@
 	"license": "http://www.unece.org/cefact/locode/locode_since1981.html",
 	"license_type": "CC0",
 	"license_text": "UN/LOCODE is freely available to all interested users.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "UN/LOCODE is based on a code structure set up by ECLAC and a list of locations originating in ESCAP, developed in UNCTAD in co-operation with transport organisations like IATA and the ICS and with active contributions from national governments and commercial bodies. Note: Who's On First concatenates the UN/LOCODE two-character country code and three-character feature code with a deliminator and names the result the 'id'."
 }

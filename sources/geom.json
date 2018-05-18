@@ -6,5 +6,8 @@
 	"key": "id",
 	"url": "",
 	"license": "CC0",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Property prefix."
 }

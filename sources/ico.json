@@ -8,5 +8,8 @@
 	"license": "https://www.olympic.org/terms-of-service",
 	"license_type": "Restricted",
 	"license_text": "All elements of the Site, including the IOC Content, are protected by copyright, trade dress, moral rights, trademark and other laws relating to the protection of intellectual property.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "These codes identify the nationality of athletes and teams during Olympic events."
 }

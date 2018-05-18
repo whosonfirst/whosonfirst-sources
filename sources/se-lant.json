@@ -8,5 +8,8 @@
 	"license": "https://www.lantmateriet.se/en/Maps-and-geographic-information/Maps/oppna-data/anvandarvillkor/",
 	"license_type": "CC0",
 	"license_text": "The license means that you may use, distribute, redo, modify and build on Lantmäteri's open data - even in commercial contexts without any restrictions.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Lantmateriet, the Land Survey of Sweden, demarcates boundaries and helps guarantee secure ownership of Sweden’s real property. The agency provides open geographic data to the public under a CC0 license."
 }

@@ -8,5 +8,8 @@
 	"license": "http://www.regina.ca/residents/open-government/open-government-licence/",
 	"license_type": "Open Government Licence - City of Regina",
 	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the data sets in any medium, mode or format for any lawful purpose... Acknowledge the source of the Information by including any attribution statement specified by the Information Provider and, where possible, provide a link to this licence.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Boundaries provided by the City of Regina to delineate community associations."
 }

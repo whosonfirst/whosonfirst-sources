@@ -8,5 +8,8 @@
 	"license": "https://www.opendataphilly.org/dataset/philadelphia-neighborhoods",
 	"license_type": "CC BY 3.0 US",
 	"license_text": "You are free to: Share, copy and redistribute the material in any medium or format. Adapt, remix, transform, and build upon the material for any purpose, even commercially.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Azavea is a civic technology firm based in Philadelphia. Azavea applies geospatial technology for civic and social impact."
 }

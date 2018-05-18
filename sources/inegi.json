@@ -8,5 +8,8 @@
 	"license": "http://www.beta.inegi.org.mx/inegi/terminos.html",
 	"license_type": "CC BY (equivalent)",
 	"license_text": "You can make and distribute copies of the information, without altering or deleting metadata. You can disseminate and publish the information.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The public body responsible for regulating and coordinating the National Statistical System and Geographic Information, as well as to capture and disseminate information of Mexico."
 }

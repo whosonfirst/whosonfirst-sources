@@ -8,5 +8,8 @@
 	"license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
 	"license_type": "UK Open Government License (OGL v2)",
 	"license_text": "The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information...acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Administrative boundaries provided by the Greater London Authority."
 }

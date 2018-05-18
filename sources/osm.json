@@ -6,5 +6,8 @@
 	"key": "id",
 	"url": "https://openstreetmap.org",
 	"license": "ODbL",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Property prefix (for concordances)."
 }

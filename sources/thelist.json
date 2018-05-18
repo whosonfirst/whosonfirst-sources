@@ -8,5 +8,8 @@
 	"license": "http://www.calweb.net/~skoepke/",
 	"license_type": "Public Domain",
 	"license_text": "Public domain per email conversation on May 30th, 2017.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "The list is an online concert guide for Northern California and the west coast."
 }

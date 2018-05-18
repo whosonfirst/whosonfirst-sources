@@ -8,5 +8,8 @@
 	"license": "https://localwiki.org/main/Copyrights",
 	"license_type": "CC BY 4.0",
 	"license_text": "All of the media and written content in LocalWiki is licensed under the Creative Commons Attribution 4.0 license (CC BY 4.0), unless noted otherwise.",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "LocalWiki is a grassroots effort to collect, share and open the world’s local knowledge. Includes data on local governments, neighborhoods, streets, social movements, noteworthy local figures, social services, schools, etc."
 }

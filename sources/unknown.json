@@ -8,5 +8,8 @@
 	"license": "N/A",
 	"license_type": "N/A",
 	"license_text": "N/A",
+	"usage_concordance":-1,
+	"usage_property":-1,
+	"usage_geometry":-1,
 	"description": "Used when a property value is not known. A placeholder for 'we do not know'."
 }
