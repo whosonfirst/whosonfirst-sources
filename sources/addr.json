@@ -11,5 +11,7 @@
     "url": "", 
     "usage_concordance": 0, 
     "usage_geometry": 0, 
-    "usage_property": 1
+    "usage_property": 1,
+    "edtf:deprecated": "2018-05-18",
+    "mz:is_current": 0
 }

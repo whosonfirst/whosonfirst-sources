@@ -54,6 +54,7 @@ _Purveyors of fine freeware since 1972. On the net since 1991._
 
 _Property prefix._ 
 
+* This source has been deprecated.
 * id: `1108832191`
 * name: `addr`
 * prefix: `addr`
@@ -764,6 +765,7 @@ _Formerly FIPS PUB 10-4, these country codes were used by the National Geospatia
 
 _Property prefix._ 
 
+* This source has been deprecated.
 * id: `1108830733`
 * name: `geom`
 * prefix: `geom`
@@ -976,6 +978,9 @@ _The Los Angeles Times._
 
 ## label
 
+_Property prefix._ 
+
+* This source has been deprecated.
 * id: `1108955855`
 * name: `lbl`
 * prefix: `lbl`
@@ -1123,6 +1128,7 @@ _The Museum Universe Data File is an evolving list of museums and related organi
 
 _Property prefix._ 
 
+* This source has been deprecated.
 * id: `1108828507`
 * name: `name`
 * prefix: `name`
