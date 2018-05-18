@@ -9,7 +9,8 @@
     "name": "meso", 
     "prefix": "meso", 
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md", 
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md", 
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
+    "src:via":{"Art of the Mappable":"https://github.com/whosonfirst-data/whosonfirst-data#license","DATAMEET":"http://datameet.org/","ESRI OPEN":"http://hub.arcgis.com/pages/open-data"},
     "usage_concordance": 0, 
     "usage_geometry": 1, 
     "usage_property": 1

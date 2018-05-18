@@ -79,6 +79,11 @@ if __name__ == '__main__':
         else:
             docs.write("* %s: `%s`\n" % ('license', details['license']))
 
+        if details.get('src:via'):
+            docs.write("\tThis source includes data from the following organizations:\n")
+            for k,v in details['src:via']:
+                docs.write("\t\t* [%s](%s)" % (k,v))
+
         usage = []
         
         if details.get('usage_concordance'):
