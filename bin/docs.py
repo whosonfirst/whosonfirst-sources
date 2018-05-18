@@ -79,15 +79,15 @@ if __name__ == '__main__':
         
         if details.get('usage_concordance'):
             if details['usage_concordance'] == 1:
-                usage.append("concordance")
+                usage.append("`concordance`")
                 
         if details.get('usage_property'):        
             if details['usage_property'] == 1:
-                usage.append("property")
+                usage.append("`property`")
 
         if details.get('usage_geometry'):
             if details['usage_geometry'] == 1:
-                usage.append("geometry")
+                usage.append("`geometry`")
 
         all_uses = ', '.join(usage)
 

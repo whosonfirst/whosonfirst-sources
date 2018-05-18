@@ -1017,7 +1017,7 @@ _Mesoshapes are a product of Mapzen for Who's On First._
 * url: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
-* usage: _property, geometry_
+* usage: _`property`, `geometry`_
 
 ## Mini Tenders
 
