@@ -1,15 +1,15 @@
 {
-	"id": 1108694665,
-	"fullname": "Boston Redevelopment Authority",
-	"name": "bra",
-	"prefix": "bra",
-	"key": "",
-	"url": "https://data.cityofboston.gov/",
-	"license": "https://data.cityofboston.gov/City-Services/Boston-Neighborhood-Shapefiles/af56-j7tb",
-	"license_type": "CC0",
-	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighborhood boundaries are created based on zip code, zoning district boundaries and census tract boundaries. This GIS data layer was produced by the BRA Office of Digital Cartography and GIS."
+    "description": "Neighborhood boundaries are created based on zip code, zoning district boundaries and census tract boundaries. This GIS data layer was produced by the BRA Office of Digital Cartography and GIS.", 
+    "fullname": "Boston Redevelopment Authority", 
+    "id": 1108694665, 
+    "key": "", 
+    "license": "https://data.cityofboston.gov/City-Services/Boston-Neighborhood-Shapefiles/af56-j7tb", 
+    "license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.", 
+    "license_type": "CC0", 
+    "name": "bra", 
+    "prefix": "bra", 
+    "url": "https://data.cityofboston.gov/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

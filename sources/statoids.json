@@ -1,15 +1,15 @@
 {
-	"id": 1158818289,
-	"fullname": "Statoids",
-	"name": "statoids",
-	"prefix": "statoids",
-	"key": "",
-	"url": "http://www.statoids.com",
-	"license": "Data provided under special license agreement with http://www.statoids.com",
-	"license_type": "CC BY",
-	"license_text": "The Licensed Materials are licensed, not sold to Mapzen. Statoids grants to Mapzen world-wide, fully-paid, perpetual, non-exclusive right to use the Licensed Materials for any purpose. The parties acknowledge and agree that such rights include, but are not limited to the right to (a) copy, duplicate, reproduce or publish the Licensed Materials or any of their contents; (b) distribute, assign transfer, sub-license the Licensed Materials, the contents of the Licensed Materials or copies thereof, to third parties by any means whatsoever; (d) change, modify, adapt, translate, reverse engineer, disassemble or decompile the Licensed Materials or create derivative works based on the Licensed Materials, or copies thereof, or (e) bundle, repackage, or include the Licensed Materials with any software in any way. By way of explanation, and not limitation, the parties acknowledge that the intent of this license is to give Mapzen all rights in the data other than title. Mapzen agrees that it shall use commercially reasonable efforts to attribute Statoids' ownership of the Licensed Material whenever it publishes the Licensed Materials.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Statoids is an online database that organizes the primary and secondary administrative divisions for all countries, dependencies, and disputed areas of the world. Properties imported under CC-BY license from Statoids via special arrangement with the author."
+    "description": "Statoids is an online database that organizes the primary and secondary administrative divisions for all countries, dependencies, and disputed areas of the world. Properties imported under CC-BY license from Statoids via special arrangement with the author.", 
+    "fullname": "Statoids", 
+    "id": 1158818289, 
+    "key": "", 
+    "license": "Data provided under special license agreement with http://www.statoids.com", 
+    "license_text": "The Licensed Materials are licensed, not sold to Mapzen. Statoids grants to Mapzen world-wide, fully-paid, perpetual, non-exclusive right to use the Licensed Materials for any purpose. The parties acknowledge and agree that such rights include, but are not limited to the right to (a) copy, duplicate, reproduce or publish the Licensed Materials or any of their contents; (b) distribute, assign transfer, sub-license the Licensed Materials, the contents of the Licensed Materials or copies thereof, to third parties by any means whatsoever; (d) change, modify, adapt, translate, reverse engineer, disassemble or decompile the Licensed Materials or create derivative works based on the Licensed Materials, or copies thereof, or (e) bundle, repackage, or include the Licensed Materials with any software in any way. By way of explanation, and not limitation, the parties acknowledge that the intent of this license is to give Mapzen all rights in the data other than title. Mapzen agrees that it shall use commercially reasonable efforts to attribute Statoids' ownership of the Licensed Material whenever it publishes the Licensed Materials.", 
+    "license_type": "CC BY", 
+    "name": "statoids", 
+    "prefix": "statoids", 
+    "url": "http://www.statoids.com", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 1
 }

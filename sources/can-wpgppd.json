@@ -1,15 +1,15 @@
 {
-	"id": 1108968171,
-	"fullname": "City of Winnipeg Department of Planning, Property, and Development",
-	"name": "can-wpgppd",
-	"prefix": "can-wpgppd",
-	"key":"",
-	"url": "https://data.winnipeg.ca/City-Planning/Neighbourhood/fen6-iygi",
-	"license": "https://data.winnipeg.ca/open-data-licence",
-	"license_type": "Open Government License - Winnipeg",
-	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighbourhood planning districts provided by the City of Winnipeg on their open data portal."
+    "description": "Neighbourhood planning districts provided by the City of Winnipeg on their open data portal.", 
+    "fullname": "City of Winnipeg Department of Planning, Property, and Development", 
+    "id": 1108968171, 
+    "key": "", 
+    "license": "https://data.winnipeg.ca/open-data-licence", 
+    "license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.", 
+    "license_type": "Open Government License - Winnipeg", 
+    "name": "can-wpgppd", 
+    "prefix": "can-wpgppd", 
+    "url": "https://data.winnipeg.ca/City-Planning/Neighbourhood/fen6-iygi", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

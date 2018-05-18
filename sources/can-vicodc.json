@@ -1,15 +1,15 @@
 {
-	"id": 1126129879,
-	"fullname": "City of Victoria Open Data Catalogue",
-	"name": "can-vicodc",
-	"prefix": "can-vicodc",
-	"key":"",
-	"url": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html",
-	"license": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue/open-data-licence.html",
-	"license_type": "Open Government Licence - City of Victoria",
-	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider and, where possible, provide a link to this licence.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighbourhood boundary data provided by the City of Victoria Open Data Catalogue."
+    "description": "Neighbourhood boundary data provided by the City of Victoria Open Data Catalogue.", 
+    "fullname": "City of Victoria Open Data Catalogue", 
+    "id": 1126129879, 
+    "key": "", 
+    "license": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue/open-data-licence.html", 
+    "license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider and, where possible, provide a link to this licence.", 
+    "license_type": "Open Government Licence - City of Victoria", 
+    "name": "can-vicodc", 
+    "prefix": "can-vicodc", 
+    "url": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

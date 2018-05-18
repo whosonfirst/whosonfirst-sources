@@ -1,15 +1,15 @@
 {
-	"id": 840464241,
-	"fullname": "International Air Transport Association",
-	"name": "iata",
-	"prefix": "iata",
-	"key": "code",
-	"url": "http://www.iata.org/",
-	"license": "http://www.iata.org/Pages/terms.aspx",
-	"license_type": "Restricted",
-	"license_text": "All rights are reserved.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The International Air Transport Association (IATA) is the trade association for the world's airlines, representing some 265 airlines or 83% of total air traffic."
+    "description": "The International Air Transport Association (IATA) is the trade association for the world's airlines, representing some 265 airlines or 83% of total air traffic.", 
+    "fullname": "International Air Transport Association", 
+    "id": 840464241, 
+    "key": "code", 
+    "license": "http://www.iata.org/Pages/terms.aspx", 
+    "license_text": "All rights are reserved.", 
+    "license_type": "Restricted", 
+    "name": "iata", 
+    "prefix": "iata", 
+    "url": "http://www.iata.org/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

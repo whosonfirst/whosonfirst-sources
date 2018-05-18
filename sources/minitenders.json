@@ -1,15 +1,15 @@
 {
-	"id": 404734209,
-	"fullname": "Mini Tenders",
-	"name": "minitenders",
-	"prefix": "mt",
-	"key": "id",
-	"url": "http://www.thebolditalic.com/articles/1101-mini-tenders",
-	"license": "http://www.thebolditalic.com/articles/1101-mini-tenders",
-	"license_type": "Public domain (assumed)",
-	"license_text": "Data is assumed to be in the Public Domain.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "A Tenderloin of many neighbourhoods."
+    "description": "A Tenderloin of many neighbourhoods.", 
+    "fullname": "Mini Tenders", 
+    "id": 404734209, 
+    "key": "id", 
+    "license": "http://www.thebolditalic.com/articles/1101-mini-tenders", 
+    "license_text": "Data is assumed to be in the Public Domain.", 
+    "license_type": "Public domain (assumed)", 
+    "name": "minitenders", 
+    "prefix": "mt", 
+    "url": "http://www.thebolditalic.com/articles/1101-mini-tenders", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

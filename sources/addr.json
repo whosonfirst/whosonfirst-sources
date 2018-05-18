@@ -1,15 +1,15 @@
 {
-	"id": 1108832191,
-	"fullname": "addr",
-	"name": "addr",
-	"prefix": "addr",
-	"key": "id",
-	"url": "",
-	"license": "N/A",
-	"license_type": "N/A",
-	"license_text": "",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Property prefix."
+    "description": "Property prefix.", 
+    "fullname": "addr", 
+    "id": 1108832191, 
+    "key": "id", 
+    "license": "N/A", 
+    "license_text": "", 
+    "license_type": "N/A", 
+    "name": "addr", 
+    "prefix": "addr", 
+    "url": "", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 1
 }

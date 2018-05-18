@@ -1,13 +1,13 @@
 {
-	"id": 1141961795,
-	"fullname": "lieu",
-	"name": "lieu",
-	"prefix": "lieu",
-	"key": "guid",
-	"url": "https://github.com/openvenues/lieu",
-	"license": "",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Property prefix."
+    "description": "Property prefix.", 
+    "fullname": "lieu", 
+    "id": 1141961795, 
+    "key": "guid", 
+    "license": "", 
+    "name": "lieu", 
+    "prefix": "lieu", 
+    "url": "https://github.com/openvenues/lieu", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

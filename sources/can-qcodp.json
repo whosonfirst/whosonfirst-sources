@@ -1,15 +1,15 @@
 {
-	"id": 1126115707,
-	"fullname": "Quebec City Open Data Portal",
-	"name": "can-qcodp",
-	"prefix": "can-qcodp",
-	"key":"",
-	"url": "http://donnees.ville.quebec.qc.ca/donne_details.aspx?jdid=9",
-	"license": "http://donnees.ville.quebec.qc.ca/licence.aspx",
-	"license_type": "CC BY 4.0",
-	"license_text": "...copy and redistribute the material in any medium or format...remix, transform, and build upon the material for any purpose, even commercially...You must give appropriate credit, provide a link to the license, and indicate if changes were made.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighbourhood (district) data provided by Quebec City."
+    "description": "Neighbourhood (district) data provided by Quebec City.", 
+    "fullname": "Quebec City Open Data Portal", 
+    "id": 1126115707, 
+    "key": "", 
+    "license": "http://donnees.ville.quebec.qc.ca/licence.aspx", 
+    "license_text": "...copy and redistribute the material in any medium or format...remix, transform, and build upon the material for any purpose, even commercially...You must give appropriate credit, provide a link to the license, and indicate if changes were made.", 
+    "license_type": "CC BY 4.0", 
+    "name": "can-qcodp", 
+    "prefix": "can-qcodp", 
+    "url": "http://donnees.ville.quebec.qc.ca/donne_details.aspx?jdid=9", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

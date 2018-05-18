@@ -1,13 +1,13 @@
 {
-	"id": 1158861161,
-	"fullname": "OpenStreetMap",
-	"name": "osm",
-	"prefix": "osm",
-	"key": "id",
-	"url": "https://openstreetmap.org",
-	"license": "ODbL",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Property prefix (for concordances)."
+    "description": "Property prefix (for concordances).", 
+    "fullname": "OpenStreetMap", 
+    "id": 1158861161, 
+    "key": "id", 
+    "license": "ODbL", 
+    "name": "osm", 
+    "prefix": "osm", 
+    "url": "https://openstreetmap.org", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

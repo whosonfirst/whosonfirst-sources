@@ -1,15 +1,15 @@
 {
-	"id": 1108974149,
-	"fullname": "Alberta Open Government - Municipal Boundaries",
-	"name": "can-abog",
-	"prefix": "can-abog",
-	"key":"",
-	"url": "https://open.alberta.ca/opendata/property-municipal-boundaries",
-	"license": "https://open.alberta.ca/documentation/ogp-licence",
-	"license_type": "Open Government Licence - Alberta",
-	"license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence...",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open municipal boundary data provided by the Alberta Open Government program."
+    "description": "Open municipal boundary data provided by the Alberta Open Government program.", 
+    "fullname": "Alberta Open Government - Municipal Boundaries", 
+    "id": 1108974149, 
+    "key": "", 
+    "license": "https://open.alberta.ca/documentation/ogp-licence", 
+    "license_text": "Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose...Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence...", 
+    "license_type": "Open Government Licence - Alberta", 
+    "name": "can-abog", 
+    "prefix": "can-abog", 
+    "url": "https://open.alberta.ca/opendata/property-municipal-boundaries", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

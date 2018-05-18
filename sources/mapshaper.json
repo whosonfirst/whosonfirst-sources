@@ -1,15 +1,15 @@
 {
-	"id": 404734195,
-	"fullname": "Mapshaper",
-	"name": "mapshaper",
-	"prefix": "ms",
-	"key": "",
-	"url": "https://github.com/mbloch/mapshaper",
-	"license": "http://mozilla.org/MPL/2.0/",
-	"license_type": "MPL, v2.0",
-	"license_text": "This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript."
+    "description": "Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.", 
+    "fullname": "Mapshaper", 
+    "id": 404734195, 
+    "key": "", 
+    "license": "http://mozilla.org/MPL/2.0/", 
+    "license_text": "This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.", 
+    "license_type": "MPL, v2.0", 
+    "name": "mapshaper", 
+    "prefix": "ms", 
+    "url": "https://github.com/mbloch/mapshaper", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 1
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1108906765,
-	"fullname": "District of North Vancouver Government",
-	"name": "can-dnvgov",
-	"prefix": "can-dnvgov",
-	"key": "",
-	"url": "http://geoweb.dnv.org/Products/Data/SHP/RegNeighbourhood_shp.zip",
-	"license": "http://geoweb.dnv.org/data/metadata.php?dataset=RegNeighbourhood",
-	"license_type": "Open Government Licence - British Columbia, v2.0",
-	"license_text": "you are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data Portal for the District of North Vancouver."
+    "description": "Open Data Portal for the District of North Vancouver.", 
+    "fullname": "District of North Vancouver Government", 
+    "id": 1108906765, 
+    "key": "", 
+    "license": "http://geoweb.dnv.org/data/metadata.php?dataset=RegNeighbourhood", 
+    "license_text": "you are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.", 
+    "license_type": "Open Government Licence - British Columbia, v2.0", 
+    "name": "can-dnvgov", 
+    "prefix": "can-dnvgov", 
+    "url": "http://geoweb.dnv.org/Products/Data/SHP/RegNeighbourhood_shp.zip", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

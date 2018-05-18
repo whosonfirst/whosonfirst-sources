@@ -1,15 +1,15 @@
 {
-	"id": 1158846735,
-	"fullname": "The City of Santa Barbara",
-	"name": "santabar",
-	"prefix": "santabar",
-	"key": "",
-	"url": "https://maps.santabarbaraca.gov/Html5Viewer/Index.html?configBase=/Geocortex/Essentials/REST/sites/City_of_Santa_Barbara__Public/viewers/SantaBarbaraPublic/virtualdirectory/Resources/Config/Default",
-	"license": "https://www.santabarbaraca.gov/howdoi/get/webhelp/policy.asp",
-	"license_type": "Public Domain",
-	"license_text": "",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for the City of Santa Barbara, CA."
+    "description": "Open Data portal for the City of Santa Barbara, CA.", 
+    "fullname": "The City of Santa Barbara", 
+    "id": 1158846735, 
+    "key": "", 
+    "license": "https://www.santabarbaraca.gov/howdoi/get/webhelp/policy.asp", 
+    "license_text": "", 
+    "license_type": "Public Domain", 
+    "name": "santabar", 
+    "prefix": "santabar", 
+    "url": "https://maps.santabarbaraca.gov/Html5Viewer/Index.html?configBase=/Geocortex/Essentials/REST/sites/City_of_Santa_Barbara__Public/viewers/SantaBarbaraPublic/virtualdirectory/Resources/Config/Default", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

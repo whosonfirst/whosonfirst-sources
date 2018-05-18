@@ -1,15 +1,15 @@
 {
-	"id": 1108724061,
-	"fullname": "Washington Post",
-	"name": "wapo",
-	"prefix": "wapo",
-	"key": "",
-	"url": "http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes",
-	"license": "http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes",
-	"license_type": "CC-BY",
-	"license_text": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "A map of neighborhood boundaries in the District of Columbia."
+    "description": "A map of neighborhood boundaries in the District of Columbia.", 
+    "fullname": "Washington Post", 
+    "id": 1108724061, 
+    "key": "", 
+    "license": "http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes", 
+    "license_text": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.", 
+    "license_type": "CC-BY", 
+    "name": "wapo", 
+    "prefix": "wapo", 
+    "url": "http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

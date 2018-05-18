@@ -1,15 +1,15 @@
 {
-	"id": 1158844639,
-	"fullname": "LocalWiki",
-	"name": "localwiki",
-	"prefix": "localwiki",
-	"key": "",
-	"url": "https://localwiki.org/",
-	"license": "https://localwiki.org/main/Copyrights",
-	"license_type": "CC BY 4.0",
-	"license_text": "All of the media and written content in LocalWiki is licensed under the Creative Commons Attribution 4.0 license (CC BY 4.0), unless noted otherwise.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "LocalWiki is a grassroots effort to collect, share and open the world’s local knowledge. Includes data on local governments, neighborhoods, streets, social movements, noteworthy local figures, social services, schools, etc."
+    "description": "LocalWiki is a grassroots effort to collect, share and open the world\u2019s local knowledge. Includes data on local governments, neighborhoods, streets, social movements, noteworthy local figures, social services, schools, etc.", 
+    "fullname": "LocalWiki", 
+    "id": 1158844639, 
+    "key": "", 
+    "license": "https://localwiki.org/main/Copyrights", 
+    "license_text": "All of the media and written content in LocalWiki is licensed under the Creative Commons Attribution 4.0 license (CC BY 4.0), unless noted otherwise.", 
+    "license_type": "CC BY 4.0", 
+    "name": "localwiki", 
+    "prefix": "localwiki", 
+    "url": "https://localwiki.org/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

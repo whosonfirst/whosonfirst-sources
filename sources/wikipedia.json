@@ -1,15 +1,15 @@
 {
-	"id": 404734189,
-	"fullname": "Wikipedia",
-	"name": "wikipedia",
-	"prefix": "wk",
-	"key": "page",
-	"url": "http://www.wikipedia.org/",
-	"license": "https://en.wikipedia.org/wiki/Wikipedia:Copyrights",
-	"license_type": "CC BY-SA 3.0",
-	"license_text": "Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The free online encyclopedia."
+    "description": "The free online encyclopedia.", 
+    "fullname": "Wikipedia", 
+    "id": 404734189, 
+    "key": "page", 
+    "license": "https://en.wikipedia.org/wiki/Wikipedia:Copyrights", 
+    "license_text": "Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).", 
+    "license_type": "CC BY-SA 3.0", 
+    "name": "wikipedia", 
+    "prefix": "wk", 
+    "url": "http://www.wikipedia.org/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

@@ -1,26 +1,30 @@
 {
-	"id": 1108739789,
-	"fullname": "United States Census Bureau",
-	"name": "uscensus",
-	"prefix": "uscensus",
-	"key": "",
-	"url": "https://www.census.gov/",
-	"license": "https://www.census.gov/data/developers/about/terms-of-service.html",
-	"license_type": "CC0",
-	"license_text": "All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The leading source of quality data about the nation's people and economy from the United States Census Bureau.",
-	"data_sources": [{
-		"default": "https://www.census.gov/cgi-bin/geo/shapefiles/index.php",
-		"alt-uscensus-display-terrestrial-zoom-10": "http://www2.census.gov/geo/tiger/GENZ2015/shp/cb_2015_us_state_500k.zip"
-	}],
-	"alt": [{
-		"extras": [
-			"scope",
-			"detail"
-		],
-		"function": "display"
-	}]
+    "alt": [
+        {
+            "extras": [
+                "scope", 
+                "detail"
+            ], 
+            "function": "display"
+        }
+    ], 
+    "data_sources": [
+        {
+            "alt-uscensus-display-terrestrial-zoom-10": "http://www2.census.gov/geo/tiger/GENZ2015/shp/cb_2015_us_state_500k.zip", 
+            "default": "https://www.census.gov/cgi-bin/geo/shapefiles/index.php"
+        }
+    ], 
+    "description": "The leading source of quality data about the nation's people and economy from the United States Census Bureau.", 
+    "fullname": "United States Census Bureau", 
+    "id": 1108739789, 
+    "key": "", 
+    "license": "https://www.census.gov/data/developers/about/terms-of-service.html", 
+    "license_text": "All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record.", 
+    "license_type": "CC0", 
+    "name": "uscensus", 
+    "prefix": "uscensus", 
+    "url": "https://www.census.gov/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1126113989,
-	"fullname": "City of Saskatoon Open Data Portal - Neighbourhood Areas",
-	"name": "can-saskodp",
-	"prefix": "can-saskodp",
-	"key":"",
-	"url": "http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/NeighbourhoodArea#param=NOFILTER--DataView--Results",
-	"license": "http://opendata-saskatoon.cloudapp.net/TermsOfUse/TermsOfUse",
-	"license_type": "CC0 (equivalent)",
-	"license_text": "...a broad license to use the currently published data on the City of Saskatoon website (“Information”) for your own analysis and applications...appreciate credit for provision of the Information, this is not a strict requirement.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighbourhood regions provided by the city of Saskatoon, used for demographic purposes."
+    "description": "Neighbourhood regions provided by the city of Saskatoon, used for demographic purposes.", 
+    "fullname": "City of Saskatoon Open Data Portal - Neighbourhood Areas", 
+    "id": 1126113989, 
+    "key": "", 
+    "license": "http://opendata-saskatoon.cloudapp.net/TermsOfUse/TermsOfUse", 
+    "license_text": "...a broad license to use the currently published data on the City of Saskatoon website (\u201cInformation\u201d) for your own analysis and applications...appreciate credit for provision of the Information, this is not a strict requirement.", 
+    "license_type": "CC0 (equivalent)", 
+    "name": "can-saskodp", 
+    "prefix": "can-saskodp", 
+    "url": "http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/NeighbourhoodArea#param=NOFILTER--DataView--Results", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

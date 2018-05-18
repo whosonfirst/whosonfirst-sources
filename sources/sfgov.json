@@ -1,15 +1,15 @@
 {
-	"id": 772974267,
-	"fullname": "City of San Francisco",
-	"name": "sfgov",
-	"prefix": "sfgov",
-	"key": "",
-	"url": "https://data.sfgov.org/",
-	"license": "https://data.sfgov.org/terms-of-use",
-	"license_type": "PDDL 1.0",
-	"license_text": "The Open Data Commons, Public Domain Dedication & Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ('data'), either together or individually.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for the City of San Francisco, CA."
+    "description": "Open Data portal for the City of San Francisco, CA.", 
+    "fullname": "City of San Francisco", 
+    "id": 772974267, 
+    "key": "", 
+    "license": "https://data.sfgov.org/terms-of-use", 
+    "license_text": "The Open Data Commons, Public Domain Dedication & Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ('data'), either together or individually.", 
+    "license_type": "PDDL 1.0", 
+    "name": "sfgov", 
+    "prefix": "sfgov", 
+    "url": "https://data.sfgov.org/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

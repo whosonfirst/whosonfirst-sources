@@ -1,15 +1,15 @@
 {
-	"id": 1159294425,
-	"fullname": "Institute of Museum and Library Services Museum Universe Data File",
-	"name": "mudf",
-	"prefix": "mudf",
-	"key": "mid",
-	"url": "https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file",
-	"license": "",
-	"license_type": "",
-	"license_text": "",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Museum Universe Data File is an evolving list of museums and related organizations in the United States. "
+    "description": "The Museum Universe Data File is an evolving list of museums and related organizations in the United States. ", 
+    "fullname": "Institute of Museum and Library Services Museum Universe Data File", 
+    "id": 1159294425, 
+    "key": "mid", 
+    "license": "", 
+    "license_text": "", 
+    "license_type": "", 
+    "name": "mudf", 
+    "prefix": "mudf", 
+    "url": "https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1158868581,
-	"fullname": "DataBC - British Colombia Open Data Catalogue",
-	"name": "can-databc",
-	"prefix": "can-databc",
-	"key": "",
-	"url": "https://catalogue.data.gov.bc.ca/dataset?download_audience=Public",
-	"license": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc",
-	"license_type": "Open Government License - British Columbia",
-	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data Portal for British Colombia, Canada"
+    "description": "Open Data Portal for British Colombia, Canada", 
+    "fullname": "DataBC - British Colombia Open Data Catalogue", 
+    "id": 1158868581, 
+    "key": "", 
+    "license": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc", 
+    "license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.", 
+    "license_type": "Open Government License - British Columbia", 
+    "name": "can-databc", 
+    "prefix": "can-databc", 
+    "url": "https://catalogue.data.gov.bc.ca/dataset?download_audience=Public", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

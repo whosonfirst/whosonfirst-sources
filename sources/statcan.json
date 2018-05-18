@@ -1,15 +1,15 @@
 {
-	"id": 554906275,
-	"fullname": "Statistics Canada",
-	"name": "statcan",
-	"prefix": "statcan",
-	"key": "",
-	"url": "http://statcan.gc.ca/",
-	"license": "http://www.statcan.gc.ca/eng/reference/licence-eng",
-	"license_type": "CC BY (assumed)",
-	"license_text": "Subject to this agreement, Statistics Canada grants you a worldwide, royalty-free, non-exclusive licence to: use, reproduce, publish, freely distribute, or sell the Information; use, reproduce, publish, freely distribute, or sell Value-added Products; and, sublicence any or all such rights, under terms consistent with this agreement.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Statistics Canada produces statistics that help Canadians better understand their country,its population, resources, economy, society and culture."
+    "description": "Statistics Canada produces statistics that help Canadians better understand their country,its population, resources, economy, society and culture.", 
+    "fullname": "Statistics Canada", 
+    "id": 554906275, 
+    "key": "", 
+    "license": "http://www.statcan.gc.ca/eng/reference/licence-eng", 
+    "license_text": "Subject to this agreement, Statistics Canada grants you a worldwide, royalty-free, non-exclusive licence to: use, reproduce, publish, freely distribute, or sell the Information; use, reproduce, publish, freely distribute, or sell Value-added Products; and, sublicence any or all such rights, under terms consistent with this agreement.", 
+    "license_type": "CC BY (assumed)", 
+    "name": "statcan", 
+    "prefix": "statcan", 
+    "url": "http://statcan.gc.ca/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

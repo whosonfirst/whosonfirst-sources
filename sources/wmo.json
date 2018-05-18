@@ -1,15 +1,15 @@
 {
-	"id": 1158832833,
-	"fullname": "World Meteorological Organization",
-	"name": "wmo",
-	"prefix": "wmo",
-	"key": "id",
-	"url": "http://icoads.noaa.gov/metadata/wmo47/wmo_quarterly/47CodeTables9903.html",
-	"license": "https://public.wmo.int/en/copyright",
-	"license_type": "CC BY-NC-ND 4.0",
-	"license_text": "Reproduction of short excerpts of WMO materials, figures and photographs on this website is authorized free of charge and without formal written permission provided that the original source is acknowledged. Reproduction of videos files are authorized free of charge and without formal written permission provided that the original source is acknowledged and subject to the standard creative commons licensing conditions Creative Commons License.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Country abbreviations used in weather reports from the World Meteorological Organization."
+    "description": "Country abbreviations used in weather reports from the World Meteorological Organization.", 
+    "fullname": "World Meteorological Organization", 
+    "id": 1158832833, 
+    "key": "id", 
+    "license": "https://public.wmo.int/en/copyright", 
+    "license_text": "Reproduction of short excerpts of WMO materials, figures and photographs on this website is authorized free of charge and without formal written permission provided that the original source is acknowledged. Reproduction of videos files are authorized free of charge and without formal written permission provided that the original source is acknowledged and subject to the standard creative commons licensing conditions Creative Commons License.", 
+    "license_type": "CC BY-NC-ND 4.0", 
+    "name": "wmo", 
+    "prefix": "wmo", 
+    "url": "http://icoads.noaa.gov/metadata/wmo47/wmo_quarterly/47CodeTables9903.html", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

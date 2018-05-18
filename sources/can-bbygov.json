@@ -1,15 +1,15 @@
 {
-	"id": 1108914995,
-	"fullname": "City of Burnaby GIS Department",
-	"name": "can-bbygov",
-	"prefix": "can-bbygov",
-	"key": "",
-	"url": "http://data.burnaby.ca/datasets/0023da089ff746bfb688e2531d1f2beb_9",
-	"license": "https://www.burnaby.ca/opendata/licence.html",
-	"license_type": "Open Government License - British Columbia, v2.0",
-	"license_text": "you are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data Portal for Burnaby, B.C."
+    "description": "Open Data Portal for Burnaby, B.C.", 
+    "fullname": "City of Burnaby GIS Department", 
+    "id": 1108914995, 
+    "key": "", 
+    "license": "https://www.burnaby.ca/opendata/licence.html", 
+    "license_text": "you are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.", 
+    "license_type": "Open Government License - British Columbia, v2.0", 
+    "name": "can-bbygov", 
+    "prefix": "can-bbygov", 
+    "url": "http://data.burnaby.ca/datasets/0023da089ff746bfb688e2531d1f2beb_9", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1108721357,
-	"fullname": "Azavea, Inc.",
-	"name": "azavea",
-	"prefix": "azavea",
-	"key": "",
-	"url": "https://www.opendataphilly.org/dataset/philadelphia-neighborhoods/resource/06e8d380-821f-44ce-8718-a0f2f7902318",
-	"license": "https://www.opendataphilly.org/dataset/philadelphia-neighborhoods",
-	"license_type": "CC BY 3.0 US",
-	"license_text": "You are free to: Share, copy and redistribute the material in any medium or format. Adapt, remix, transform, and build upon the material for any purpose, even commercially.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Azavea is a civic technology firm based in Philadelphia. Azavea applies geospatial technology for civic and social impact."
+    "description": "Azavea is a civic technology firm based in Philadelphia. Azavea applies geospatial technology for civic and social impact.", 
+    "fullname": "Azavea, Inc.", 
+    "id": 1108721357, 
+    "key": "", 
+    "license": "https://www.opendataphilly.org/dataset/philadelphia-neighborhoods", 
+    "license_text": "You are free to: Share, copy and redistribute the material in any medium or format. Adapt, remix, transform, and build upon the material for any purpose, even commercially.", 
+    "license_type": "CC BY 3.0 US", 
+    "name": "azavea", 
+    "prefix": "azavea", 
+    "url": "https://www.opendataphilly.org/dataset/philadelphia-neighborhoods/resource/06e8d380-821f-44ce-8718-a0f2f7902318", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

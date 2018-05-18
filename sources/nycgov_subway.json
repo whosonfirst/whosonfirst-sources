@@ -1,15 +1,15 @@
 {
-	"id": 1108960969,
-	"fullname": "NYC OpenData - Subway Stations",
-	"name": "nycgov_subway",
-	"prefix": "nycgov_subway",
-	"key": "objectid",
-	"url": "https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49",
-	"license": "http://legistar.council.nyc.gov/ViewReport.ashx?M=R&N=Text&GID=61&ID=1090992&GUID=B1263195-66B9-48AD-A381-57584D623443&Title=Legislation+Text",
-	"license_type": "CC0 (assumed)",
-	"license_text": "Such public data sets shall be made available without any registration requirement, license requirement or restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for New York City, NY."
+    "description": "Open Data portal for New York City, NY.", 
+    "fullname": "NYC OpenData - Subway Stations", 
+    "id": 1108960969, 
+    "key": "objectid", 
+    "license": "http://legistar.council.nyc.gov/ViewReport.ashx?M=R&N=Text&GID=61&ID=1090992&GUID=B1263195-66B9-48AD-A381-57584D623443&Title=Legislation+Text", 
+    "license_text": "Such public data sets shall be made available without any registration requirement, license requirement or restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set.", 
+    "license_type": "CC0 (assumed)", 
+    "name": "nycgov_subway", 
+    "prefix": "nycgov_subway", 
+    "url": "https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

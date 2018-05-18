@@ -1,15 +1,15 @@
 {
-	"id": 1159297643,
-	"fullname": "GeoDanmark",
-	"name": "dk-geodk",
-	"prefix": "dk-geodk",
-	"key": "",
-	"url": "https://www.geodanmark.dk/",
-	"license": "https://download.kortforsyningen.dk/content/vilk%C3%A5r-og-betingelser",
-	"license_type": "CC BY (equivalent)",
-	"license_text": "The Authority provides a worldwide, free, non-exclusive, and unlimited right of access to data, which is free, and can be: copied, distributed and published, changed and compounded with other material used commercially and non-commercially. Contains data from the 2018 GeoDanmark/Basic Data Agency/Data Supply and Efficiency Board DAGIREF_SHAPE_UTM32-EUREF89 file.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "GeoDanmark data is a digital map of city and landscape, which can be used to calculate distances and locations without having to measure and measure physically in the surroundings."
+    "description": "GeoDanmark data is a digital map of city and landscape, which can be used to calculate distances and locations without having to measure and measure physically in the surroundings.", 
+    "fullname": "GeoDanmark", 
+    "id": 1159297643, 
+    "key": "", 
+    "license": "https://download.kortforsyningen.dk/content/vilk%C3%A5r-og-betingelser", 
+    "license_text": "The Authority provides a worldwide, free, non-exclusive, and unlimited right of access to data, which is free, and can be: copied, distributed and published, changed and compounded with other material used commercially and non-commercially. Contains data from the 2018 GeoDanmark/Basic Data Agency/Data Supply and Efficiency Board DAGIREF_SHAPE_UTM32-EUREF89 file.", 
+    "license_type": "CC BY (equivalent)", 
+    "name": "dk-geodk", 
+    "prefix": "dk-geodk", 
+    "url": "https://www.geodanmark.dk/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

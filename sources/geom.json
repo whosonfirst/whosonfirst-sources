@@ -1,13 +1,13 @@
 {
-	"id": 1108830733,
-	"fullname": "geom",
-	"name": "geom",
-	"prefix": "geom",
-	"key": "id",
-	"url": "",
-	"license": "CC0",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Property prefix."
+    "description": "Property prefix.", 
+    "fullname": "geom", 
+    "id": 1108830733, 
+    "key": "id", 
+    "license": "CC0", 
+    "name": "geom", 
+    "prefix": "geom", 
+    "url": "", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

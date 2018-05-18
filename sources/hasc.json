@@ -1,15 +1,15 @@
 {
-	"id": 1108827445,
-	"fullname": "Statoids HASC",
-	"name": "hasc",
-	"prefix": "hasc",
-	"key": "id",
-	"url": "http://www.statoids.com/",
-	"license": "http://www.statoids.com/ihasc.html",
-	"license_type": "CC0",
-	"license_text": "CC0 per email with Gwillim Law of Statoids on August 11, 2015.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Administrative subdivisions of countries; a comprehensive world reference, 1900 to 1998. Gwillim Law: 'As far as I'm concerned, HASC codes are in the public domain - to encourage people or organizations to use them for data communication.' The 'hasc:id' is a variable property mapping, depending on the placetype of a record."
+    "description": "Administrative subdivisions of countries; a comprehensive world reference, 1900 to 1998. Gwillim Law: 'As far as I'm concerned, HASC codes are in the public domain - to encourage people or organizations to use them for data communication.' The 'hasc:id' is a variable property mapping, depending on the placetype of a record.", 
+    "fullname": "Statoids HASC", 
+    "id": 1108827445, 
+    "key": "id", 
+    "license": "http://www.statoids.com/ihasc.html", 
+    "license_text": "CC0 per email with Gwillim Law of Statoids on August 11, 2015.", 
+    "license_type": "CC0", 
+    "name": "hasc", 
+    "prefix": "hasc", 
+    "url": "http://www.statoids.com/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }
