@@ -92,7 +92,7 @@ if __name__ == '__main__':
         all_uses = ', '.join(usage)
 
         if not usage == []:
-            docs.write("* %s: _%s_\n" % ('usage', all_uses))
+            docs.write("* %s: %s\n" % ('usage', all_uses))
 
         docs.write("\n")
 
