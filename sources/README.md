@@ -1086,6 +1086,10 @@ _Mesoshapes are a product of Mapzen for Who's On First._
 * url: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
+  This source includes data from the following organizations:
+  	* [Art of the Mappable](https://github.com/whosonfirst-data/whosonfirst-data#license)
+  	* [ESRI OPEN](http://hub.arcgis.com/pages/open-data)
+  	* [DATAMEET](http://datameet.org/)
 * usage: `property`, `geometry`
 
 ## Mini Tenders
@@ -1359,6 +1363,66 @@ _A gazetteer of non-overlapping, authoritative polygons around a curated list of
 * url: _http://www.quattroshapes.com/_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md_
 * license: _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
+  This source includes data from the following organizations:
+  	* [Lithuania: Nacionalinė žemės tarnyba]()
+  	* [Iceland: Landmælingar Íslands]()
+  	* [Brazil: IBGE]()
+  	* [Denmark: Kort og Matrikelstyrelsen]()
+  	* [Czech Republic: Ceskúrad zememerick a katastrální]()
+  	* [Netherlands: Kadaster]()
+  	* [Sweden: Lantmäteriet]()
+  	* [Faroe Islands: Kort og Matrikelstyrelsen]()
+  	* [Rep. of Slovakia: Geodetick a kartografick ústav]()
+  	* [United States: United States Census Bureau]()
+  	* [Romania: CNGCFT, National Center of Geodesie, Cartography, Fotogrametry and Remote Sensing]()
+  	* [Northern Ireland: Ordnance Survey of Northern Ireland]()
+  	* [Flickr]()
+  	* [Greece: Hellenic Military Geographical Service]()
+  	* [Canada:: Department of Natural Resources Canada, Statistics Canada, and BC Stats]()
+  	* [Spain: Centro Nacional de Informacion Geografica – Instituto Geográfico Nacional]()
+  	* [Geonames]()
+  	* [France: Institut National de l’Information Géographique et Forestière]()
+  	* [Ukraine: Research Institute of Geodesy and Cartography]()
+  	* [Hungary: Földmérési és Távérzékelési Intézet]()
+  	* [Indonesia: Global Map of Indonesia (ISCGM/Indonesia)]()
+  	* [Germany: Bundesamt für Kartographie und Geodäsie]()
+  	* [Moldova: State Agency for Land Relations and Cadastre]()
+  	* [Portugal: Instituto Geográfico Português]()
+  	* [Netherlands: Topografische Dienst Nederland]()
+  	* [Luxembourg: Administration du Cadastre et de la Topographie]()
+  	* [United Kingdom: Ordnance Survey]()
+  	* [Estonia: Maaamet]()
+  	* [New Zealand: Land Information New Zealand]()
+  	* [Serbia: Republički geodetski zavod]()
+  	* [South Africa: Global Map of the Republic of South Africa: ISCGM/State Copyright, Department of Rural Development and Land Reform, Chief Directorate of National Geo-spatial Information](http://www.ngi.gov.za/)
+  	* [Croatia: Drzavna Geodetska Uprava]()
+  	* [Austria: Bundesamt für Eich- und Vermessungswesen]()
+  	* [Spain: Instituto Geográfico Nacional]()
+  	* [Italy: Istituto Geografico Militare Italiano]()
+  	* [Great Britain: Ordnance Survey]()
+  	* [Cyprus: Lands and Surveys, Survey and Cartogr. Br.]()
+  	* [Yahoo!]()
+  	* [Poland: Główny Urząd Geodezji i Kartografii]()
+  	* [Europe-wide: European Environment Agency (EEA)](http://www.eea.europa.eu/data-and-maps/data/urban-morphological-zones-2006-umz2006-f3v0)
+  	* [Switzerland: Bundesamt für Landestopographie]()
+  	* [EuroGeoGraphics]()
+  	* [Ireland: Ordnance Survey Ireland]()
+  	* [Slovenia: Geodetska Uprava Republike Slovenije]()
+  	* [Finland: Maanmittauslaitos]()
+  	* [Chile: Global Map of Chile: International Steering Committee for Global Mapping / Instituto Geografico Militar de Chile]()
+  	* [Latvia: Latvijas Republikas Valsts zemes dienests]()
+  	* [Bulgaria: Cadastre Agency, MRDPW]()
+  	* [Mexico: INEGI]()
+  	* [Belgium: Institut Géographique National – Belgique]()
+  	* [Greenland: Kort og Matrikelstyrelsen]()
+  	* [Australia: Geoscience Australia and Australian Bureau of Statistics]()
+  	* [Palestine: Global Map of Palestine: ISCGM/Palestinian National Authority, Ministry of Planning. Geographic Center and Technical Support](www.mop.gov.ps)
+  	* [Switzerland: swisstopo]()
+  	* [Norway: Statens Kartverk]()
+  	* [Liechtenstein: Bundesamt für Landestopographie]()
+  	* [France: Institut Géographique National]()
+  	* [Malta: Malta Environment and Planning Authority (MEPA)]()
+  	* [Georgia: National Agency of Public Registry]()
 * usage: `concordance`, `property`, `geometry`
 
 ## Quattroshapes Point Gazetteer
@@ -1827,6 +1891,9 @@ _Zetashapes is an experiment in crowdsourced US neighborhood polygons._
 * url: _http://www.zetashapes.com_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes_remarks.md_
 * license: _http://www.zetashapes.com/license_
+  This source includes data from the following organizations:
+  	* [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+  	* [flickr](https://www.flickr.com/)
 * usage: `property`, `geometry`
 
 ## Zolk Chicago Neighborhoods Map
