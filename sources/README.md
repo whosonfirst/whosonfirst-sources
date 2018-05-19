@@ -1086,6 +1086,7 @@ _Mesoshapes are a product of Mapzen for Who's On First._
 * url: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
+
   This source includes data from the following organizations:
   	* [Art of the Mappable](https://github.com/whosonfirst-data/whosonfirst-data#license)
   	* [ESRI OPEN](http://hub.arcgis.com/pages/open-data)
@@ -1363,6 +1364,7 @@ _A gazetteer of non-overlapping, authoritative polygons around a curated list of
 * url: _http://www.quattroshapes.com/_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md_
 * license: _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
+
   This source includes data from the following organizations:
   	* [Lithuania: Nacionalinė žemės tarnyba]()
   	* [Iceland: Landmælingar Íslands]()
@@ -1891,6 +1893,7 @@ _Zetashapes is an experiment in crowdsourced US neighborhood polygons._
 * url: _http://www.zetashapes.com_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes_remarks.md_
 * license: _http://www.zetashapes.com/license_
+
   This source includes data from the following organizations:
   	* [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-line.html)
   	* [flickr](https://www.flickr.com/)

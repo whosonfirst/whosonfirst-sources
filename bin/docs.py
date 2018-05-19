@@ -80,7 +80,7 @@ if __name__ == '__main__':
             docs.write("* %s: `%s`\n" % ('license', details['license']))
 
         if details.get('src:via'):
-            docs.write("  This source includes data from the following organizations:\n")
+            docs.write("\n  This source includes data from the following organizations:\n")
             for k,v in details['src:via'].items():
                 docs.write("  \t* [%s](%s)\n" % (k,v))
 
