@@ -1,5 +1,5 @@
 {
-    "description": "Open Data Portal for British Colombia, Canada", 
+    "description": "Open Data Portal for British Colombia, Canada. Used for processing Who's On First geometries.", 
     "fullname": "DataBC - British Colombia Open Data Catalogue", 
     "id": 1158868581, 
     "key": "", 
@@ -10,6 +10,6 @@
     "prefix": "can-databc", 
     "url": "https://catalogue.data.gov.bc.ca/dataset?download_audience=Public", 
     "usage_concordance": 0, 
-    "usage_geometry": 0, 
-    "usage_property": 0
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

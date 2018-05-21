@@ -10,6 +10,6 @@
     "prefix": "austriaod", 
     "url": "https://www.data.gv.at/katalog/dataset/c33d36b0-f184-4f2a-89cc-839ca7fcf88a", 
     "usage_concordance": 0, 
-    "usage_geometry": 0, 
-    "usage_property": 1
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

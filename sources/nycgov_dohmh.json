@@ -9,7 +9,7 @@
     "name": "nycgov_dohmh", 
     "prefix": "nycgov_dohmh", 
     "url": "https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 0, 
     "usage_property": 0
 }

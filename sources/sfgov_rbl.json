@@ -9,7 +9,7 @@
     "name": "sfgov_rbl", 
     "prefix": "sfgov_rbl", 
     "url": "https://data.sfgov.org/", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 0, 
     "usage_property": 0
 }

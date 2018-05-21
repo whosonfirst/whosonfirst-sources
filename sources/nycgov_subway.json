@@ -9,7 +9,7 @@
     "name": "nycgov_subway", 
     "prefix": "nycgov_subway", 
     "url": "https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 0, 
     "usage_property": 0
 }

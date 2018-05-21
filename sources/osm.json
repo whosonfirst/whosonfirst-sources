@@ -7,7 +7,7 @@
     "name": "osm", 
     "prefix": "osm", 
     "url": "https://openstreetmap.org", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 0, 
     "usage_property": 0
 }

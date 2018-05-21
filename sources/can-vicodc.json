@@ -10,6 +10,6 @@
     "prefix": "can-vicodc", 
     "url": "http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html", 
     "usage_concordance": 0, 
-    "usage_geometry": 0, 
+    "usage_geometry": 1, 
     "usage_property": 0
 }
