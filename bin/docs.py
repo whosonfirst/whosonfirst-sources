@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
         if details.get('edtf:deprecated'):
             if not details['edtf:deprecated'] == 'uuuu':
-                docs.write("* %s\n" % ('This source has been deprecated.'))
+                docs.write("* %s %s.\n" % ('This source was deprecated on', details['edtf:deprecated']))
 
         for k in ('id', 'name', 'prefix'):
 
@@ -82,11 +82,10 @@ if __name__ == '__main__':
         if details.get('src:via'):
             docs.write("\n  This source includes data from the following organizations:\n")
             for via in details['src:via']:
-                for k,v in via.items():
-                    if k == 'source_note':
-                        docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
-                    else:
-                        docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
+                if via['source_note']:
+                    docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
+                else:
+                    docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
 
         usage = []
         
