@@ -86,6 +86,7 @@ _Open Data portal for the City of Buenos Aires, Argentina._
 * license_text: _La reutilización autorizada puede incluir la copia, difusión, modificación, adaptación, extracción, reordenamiento y combinación de la información contenida en el sitio ... Debe citarse la fuente de los documentos objeto de la reutilización._
 * url: _https://data.buenosaires.gob.ar/dataset/barrios_
 * license: _https://data.buenosaires.gob.ar/tyc_
+* usage: `geometry`
 
 ## data.gv.at
 
@@ -783,7 +784,7 @@ _The GeoNames geographical database covers all countries and contains over eleve
 * url: _http://www.geonames.org/_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geonames_remarks.md_
 * license: _http://www.geonames.org/about.html_
-* usage: `concordance`, `property`
+* usage: `concordance`, `property`, `geometry`
 
 ## Yahoo! GeoPlanet
 
@@ -1033,7 +1034,7 @@ _Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several othe
 * license_text: _This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/._
 * url: _https://github.com/mbloch/mapshaper_
 * license: _http://mozilla.org/MPL/2.0/_
-* usage: `property`
+* usage: `property`, `geometry`
 
 ## Mapzen
 
@@ -1764,6 +1765,7 @@ _The leading source of quality data about the nation's people and economy from t
 * license_text: _All U.S. Census Bureau materials, regardless of the media, are entirely in the public domain. There are no user fees, site licenses, or any special agreements etc for the public or private use, and or reuse of any census title. As tax funded product, it's all in the public record._
 * url: _https://www.census.gov/_
 * license: _https://www.census.gov/data/developers/about/terms-of-service.html_
+* usage: `geometry`
 
 ## US ZIP Code Tabulation Area
 
@@ -1891,6 +1893,7 @@ _Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who'
 * license_type: _CC0_
 * license_text: _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * license: `N/A`
+* usage: `geometry`
 
 ## Zetashapes
 
