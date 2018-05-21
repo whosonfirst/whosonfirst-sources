@@ -11,6 +11,6 @@
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geonames_remarks.md", 
     "url": "http://www.geonames.org/", 
     "usage_concordance": 1, 
-    "usage_geometry": 0, 
+    "usage_geometry": 1, 
     "usage_property": 1
 }

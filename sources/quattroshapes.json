@@ -11,426 +11,426 @@
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md", 
     "src:via": [
         {
-            "context": "Australia",
-            "source_name": "Geoscience Australia and Australian Bureau of Statistics",
-            "source_link": "",
+            "context": "Australia", 
+            "source_link": "", 
+            "source_name": "Geoscience Australia and Australian Bureau of Statistics", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Austria",
-            "source_name": "Bundesamt für Eich- und Vermessungswesen",
-            "source_link": "",
+            "context": "Austria", 
+            "source_link": "", 
+            "source_name": "Bundesamt f\u00fcr Eich- und Vermessungswesen", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Belgium",
-            "source_name": "Institut Géographique National – Belgique",
-            "source_link": "",
+            "context": "Belgium", 
+            "source_link": "", 
+            "source_name": "Institut G\u00e9ographique National \u2013 Belgique", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Brazil",
-            "source_name": "IBGE",
-            "source_link": "",
+            "context": "Brazil", 
+            "source_link": "", 
+            "source_name": "IBGE", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Bulgaria",
-            "source_name": "Cadastre Agency",
-            "source_link": "",
+            "context": "Bulgaria", 
+            "source_link": "", 
+            "source_name": "Cadastre Agency", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Bulgaria",
-            "source_name": "MRDPW",
-            "source_link": "",
+            "context": "Bulgaria", 
+            "source_link": "", 
+            "source_name": "MRDPW", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Canada",
-            "source_name": "Department of Natural Resources Canada",
-            "source_link": "",
+            "context": "Canada", 
+            "source_link": "", 
+            "source_name": "Department of Natural Resources Canada", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Canada",
-            "source_name": "Statistics Canada",
-            "source_link": "",
+            "context": "Canada", 
+            "source_link": "", 
+            "source_name": "Statistics Canada", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Canada",
-            "source_name": "BC Stats",
-            "source_link": "",
+            "context": "Canada", 
+            "source_link": "", 
+            "source_name": "BC Stats", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Chile: Global Map of Chile",
-            "source_name": "International Steering Committee for Global Mapping / Instituto Geografico Militar de Chile",
-            "source_link": "",
+            "context": "Chile: Global Map of Chile", 
+            "source_link": "", 
+            "source_name": "International Steering Committee for Global Mapping / Instituto Geografico Militar de Chile", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Croatia",
-            "source_name": "Drzavna Geodetska Uprava",
-            "source_link": "",
+            "context": "Croatia", 
+            "source_link": "", 
+            "source_name": "Drzavna Geodetska Uprava", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Cyprus",
-            "source_name": "Lands and Surveys",
-            "source_link": "",
+            "context": "Cyprus", 
+            "source_link": "", 
+            "source_name": "Lands and Surveys", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Cyprus",
-            "source_name": "Survey and Cartogr. Br.",
-            "source_link": "",
+            "context": "Cyprus", 
+            "source_link": "", 
+            "source_name": "Survey and Cartogr. Br.", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Czech Republic",
-            "source_name": "Ceskúrad zememerick a katastrální",
-            "source_link": "",
+            "context": "Czech Republic", 
+            "source_link": "", 
+            "source_name": "Cesk\u00farad zememerick a katastr\u00e1ln\u00ed", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Denmark",
-            "source_name": "Kort og Matrikelstyrelsen",
-            "source_link": "",
+            "context": "Denmark", 
+            "source_link": "", 
+            "source_name": "Kort og Matrikelstyrelsen", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Estonia",
-            "source_name": "Maaamet",
-            "source_link": "",
+            "context": "Estonia", 
+            "source_link": "", 
+            "source_name": "Maaamet", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Europe",
-            "source_name": "EuroGeoGraphics",
-            "source_link": "",
+            "context": "Europe", 
+            "source_link": "", 
+            "source_name": "EuroGeoGraphics", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Europe",
-            "source_name": "European Environment Agency (EEA)",
-            "source_link": "http://www.eea.europa.eu/data-and-maps/data/urban-morphological-zones-2006-umz2006-f3v0",
+            "context": "Europe", 
+            "source_link": "http://www.eea.europa.eu/data-and-maps/data/urban-morphological-zones-2006-umz2006-f3v0", 
+            "source_name": "European Environment Agency (EEA)", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Faroe Islands",
-            "source_name": "Kort og Matrikelstyrelsen",
-            "source_link": "",
+            "context": "Faroe Islands", 
+            "source_link": "", 
+            "source_name": "Kort og Matrikelstyrelsen", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Finland",
-            "source_name": "Maanmittauslaitos",
-            "source_link": "",
+            "context": "Finland", 
+            "source_link": "", 
+            "source_name": "Maanmittauslaitos", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Global",
-            "source_name": "Flickr",
-            "source_link": "",
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Flickr", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "France",
-            "source_name": "Institut Géographique National",
-            "source_link": "",
+            "context": "France", 
+            "source_link": "", 
+            "source_name": "Institut G\u00e9ographique National", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "France",
-            "source_name": "Institut National de l’Information Géographique et Forestière",
-            "source_link": "",
+            "context": "France", 
+            "source_link": "", 
+            "source_name": "Institut National de l\u2019Information G\u00e9ographique et Foresti\u00e8re", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Global",
-            "source_name": "Geonames",
-            "source_link": "",
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Geonames", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Georgia",
-            "source_name": "National Agency of Public Registry",
-            "source_link": "",
+            "context": "Georgia", 
+            "source_link": "", 
+            "source_name": "National Agency of Public Registry", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Germany",
-            "source_name": "Bundesamt für Kartographie und Geodäsie",
-            "source_link": "",
+            "context": "Germany", 
+            "source_link": "", 
+            "source_name": "Bundesamt f\u00fcr Kartographie und Geod\u00e4sie", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Great Britain",
-            "source_name": "Ordnance Survey",
-            "source_link": "",
+            "context": "Great Britain", 
+            "source_link": "", 
+            "source_name": "Ordnance Survey", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Greece",
-            "source_name": "Hellenic Military Geographical Service",
-            "source_link": "",
+            "context": "Greece", 
+            "source_link": "", 
+            "source_name": "Hellenic Military Geographical Service", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Greenland",
-            "source_name": "Kort og Matrikelstyrelsen",
-            "source_link": "",
+            "context": "Greenland", 
+            "source_link": "", 
+            "source_name": "Kort og Matrikelstyrelsen", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Hungary",
-            "source_name": "Földmérési és Távérzékelési Intézet",
-            "source_link": "",
+            "context": "Hungary", 
+            "source_link": "", 
+            "source_name": "F\u00f6ldm\u00e9r\u00e9si \u00e9s T\u00e1v\u00e9rz\u00e9kel\u00e9si Int\u00e9zet", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Iceland",
-            "source_name": "Landmælingar Íslands",
-            "source_link": "",
+            "context": "Iceland", 
+            "source_link": "", 
+            "source_name": "Landm\u00e6lingar \u00cdslands", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Indonesia",
-            "source_name": "Global Map of Indonesia (ISCGM/Indonesia)",
-            "source_link": "",
+            "context": "Indonesia", 
+            "source_link": "", 
+            "source_name": "Global Map of Indonesia (ISCGM/Indonesia)", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Ireland",
-            "source_name": "Ordnance Survey Ireland",
-            "source_link": "",
+            "context": "Ireland", 
+            "source_link": "", 
+            "source_name": "Ordnance Survey Ireland", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Italy",
-            "source_name": "Istituto Geografico Militare Italiano",
-            "source_link": "",
+            "context": "Italy", 
+            "source_link": "", 
+            "source_name": "Istituto Geografico Militare Italiano", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Latvia",
-            "source_name": "Latvijas Republikas Valsts zemes dienests",
-            "source_link": "",
+            "context": "Latvia", 
+            "source_link": "", 
+            "source_name": "Latvijas Republikas Valsts zemes dienests", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Liechtenstein",
-            "source_name": "Bundesamt für Landestopographie",
-            "source_link": "",
+            "context": "Liechtenstein", 
+            "source_link": "", 
+            "source_name": "Bundesamt f\u00fcr Landestopographie", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Lithuania",
-            "source_name": "Nacionalinė žemės tarnyba",
-            "source_link": "",
+            "context": "Lithuania", 
+            "source_link": "", 
+            "source_name": "Nacionalin\u0117 \u017eem\u0117s tarnyba", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Luxembourg",
-            "source_name": "Administration du Cadastre et de la Topographie",
-            "source_link": "",
+            "context": "Luxembourg", 
+            "source_link": "", 
+            "source_name": "Administration du Cadastre et de la Topographie", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Malta",
-            "source_name": "Malta Environment and Planning Authority (MEPA)",
-            "source_link": "",
+            "context": "Malta", 
+            "source_link": "", 
+            "source_name": "Malta Environment and Planning Authority (MEPA)", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Mexico",
-            "source_name": "INEGI",
-            "source_link": "",
+            "context": "Mexico", 
+            "source_link": "", 
+            "source_name": "INEGI", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Moldova",
-            "source_name": "State Agency for Land Relations and Cadastre",
-            "source_link": "",
+            "context": "Moldova", 
+            "source_link": "", 
+            "source_name": "State Agency for Land Relations and Cadastre", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Netherlands",
-            "source_name": "Kadaster",
-            "source_link": "",
+            "context": "Netherlands", 
+            "source_link": "", 
+            "source_name": "Kadaster", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Netherlands",
-            "source_name": "Topografische Dienst Nederland",
-            "source_link": "",
+            "context": "Netherlands", 
+            "source_link": "", 
+            "source_name": "Topografische Dienst Nederland", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "New Zealand",
-            "source_name": "Land Information New Zealand",
-            "source_link": "",
+            "context": "New Zealand", 
+            "source_link": "", 
+            "source_name": "Land Information New Zealand", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Northern Ireland",
-            "source_name": "Ordnance Survey of Northern Ireland",
-            "source_link": "",
+            "context": "Northern Ireland", 
+            "source_link": "", 
+            "source_name": "Ordnance Survey of Northern Ireland", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Norway",
-            "source_name": "Statens Kartverk",
-            "source_link": "",
+            "context": "Norway", 
+            "source_link": "", 
+            "source_name": "Statens Kartverk", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Palestine: Global Map of Palestine",
-            "source_name": "ISCGM/Palestinian National Authority",
-            "source_link": "",
+            "context": "Palestine: Global Map of Palestine", 
+            "source_link": "", 
+            "source_name": "ISCGM/Palestinian National Authority", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Palestine",
-            "source_name": "Ministry of Planning",
-            "source_link": "",
+            "context": "Palestine", 
+            "source_link": "", 
+            "source_name": "Ministry of Planning", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Palestine",
-            "source_name": "Geographic Center and Technical Support",
-            "source_link": "www.mop.gov.ps",
+            "context": "Palestine", 
+            "source_link": "www.mop.gov.ps", 
+            "source_name": "Geographic Center and Technical Support", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Poland",
-            "source_name": "Główny Urząd Geodezji i Kartografii",
-            "source_link": "",
+            "context": "Poland", 
+            "source_link": "", 
+            "source_name": "G\u0142\u00f3wny Urz\u0105d Geodezji i Kartografii", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Portugal",
-            "source_name": "Instituto Geográfico Português",
-            "source_link": "",
+            "context": "Portugal", 
+            "source_link": "", 
+            "source_name": "Instituto Geogr\u00e1fico Portugu\u00eas", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Rep. of Slovakia",
-            "source_name": "Geodetick a kartografick ústav",
-            "source_link": "",
+            "context": "Rep. of Slovakia", 
+            "source_link": "", 
+            "source_name": "Geodetick a kartografick \u00fastav", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Romania",
-            "source_name": "CNGCFT",
-            "source_link": "",
+            "context": "Romania", 
+            "source_link": "", 
+            "source_name": "CNGCFT", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Romania",
-            "source_name": "National Center of Geodesie",
-            "source_link": "",
+            "context": "Romania", 
+            "source_link": "", 
+            "source_name": "National Center of Geodesie", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Romania",
-            "source_name": "Cartography",
-            "source_link": "",
+            "context": "Romania", 
+            "source_link": "", 
+            "source_name": "Cartography", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Romania",
-            "source_name": "Fotogrametry and Remote Sensing",
-            "source_link": "",
+            "context": "Romania", 
+            "source_link": "", 
+            "source_name": "Fotogrametry and Remote Sensing", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Serbia",
-            "source_name": "Republički geodetski zavod",
-            "source_link": "",
+            "context": "Serbia", 
+            "source_link": "", 
+            "source_name": "Republi\u010dki geodetski zavod", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Slovenia",
-            "source_name": "Geodetska Uprava Republike Slovenije",
-            "source_link": "",
+            "context": "Slovenia", 
+            "source_link": "", 
+            "source_name": "Geodetska Uprava Republike Slovenije", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "South Africa: Global Map of the Republic of South Africa",
-            "source_name": "ISCGM/State Copyright",
-            "source_link": "",
+            "context": "South Africa: Global Map of the Republic of South Africa", 
+            "source_link": "", 
+            "source_name": "ISCGM/State Copyright", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "South Africa",
-            "source_name": "Department of Rural Development and Land Reform",
-            "source_link": "",
+            "context": "South Africa", 
+            "source_link": "", 
+            "source_name": "Department of Rural Development and Land Reform", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "South Africa",
-            "source_name": "Chief Directorate of National Geo-spatial Information",
-            "source_link": "http://www.ngi.gov.za/",
+            "context": "South Africa", 
+            "source_link": "http://www.ngi.gov.za/", 
+            "source_name": "Chief Directorate of National Geo-spatial Information", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Spain",
-            "source_name": "Centro Nacional de Informacion Geografica – Instituto Geográfico Nacional",
-            "source_link": "",
+            "context": "Spain", 
+            "source_link": "", 
+            "source_name": "Centro Nacional de Informacion Geografica \u2013 Instituto Geogr\u00e1fico Nacional", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Spain",
-            "source_name": "Instituto Geográfico Nacional",
-            "source_link": "",
+            "context": "Spain", 
+            "source_link": "", 
+            "source_name": "Instituto Geogr\u00e1fico Nacional", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Sweden",
-            "source_name": "Lantmäteriet",
-            "source_link": "",
+            "context": "Sweden", 
+            "source_link": "", 
+            "source_name": "Lantm\u00e4teriet", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Switzerland",
-            "source_name": "Bundesamt für Landestopographie",
-            "source_link": "",
+            "context": "Switzerland", 
+            "source_link": "", 
+            "source_name": "Bundesamt f\u00fcr Landestopographie", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Switzerland",
-            "source_name": "swisstopo",
-            "source_link": "",
+            "context": "Switzerland", 
+            "source_link": "", 
+            "source_name": "swisstopo", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Ukraine",
-            "source_name": "Research Institute of Geodesy and Cartography",
-            "source_link": "",
+            "context": "Ukraine", 
+            "source_link": "", 
+            "source_name": "Research Institute of Geodesy and Cartography", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "United Kingdom",
-            "source_name": "Ordnance Survey",
-            "source_link": "",
+            "context": "United Kingdom", 
+            "source_link": "", 
+            "source_name": "Ordnance Survey", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "United States",
-            "source_name": "United States Census Bureau",
-            "source_link": "",
+            "context": "United States", 
+            "source_link": "", 
+            "source_name": "United States Census Bureau", 
             "source_note": ""
-        },
+        }, 
         {
-            "context": "Global",
-            "source_name": "Yahoo!",
-            "source_link": "",
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Yahoo!", 
             "source_note": ""
         }
-    ],
+    ], 
     "url": "http://www.quattroshapes.com/", 
     "usage_concordance": 1, 
     "usage_geometry": 1, 
