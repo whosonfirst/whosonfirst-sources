@@ -65,9 +65,21 @@
             "source_note": ""
         }, 
         {
-            "context": "Chile: Global Map of Chile", 
+            "context": "Chile", 
             "source_link": "", 
-            "source_name": "International Steering Committee for Global Mapping / Instituto Geografico Militar de Chile", 
+            "source_name": "Global Map of Chile", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Chile", 
+            "source_link": "", 
+            "source_name": "International Steering Committee for Global Mapping", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Chile", 
+            "source_link": "", 
+            "source_name": "Instituto Geografico Militar de Chile", 
             "source_note": ""
         }, 
         {
@@ -287,7 +299,13 @@
             "source_note": ""
         }, 
         {
-            "context": "Palestine: Global Map of Palestine", 
+            "context": "Palestine", 
+            "source_link": "", 
+            "source_name": "Global Map of Palestine", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Palestine", 
             "source_link": "", 
             "source_name": "ISCGM/Palestinian National Authority", 
             "source_note": ""
@@ -359,7 +377,13 @@
             "source_note": ""
         }, 
         {
-            "context": "South Africa: Global Map of the Republic of South Africa", 
+            "context": "South Africa", 
+            "source_link": "", 
+            "source_name": ": Global Map of the Republic of South Africa", 
+            "source_note": ""
+        }, 
+        {
+            "context": "South Africa", 
             "source_link": "", 
             "source_name": "ISCGM/State Copyright", 
             "source_note": ""
