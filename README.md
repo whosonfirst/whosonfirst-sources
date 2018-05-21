@@ -32,7 +32,7 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"license_text":` A one to two sentence description of what the license allows (_string, optional property_).
 
-* `"src:via"`: A list of sources used by a source. A list of key/value pairs that includes the source context, source name, link to the source website, and a note about the source (_list__, optional property_). See Quattroshapes for an example.
+* `"src:via"`: A list of sources used by a source. A list of key/value pairs that includes the source context, source name, link to the source website, and a note about the source (_list, optional property_). See the [template file](source_template.json) for an example.
 
 * `"usage_concordance":` Represents whether or not this source is used for concordance values (_integer, required property_). `1` value indicates use, `0` value indicates no use, `-1` value indicates unsure of use.
 
