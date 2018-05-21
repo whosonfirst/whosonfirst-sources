@@ -555,6 +555,7 @@ _GeoDanmark data is a digital map of city and landscape, which can be used to ca
 
 _These codes are provided for by Article 20 of the Convention on Road Traffic (Geneva, 1949). Therein, they are called 'distinguishing signs of the place of registration' of vehicles._ 
 
+* This source was deprecated on 2018-05-21.
 * id: `1158832831`
 * name: `ds`
 * prefix: `ds`
