@@ -32,7 +32,7 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"license_text":` A one to two sentence description of what the license allows (_string, optional property_).
 
-* `"src:via"`: An array of sources used by a source, a key/value pairing with the key being the source name and the value being the source website (_array, optional property_). See Quattroshapes for an example.
+* `"src:via"`: A list of sources used by a source. A list of key/value pairs that includes the source context, source name, link to the source website, and a note about the source (_list__, optional property_). See Quattroshapes for an example.
 
 * `"usage_concordance":` Represents whether or not this source is used for concordance values (_integer, required property_). `1` value indicates use, `0` value indicates no use, `-1` value indicates unsure of use.
 
@@ -44,7 +44,7 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"mz:is_current":` Represents whether of not a source is currently in use (_integer, optional property_). `0` signifies "not current".
 
-* `"edtf:deprecated":` Indicates the date when a place was determined to be invalid, was never a "going concern" (_string, optional property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
+* `"edtf:deprecated":` Indicates the date when a source was determined to be invalid, was never a "going concern" (_string, optional property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
 
 ## See also
 
