@@ -9,7 +9,20 @@
     "name": "zetashapes",
     "prefix": "zs",
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes_remarks.md",
-    "src:via": {"flickr": "https://www.flickr.com/","United States Census Bureau": "https://www.census.gov/geo/maps-data/data/tiger-line.html"},
+    "src:via": [
+        {
+            "context": "Global",
+            "source_name": "flickr",
+            "source_link": "https://www.flickr.com/",
+            "source_note": ""
+        },
+        {
+            "context": "United States",
+            "source_name": "United States Census Bureau",
+            "source_link": "http://www.census.gov",
+            "source_note": ""
+        }
+    ],
     "url": "http://www.zetashapes.com",
     "usage_concordance": 0,
     "usage_geometry": 1,

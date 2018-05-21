@@ -10,7 +10,26 @@
     "prefix": "meso", 
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md", 
     "url": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
-    "src:via":{"Art of the Mappable":"https://github.com/whosonfirst-data/whosonfirst-data#license","DATAMEET":"http://datameet.org/","ESRI OPEN":"http://hub.arcgis.com/pages/open-data"},
+    "src:via": [
+        {
+            "context": "Global",
+            "source_name": "Art of the Mappable",
+            "source_link": "https://github.com/whosonfirst-data/whosonfirst-data#license",
+            "source_note": ""
+        },
+        {
+            "context": "India",
+            "source_name": "DATAMEET",
+            "source_link": "http://datameet.org/",
+            "source_note": ""
+        },
+        {
+            "context": "Global",
+            "source_name": "ESRI OPEN",
+            "source_link": "http://hub.arcgis.com/pages/open-data",
+            "source_note": ""
+        }
+    ],
     "usage_concordance": 0, 
     "usage_geometry": 1, 
     "usage_property": 1

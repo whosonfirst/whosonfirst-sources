@@ -81,8 +81,12 @@ if __name__ == '__main__':
 
         if details.get('src:via'):
             docs.write("\n  This source includes data from the following organizations:\n")
-            for k,v in details['src:via'].items():
-                docs.write("  \t* [%s](%s)\n" % (k,v))
+            for via in details['src:via']:
+                for k,v in via.items():
+                    if k == 'source_note':
+                        docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
+                    else:
+                        docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
 
         usage = []
         
