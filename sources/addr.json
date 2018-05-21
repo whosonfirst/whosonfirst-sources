@@ -1,5 +1,5 @@
 {
-    "description": "Property prefix.", 
+    "description": "Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/addr) for more information.", 
     "fullname": "addr", 
     "id": 1108832191, 
     "key": "id", 

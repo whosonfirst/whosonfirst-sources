@@ -1,5 +1,5 @@
 {
-    "description": "Property prefix.", 
+    "description": "Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/geom) for more information.", 
     "fullname": "geom", 
     "id": 1108830733, 
     "key": "id", 
