@@ -1944,7 +1944,7 @@ _A map of neighborhood boundaries in the District of Columbia._
 * prefix: `wapo`
 * license_type: _CC-BY_
 * license_text: _The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited._
-* url: _http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes_
+* url: _https://web.archive.org/web/20160209065412/http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes_
 * license: _http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes_
 * usage: `property`, `geometry`
 
