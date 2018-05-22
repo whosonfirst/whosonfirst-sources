@@ -6,7 +6,7 @@
     "license": "https://mapzen.com/terms/", 
     "license_text": "Subject to these Terms, Mapzen hereby grants to you a non-exclusive, non-transferable, non-sublicensable license during the Term to: (i) copy and use the Tools solely to develop products and services to be made available by you ('Your Products'), and to distribute elements of the Tools as incorporated into Your Products; (ii) use and access the Services as provided by Mapzen subject to the Rate Limits; and (iii) if you've ordered Mapzen Data Products, use the Mapzen Data Products for your internal use and only as part of Your Products which are provided directly to end users, and not for resale or for redistribution or use in conjunction with, or as part of, the products or services of others. Except for the foregoing license, Mapzen and its suppliers own all right, title and interest in and to the Services, Tools and Mapzen Data Products, and no other licenses are granted to you, whether express or implied.", 
     "license_type": "CC0", 
-    "mz_derived": 1,
+    "mz_associated": 1,
     "name": "mapzen", 
     "prefix": "mz", 
     "url": "https://www.mapzen.com/", 

@@ -1053,7 +1053,7 @@ _Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several othe
 
 _Mapzen is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `404734197`
 * name: `mapzen`
@@ -1068,7 +1068,7 @@ _This is a Mapzen-derived source._
 
 _Country, region and city boundary data from OpenStreetMap, served monthly until October 2016._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `840464303`
 * name: `mapzenborders`
@@ -1096,7 +1096,7 @@ _MARC is a standard for encoding bibliographic materials in electronic form. The
 
 _Mesoshapes are a product of Mapzen for Who's On First._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `1108756907`
 * name: `meso`
@@ -1205,7 +1205,7 @@ _Open Data portal for the City of New Orleans, LA._
 
 _Home of Null Island._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `404734211`
 * name: `nullisland`
@@ -1746,7 +1746,7 @@ _Open Data portal for Toronto, ON._
 
 _Transitland brings together many sources of transit data to build a directory of operators and feeds that can be edited by transit enthusiasts and developers._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `1108955939`
 * name: `transitland`
@@ -1864,7 +1864,7 @@ _Cached, accessed: 2017-05-11, via: https://web.archive.org/web/20111028163611/h
 
 _Who's On First is a gazetteer of places. Not quite all the places in the world but a whole lot of them and, we hope, the kinds of places that we mostly share in common._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `404734215`
 * name: `whosonfirst`
@@ -1931,7 +1931,7 @@ _Clickable database of Where On Earth (woe) ids._
 
 _Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who's On First._ 
 
-_This is a Mapzen-derived source._ 
+_This is a Mapzen associated source._ 
 
 * id: `404734201`
 * name: `yerbashapes`
