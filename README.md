@@ -44,6 +44,8 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"mz:is_current":` Represents whether of not a source is currently in use (_integer, optional property_). `0` signifies "not current".
 
+* `"mz:associated":` Represents a source associated with works at Mapzen (_integer, optional property_). `1` signifies "Mapzen associated".
+
 * `"edtf:deprecated":` Indicates the date when a source was determined to be invalid, was never a "going concern" (_string, optional property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
 
 ## See also

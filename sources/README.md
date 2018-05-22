@@ -1094,7 +1094,7 @@ _MARC is a standard for encoding bibliographic materials in electronic form. The
 
 ## Mesoshapes
 
-_Mesoshapes are a product of Mapzen for Who's On First._ 
+_Mesoshapes were a product of Mapzen for Who's On First that aggregated data from national mapping agencies and other sources under CC-BY compatible licenses. In some cases Mesoshapes also includes CC0 polygon geometries that Mapzen drew by comparing three or more reference datasets for limited number of countries._ 
 
 _This is a Mapzen associated source._ 
 
@@ -1109,7 +1109,7 @@ _This is a Mapzen associated source._
 
   This source includes `CC-BY compatible` data from the following organizations:
   	* **Armenia**: [Acopian Center for the Environment (ACE)]()
-  	* **Armenia**: [Justin Meyer]()
+  	* **Armenia**: [Revolutionary GIS]()
   	* **Asia**: [National Land Surveying and Mapping Center (TNLSMC)]()
   	* **Azerbaijan**: [ISCGM]()
   	* **Azerbaijan**: [State Committee Land and Cartography]()
@@ -1130,7 +1130,7 @@ _This is a Mapzen associated source._
   	* **Cuba**: [Oficina Nacional de Estadísticas, Cuba (ONEC)]()
   	* **Democratic Rebublic of Congo**: [OCHA]()
   	* **Democratic Rebublic of Congo**: [Referenciel Geographique Commun DRC]()
-  	* **Egypt**: [Justin Meyer]()
+  	* **Egypt**: [Revolutionary GIS]()
   	* **Egypt**: [USAID via FOIA]()
   	* **Ethiopia**: [GIST]()
   	* **Ethiopia**: [USAID]()
@@ -1165,7 +1165,7 @@ _This is a Mapzen associated source._
   	* **Iraq**: [ESOC]()
   	* **Iraq**: [World Food Program]()
   	* **Iraq**: [Relief Web Humanitarian Information Center]()
-  	* **Israel**: [Justin Meyer]()
+  	* **Israel**: [Revolutionary GIS]()
   	* **Israel**: [Israel Central Bureau of Statistics (ICBS)]()
   	* **Jamaica**: [Statistical Institute of Jamaica]()
   	* **Japan**: [Geospatial Information Authority of Japan (GSI)]()
@@ -1197,18 +1197,18 @@ _This is a Mapzen associated source._
   	* **Paraguay**: [Republica de Paraguay Dirección General de Estadística, Encuestas y Censos (DGEEC)]()
   	* **Peru**: [OCHA]()
   	* **Peru**: [Instituto Geográfico Nacional]()
-  	* **Rwanda**: [Justin Meyer]()
+  	* **Rwanda**: [Revolutionary GIS]()
   	* **Rwanda**: [National Institute of Statistics of Rwanda (NISR)]()
   	* **Senegal**: [OCHA]()
   	* **Serbia**: [EuroGlobalMap]()
   	* **Serbia**: [EuroGeoGraphics]()
-  	* **South Africa**: [Justin Meyer]()
+  	* **South Africa**: [Revolutionary GIS]()
   	* **South Africa**: [South Africa Municipal Demarcation Board (SAMDB)]()
   	* **Taiwan**: [National Land Surveying and Mapping Center]()
   	* **Tanzania**: [Tanzania National Bureau of Statistics (TNBS)]()
   	* **Togo**: [ISCGM]()
   	* **Togo**: [Direction General of Cartography - DGC Togo]()
-  	* **Ukraine**: [Justin Meyer]()
+  	* **Ukraine**: [Revolutionary GIS]()
   	* **Ukraine**: [OCHA Ukraine ДНВП Картографія]()
   	* **Zimbabwe**: [Zimbabwe Central Statistics Office (ZimStat)]()
   	* **Zimbabwe**: [OCHA HDX]()
@@ -2030,7 +2030,7 @@ _Clickable database of Where On Earth (woe) ids._
 
 ## Yerbashapes
 
-_Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who's On First._ 
+_Weighted means from Quattroshapes._ 
 
 _This is a Mapzen associated source._ 
 
@@ -2040,6 +2040,10 @@ _This is a Mapzen associated source._
 * license_type: _CC0_
 * license_text: _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * license: `N/A`
+
+  This source includes `CC-BY compatible` data from the following organizations:
+  	* **Global**: [flickr](https://www.flickr.com/)
+  	* **Global**: [Mapzen]()
 * usage: `geometry`
 
 ## Zetashapes

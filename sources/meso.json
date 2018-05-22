@@ -1,5 +1,5 @@
 {
-	"description": "Mesoshapes are a product of Mapzen for Who's On First.",
+	"description": "Mesoshapes were a product of Mapzen for Who's On First that aggregated data from national mapping agencies and other sources under CC-BY compatible licenses. In some cases Mesoshapes also includes CC0 polygon geometries that Mapzen drew by comparing three or more reference datasets for limited number of countries.",
 	"fullname": "Mesoshapes",
 	"id": 1108756907,
 	"key": "",
@@ -19,7 +19,7 @@
 		{
 			"context": "Armenia",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
@@ -145,7 +145,7 @@
 		{
 			"context": "Egypt",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
@@ -355,7 +355,7 @@
 		{
 			"context": "Israel",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
@@ -547,7 +547,7 @@
 		{
 			"context": "Rwanda",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
@@ -578,7 +578,7 @@
 		{
 			"context": "South Africa",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
@@ -614,7 +614,7 @@
 		{
 			"context": "Ukraine",
 			"source_link": "",
-			"source_name": "Justin Meyer",
+			"source_name": "Revolutionary GIS",
 			"source_note": ""
 		},
 		{
