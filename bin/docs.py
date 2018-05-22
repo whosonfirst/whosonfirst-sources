@@ -54,6 +54,9 @@ if __name__ == '__main__':
         if details.get('description'):
             docs.write("_%s_ \n\n" % (details['description']))
 
+        if details.get('mz_derived'):
+            docs.write("_This is a Mapzen-derived source._ \n\n")
+            
         if details.get('edtf:deprecated'):
             if not details['edtf:deprecated'] == 'uuuu':
                 docs.write("* %s %s.\n" % ('This source was deprecated on', details['edtf:deprecated']))
