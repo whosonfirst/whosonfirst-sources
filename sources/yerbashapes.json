@@ -1,5 +1,5 @@
 {
-    "description": "Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who's On First.", 
+    "description": "Weighted means from Quattroshapes.", 
     "fullname": "Yerbashapes", 
     "id": 404734201, 
     "key": "", 
@@ -9,6 +9,20 @@
     "mz_associated": 1,
     "name": "yerbashapes",
     "prefix": "ys", 
+    "src:via": [
+        {
+            "context": "Global", 
+            "source_link": "https://www.flickr.com/", 
+            "source_name": "flickr", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Mapzen", 
+            "source_note": ""
+        }
+    ], 
     "url": "", 
     "usage_concordance": 0, 
     "usage_geometry": 1, 
