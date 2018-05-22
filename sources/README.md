@@ -579,8 +579,9 @@ _Elections BC is an independent and non-partisan Office of the Legislature, Brit
 
 ## Extended Date/Time Format
 
-_Property prefix. This website describes the current effort to develop a reasonably comprehensive date/time definition for the bibliographic community, as well as other interested communities, and submitting it for standardization or some other mode of formalization, for example a W3C note or an amendment to ISO 8601._ 
+_Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/edtf) for more information._ 
 
+* This source was deprecated on 2018-05-21.
 * id: `404734173`
 * name: `edtf`
 * prefix: `edtf`
@@ -1000,8 +1001,9 @@ _Property prefix. See [property description](https://github.com/whosonfirst/whos
 
 ## lieu
 
-_Property prefix._ 
+_Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties) for more information._ 
 
+* This source was deprecated on 2018-05-21.
 * id: `1141961795`
 * name: `lieu`
 * prefix: `lieu`
