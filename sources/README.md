@@ -729,7 +729,7 @@ _Open platform for French public data._
 * prefix: `frgov`
 * license_type: _CC BY 2.0_
 * license_text: _The Open License is part of an international context and is compatible with the standards of open data licenses developed abroad, in particular those of the Government of the United Kingdom (Open Government License) and other international standards (ODC-BY, CC-BY 2.0)._
-* url: _https://www.data.gouv.fr/en/datasets/fond-de-carte-des-codes-postaux/_
+* url: _https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf_
 * license: _https://www.data.gouv.fr/en/terms/_
 * usage: `property`, `geometry`
 
