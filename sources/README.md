@@ -15,7 +15,7 @@ _All sources listed below are currently used to populate Who's On First records 
 
 ## United Nations Convention for Road Traffic
 
-_The internation organization that manages the distinguishing signs of the place of registration of vehicles._ 
+_The internation organization that manages the distinguishing signs of the place of registration of vehicles. Data for concordance values is sourced from Statoids._ 
 
 * id: `1158860607`
 * name: `United Nations Convention for Road Traffic`
@@ -527,7 +527,7 @@ _Open Data portal for the City of Denver, CO._
 
 ## Dial Codes
 
-_In most places that allow direct-dialed international calls, you must first dial an international access code. These access codes are maintained for the member countries or regions by the International Telecommunication Union (ITU)._ 
+_In most places that allow direct-dialed international calls, you must first dial an international access code. These access codes are maintained for the member countries or regions by the International Telecommunication Union (ITU). Data for concordance values is sourced from Statoids._ 
 
 * This source was deprecated on 2018-05-21.
 * id: `1158832839`
@@ -553,7 +553,7 @@ _GeoDanmark data is a digital map of city and landscape, which can be used to ca
 
 ## Distinguishing Signs - United Nations Economic Commission for Europe
 
-_These codes are provided for by Article 20 of the Convention on Road Traffic (Geneva, 1949). Therein, they are called 'distinguishing signs of the place of registration' of vehicles._ 
+_These codes are provided for by Article 20 of the Convention on Road Traffic (Geneva, 1949). Therein, they are called 'distinguishing signs of the place of registration' of vehicles. Data for concordance values is sourced from Statoids._ 
 
 * This source was deprecated on 2018-05-21.
 * id: `1158832831`
@@ -902,7 +902,7 @@ _The public body responsible for regulating and coordinating the National Statis
 
 ## International Olympics Committee
 
-_These codes identify the nationality of athletes and teams during Olympic events._ 
+_These codes identify the nationality of athletes and teams during Olympic events. Data for concordance values is sourced from Statoids._ 
 
 * id: `1158832825`
 * name: `ioc`
@@ -915,7 +915,7 @@ _These codes identify the nationality of athletes and teams during Olympic event
 
 ## International Organization for Standardization
 
-_ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies._ 
+_ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies. Data for concordance values is sourced from Statoids. Who's On First tracks which 'country' a feature belongs to via the 'wof:country' and 'iso:country' properties. No other ISO properties are referenced._ 
 
 * id: `1108931861`
 * name: `iso`
@@ -928,7 +928,7 @@ _ISO is an independent, non-governmental international organization with a membe
 
 ## International Telecommunications Union
 
-_ITU country codes are used to identify radio transmitter locations._ 
+_ITU country codes are used to identify radio transmitter locations. Data for concordance values is sourced from Statoids. Who's On First tracks the dial codes used to call places in 'country' or 'region' both as concordance and as properties. No other ITU properties are referenced._ 
 
 * id: `1158832821`
 * name: `itu`
@@ -2003,7 +2003,7 @@ _The free online encyclopedia._
 
 ## World Meteorological Organization
 
-_Country abbreviations used in weather reports from the World Meteorological Organization._ 
+_Country abbreviations used in weather reports from the World Meteorological Organization. Data for concordance values is sourced from Statoids._ 
 
 * id: `1158832833`
 * name: `wmo`
