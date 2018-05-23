@@ -67,6 +67,7 @@ if __name__ == '__main__':
 
             if details[k] == '':
                 continue
+
             docs.write("* %s: `%s`\n" % (k, details[k]))
 
         if details.get('license_type'):
@@ -84,37 +85,51 @@ if __name__ == '__main__':
         #link to the license page for each source if page is available
         if details.get('license') and details.get('license').startswith("http"):
             docs.write("* %s: _%s_\n" % ('license', details['license']))
+
         else:
             docs.write("* %s: `%s`\n" % ('license', details['license']))
 
         #list out all "via" sources with links to each source's source...
         if details.get('src:via'):
+
             docs.write("\n  This source includes `CC-BY compatible` data from the following organizations:\n")
+
             for via in details['src:via']:
+
+                #if the source link is present, link to the source in markdown
                 if not via['source_link'] == "":
+
                     if via['source_note']:
                         docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
+
                     else:
                         docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
 
+                #if the source link is null for the src:via, write out just the name without a link
                 else:
+
                     if via['source_note']:
                         docs.write("  \t* **%s**: %s - %s\n" % (via["context"],via["source_name"],via["source_note"]))
+
                     else:
                         docs.write("  \t* **%s**: %s\n" % (via["context"],via["source_name"]))
 
+        #assuming no usage, appending to this empty list later if usage flags are present
         usage = []
 
         #catch any usage flag and append it as markdown to a usage: prop, if found
         if details.get('usage_concordance'):
+
             if details['usage_concordance'] == 1:
                 usage.append("`concordance`")
-                
+
         if details.get('usage_property'):        
+
             if details['usage_property'] == 1:
                 usage.append("`property`")
 
         if details.get('usage_geometry'):
+
             if details['usage_geometry'] == 1:
                 usage.append("`geometry`")
 
