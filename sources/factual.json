@@ -1,15 +1,15 @@
 {
-	"id": 404734193,
-	"fullname": "Factual",
-	"name": "factual",
-	"prefix": "fct",
-	"key": "id",
-	"url": "https://github.com/Factual/places",
-	"license": "http://factual.com/tos",
-	"license_type": "Restricted",
-	"license_text": "All of the information and data made available via the Sites ('Site Data') is provided solely to enable you to learn about Factual and the Services. You are not licensed to store, copy, or use any Site Data for any other purpose.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Location data for Mobile Advertising, Developers, and Enterprise solutions."
+    "description": "Location data for Mobile Advertising, Developers, and Enterprise solutions.", 
+    "fullname": "Factual", 
+    "id": 404734193, 
+    "key": "id", 
+    "license": "http://factual.com/tos", 
+    "license_text": "All of the information and data made available via the Sites ('Site Data') is provided solely to enable you to learn about Factual and the Services. You are not licensed to store, copy, or use any Site Data for any other purpose.", 
+    "license_type": "Restricted", 
+    "name": "factual", 
+    "prefix": "fct", 
+    "url": "https://github.com/Factual/places", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

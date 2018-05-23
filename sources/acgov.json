@@ -1,15 +1,15 @@
 {
-	"id": 874397693,
-	"fullname": "Alameda County Data Sharing Initiative",
-	"name": "acgov",
-	"prefix": "acgov",
-	"key": "",
-	"url": "https://data.acgov.org/",
-	"license": "https://data.acgov.org/terms-of-use",
-	"license_type": "Public Domain",
-	"license_text": "You understand and agree that Your use of the Data is at Your sole risk. The Data is made available on an 'as is' and 'as available' basis without any warranties of any kind, whether express or implied, including without limitation implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Should there be an error, inaccuracy, or other defect in the Data, You assume the full cost of correcting any such error, inaccuracy or defect.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Official GIS Data for Alameda County, CA."
+    "description": "Official GIS Data for Alameda County, CA.", 
+    "fullname": "Alameda County Data Sharing Initiative", 
+    "id": 874397693, 
+    "key": "", 
+    "license": "https://data.acgov.org/terms-of-use", 
+    "license_text": "You understand and agree that Your use of the Data is at Your sole risk. The Data is made available on an 'as is' and 'as available' basis without any warranties of any kind, whether express or implied, including without limitation implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Should there be an error, inaccuracy, or other defect in the Data, You assume the full cost of correcting any such error, inaccuracy or defect.", 
+    "license_type": "Public Domain", 
+    "name": "acgov", 
+    "prefix": "acgov", 
+    "url": "https://data.acgov.org/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

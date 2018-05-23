@@ -1,15 +1,15 @@
 {
-	"id": 1158832829,
-	"fullname": "Federation Internationale de Football Association",
-	"name": "fifa",
-	"prefix": "fifa",
-	"key": "id",
-	"url": "http://www.rsssf.com/miscellaneous/fifa-codes.html",
-	"license": "http://www.rsssf.com/miscellaneous/fifa-codes.html",
-	"license_type": "CC BY 1.0",
-	"license_text": "You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Country codes for each member (and non-member) country, used by FIFA during competition."
+    "description": "Country codes for each member (and non-member) country, used by FIFA during competition.", 
+    "fullname": "Federation Internationale de Football Association", 
+    "id": 1158832829, 
+    "key": "id", 
+    "license": "http://www.rsssf.com/miscellaneous/fifa-codes.html", 
+    "license_text": "You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.", 
+    "license_type": "CC BY 1.0", 
+    "name": "fifa", 
+    "prefix": "fifa", 
+    "url": "http://www.rsssf.com/miscellaneous/fifa-codes.html", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

@@ -1,15 +1,15 @@
 {
-	"id": 404734205,
-	"fullname": "Burrito Justice",
-	"name": "burritojustice",
-	"prefix": "bj",
-	"key": "id",
-	"url": "http://burritojustice.com/la-lengua/",
-	"license": "https://burritojustice.com/licensing/",
-	"license_type": "Public Domain",
-	"license_text": "Burrito Justice has waived all copyright and related or neighboring rights to neighborhood boundary data submitted to the Who’s On First gazetteer. This work is published from: United States.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Burrito Justice - La Lengua, San Francisco, CA."
+    "description": "Burrito Justice - La Lengua, San Francisco, CA.", 
+    "fullname": "Burrito Justice", 
+    "id": 404734205, 
+    "key": "id", 
+    "license": "https://burritojustice.com/licensing/", 
+    "license_text": "Burrito Justice has waived all copyright and related or neighboring rights to neighborhood boundary data submitted to the Who\u2019s On First gazetteer. This work is published from: United States.", 
+    "license_type": "Public Domain", 
+    "name": "burritojustice", 
+    "prefix": "bj", 
+    "url": "http://burritojustice.com/la-lengua/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

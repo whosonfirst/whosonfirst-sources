@@ -1,15 +1,15 @@
 {
-	"id": 1108830757,
-	"fullname": "unknown",
-	"name": "unknown",
-	"prefix": "unknown",
-	"key": "id",
-	"url": "",
-	"license": "N/A",
-	"license_type": "N/A",
-	"license_text": "N/A",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Used when a property value is not known. A placeholder for 'we do not know'."
+    "description": "Used when a property value is not known. A placeholder for 'we do not know'.", 
+    "fullname": "unknown", 
+    "id": 1108830757, 
+    "key": "id", 
+    "license": "N/A", 
+    "license_text": "N/A", 
+    "license_type": "N/A", 
+    "name": "unknown", 
+    "prefix": "unknown", 
+    "url": "", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

@@ -1,15 +1,15 @@
 {
-	"id": 772975927,
-	"fullname": "Swiss Confederation",
-	"name": "chgov",
-	"prefix": "chgov",
-	"key": "",
-	"url": "http://data.geo.admin.ch",
-	"license": "http://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/",
-	"license_type": "CC0",
-	"license_text": "The information contained on the websites of the Federal Authorities is made available to the public.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Geoportal of the Swiss Federation."
+    "description": "The Geoportal of the Swiss Federation.", 
+    "fullname": "Swiss Confederation", 
+    "id": 772975927, 
+    "key": "", 
+    "license": "http://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/", 
+    "license_text": "The information contained on the websites of the Federal Authorities is made available to the public.", 
+    "license_type": "CC0", 
+    "name": "chgov", 
+    "prefix": "chgov", 
+    "url": "http://data.geo.admin.ch", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

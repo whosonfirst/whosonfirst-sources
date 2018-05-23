@@ -1,15 +1,15 @@
 {
-    "id": 1126109975,
-    "fullname": "Gatineau Service de l'urbanisme et du developpement durable (SUDD)",
-    "name": "can-gatsudd",
-    "prefix": "can-gatsudd",
-    "key":"",
-    "url": "http://www3.gatineau.ca/Infoterritoire/WebInterface/views/index.aspx",
-    "license": "http://www3.gatineau.ca/Infoterritoire/WebInterface/help/fr/Content/1_About/1_About_FR.htm",
-    "license_type": "CC BY (equivalent)",
-    "license_text": "Confirmed open source availability by Maurin Dabbadie of the Gatineau Department of Planning and Sustainable Development on 2017-06-07 <dabbadie.maurin@gatineau.ca>.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-    "description": "Community portrait data created by the city of Gatineau for use in planning and sustainable development (Data provided by request from <infoterritoire@gatineau.ca>)."
+    "description": "Community portrait data created by the city of Gatineau for use in planning and sustainable development (Data provided by request from <infoterritoire@gatineau.ca>).", 
+    "fullname": "Gatineau Service de l'urbanisme et du developpement durable (SUDD)", 
+    "id": 1126109975, 
+    "key": "", 
+    "license": "http://www3.gatineau.ca/Infoterritoire/WebInterface/help/fr/Content/1_About/1_About_FR.htm", 
+    "license_text": "Confirmed open source availability by Maurin Dabbadie of the Gatineau Department of Planning and Sustainable Development on 2017-06-07 <dabbadie.maurin@gatineau.ca>.", 
+    "license_type": "CC BY (equivalent)", 
+    "name": "can-gatsudd", 
+    "prefix": "can-gatsudd", 
+    "url": "http://www3.gatineau.ca/Infoterritoire/WebInterface/views/index.aspx", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1108970467,
-	"fullname": "City of Edmonton Department of Sustainable Development",
-	"name": "can-edmdsd",
-	"prefix": "can-edmdsd",
-	"key":"",
-	"url": "https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Neighbourhood-Boundaries-with-War/jfvj-x253",
-	"license": "https://www.edmonton.ca/city_government/documents/Web-version2.1-OpenDataAgreement.pdf",
-	"license_type": "Open Government Licence - Edmonton",
-	"license_text": "The City of Edmonton (the City) grants you a worldwide, royalty-free, non-exclusive licence to use, modify, and distribute the datasets in all current and future media and formats for any lawful purpose, including for commercial purposes. You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the datasets in any medium, mode or format for any lawful purpose.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Neighbourhood/Ward data provided by the City of Edmonton Department of Sustainable Development."
+    "description": "Neighbourhood/Ward data provided by the City of Edmonton Department of Sustainable Development.", 
+    "fullname": "City of Edmonton Department of Sustainable Development", 
+    "id": 1108970467, 
+    "key": "", 
+    "license": "https://www.edmonton.ca/city_government/documents/Web-version2.1-OpenDataAgreement.pdf", 
+    "license_text": "The City of Edmonton (the City) grants you a worldwide, royalty-free, non-exclusive licence to use, modify, and distribute the datasets in all current and future media and formats for any lawful purpose, including for commercial purposes. You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the datasets in any medium, mode or format for any lawful purpose.", 
+    "license_type": "Open Government Licence - Edmonton", 
+    "name": "can-edmdsd", 
+    "prefix": "can-edmdsd", 
+    "url": "https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Neighbourhood-Boundaries-with-War/jfvj-x253", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

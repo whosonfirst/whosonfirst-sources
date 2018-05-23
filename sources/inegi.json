@@ -1,15 +1,15 @@
 {
-	"id": 1158808187,
-	"fullname": "Instituto Nacional de Estadística y Geografía (INEGI)",
-	"name": "inegi",
-	"prefix": "inegi",
-	"key": "id",
-	"url": "http://http://www.inegi.org.mx/",
-	"license": "http://www.beta.inegi.org.mx/inegi/terminos.html",
-	"license_type": "CC BY (equivalent)",
-	"license_text": "You can make and distribute copies of the information, without altering or deleting metadata. You can disseminate and publish the information.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The public body responsible for regulating and coordinating the National Statistical System and Geographic Information, as well as to capture and disseminate information of Mexico."
+    "description": "The public body responsible for regulating and coordinating the National Statistical System and Geographic Information, as well as to capture and disseminate information of Mexico.", 
+    "fullname": "Instituto Nacional de Estad\u00edstica y Geograf\u00eda (INEGI)", 
+    "id": 1158808187, 
+    "key": "id", 
+    "license": "http://www.beta.inegi.org.mx/inegi/terminos.html", 
+    "license_text": "You can make and distribute copies of the information, without altering or deleting metadata. You can disseminate and publish the information.", 
+    "license_type": "CC BY (equivalent)", 
+    "name": "inegi", 
+    "prefix": "inegi", 
+    "url": "http://http://www.inegi.org.mx/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

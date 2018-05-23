@@ -1,15 +1,15 @@
 {
-	"id": 1159294407,
-	"fullname": "Ordnance Survey Ireland",
-	"name": "ie-gov",
-	"prefix": "ie-gov",
-	"key": "",
-	"url": "https://data-osi.opendata.arcgis.com/datasets/administrative-counties-ungeneralised-osi-national-administrative-boundaries-",
-	"license": "https://data-osi.opendata.arcgis.com/datasets/",
-	"license_type": "CC-BY 4.0",
-	"license_text": "Open Data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement that the source of the information is to attributed.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Ordnance Survey Ireland provides products and services that are widely used to support the social, economic, legislative and administrative functions of the state in Ireland."
+    "description": "The Ordnance Survey Ireland provides products and services that are widely used to support the social, economic, legislative and administrative functions of the state in Ireland.", 
+    "fullname": "Ordnance Survey Ireland", 
+    "id": 1159294407, 
+    "key": "", 
+    "license": "https://data-osi.opendata.arcgis.com/datasets/", 
+    "license_text": "Open Data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement that the source of the information is to attributed.", 
+    "license_type": "CC-BY 4.0", 
+    "name": "ie-gov", 
+    "prefix": "ie-gov", 
+    "url": "https://data-osi.opendata.arcgis.com/datasets/administrative-counties-ungeneralised-osi-national-administrative-boundaries-", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

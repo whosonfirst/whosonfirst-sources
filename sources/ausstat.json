@@ -1,15 +1,15 @@
 {
-	"id": 1108693461,
-	"fullname": "Australian Bureau of Statistics",
-	"name": "ausstat",
-	"prefix": "ausstat",
-	"key": "",
-	"url": "http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202011?OpenDocument",
-	"license": "http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/%A9+Copyright?opendocument",
-	"license_type": "CC BY 2.5 AU",
-	"license_text": "Unless otherwise noted, all material on this website, except the ABS logo, the Commonwealth Coat of Arms, and any material protected by a trade mark, is licensed under a Creative Commons Attribution 2.5 Australia licence.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The ABS is Australia's national statistical agency, providing trusted official statistics on a wide range of economic, social, population and environmental matters of importance to Australia."
+    "description": "The ABS is Australia's national statistical agency, providing trusted official statistics on a wide range of economic, social, population and environmental matters of importance to Australia.", 
+    "fullname": "Australian Bureau of Statistics", 
+    "id": 1108693461, 
+    "key": "", 
+    "license": "http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/%A9+Copyright?opendocument", 
+    "license_text": "Unless otherwise noted, all material on this website, except the ABS logo, the Commonwealth Coat of Arms, and any material protected by a trade mark, is licensed under a Creative Commons Attribution 2.5 Australia licence.", 
+    "license_type": "CC BY 2.5 AU", 
+    "name": "ausstat", 
+    "prefix": "ausstat", 
+    "url": "http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202011?OpenDocument", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

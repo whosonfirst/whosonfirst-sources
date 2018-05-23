@@ -1,15 +1,15 @@
 {
-	"id": 1158783301,
-	"fullname": "City of San Francisco Treasurer & Tax Collector's Office (Registered Business Locations)",
-	"name": "sfgov_rbl",
-	"prefix": "sfgov_rbl",
-	"key": "id",
-	"url": "https://data.sfgov.org/",
-	"license": "https://data.sfgov.org/terms-of-use",
-	"license_type": "PDDL 1.0",
-	"license_text": "The Open Data Commons, Public Domain Dedication & Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ('data'), either together or individually.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for the City of San Francisco, CA."
+    "description": "Open Data portal for the City of San Francisco, CA.", 
+    "fullname": "City of San Francisco Treasurer & Tax Collector's Office (Registered Business Locations)", 
+    "id": 1158783301, 
+    "key": "id", 
+    "license": "https://data.sfgov.org/terms-of-use", 
+    "license_text": "The Open Data Commons, Public Domain Dedication & Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ('data'), either together or individually.", 
+    "license_type": "PDDL 1.0", 
+    "name": "sfgov_rbl", 
+    "prefix": "sfgov_rbl", 
+    "url": "https://data.sfgov.org/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

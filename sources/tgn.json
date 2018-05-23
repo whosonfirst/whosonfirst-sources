@@ -1,15 +1,15 @@
 {
-	"id": 840464261,
-	"fullname": "Getty Thesaurus of Geographic Names",
-	"name": "tgn",
-	"prefix": "tgn",
-	"key": "id",
-	"url": "https://www.getty.edu/research/tools/vocabularies/tgn/index.html",
-	"license": "http://opendatacommons.org/licenses/by/1-0/",
-	"license_type": "ODC-By, v1.0",
-	"license_text": "The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this Database subject only to the attribution requirements set out in Section 4.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The TGN is an evolving vocabulary, growing and changing thanks to contributions from Getty projects and other institutions."
+    "description": "The TGN is an evolving vocabulary, growing and changing thanks to contributions from Getty projects and other institutions.", 
+    "fullname": "Getty Thesaurus of Geographic Names", 
+    "id": 840464261, 
+    "key": "id", 
+    "license": "http://opendatacommons.org/licenses/by/1-0/", 
+    "license_text": "The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this Database subject only to the attribution requirements set out in Section 4.", 
+    "license_type": "ODC-By, v1.0", 
+    "name": "tgn", 
+    "prefix": "tgn", 
+    "url": "https://www.getty.edu/research/tools/vocabularies/tgn/index.html", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

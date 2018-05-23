@@ -1,15 +1,15 @@
 {
-	"id": 1158784151,
-	"fullname": "City of London Companies House",
-	"name": "companieshouse",
-	"prefix": "companieshouse",
-	"key": "number",
-	"url": "https://data.london.gov.uk/dataset/directory-of-london-businesses",
-	"license": "https://data.london.gov.uk/about/terms-and-conditions/",
-	"license_type": "CC0",
-	"license_text": "May use the data contained in this site for any purpose, providing it does not infringe the terms and conditions.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "A directory of business listings in London."
+    "description": "A directory of business listings in London.", 
+    "fullname": "City of London Companies House", 
+    "id": 1158784151, 
+    "key": "number", 
+    "license": "https://data.london.gov.uk/about/terms-and-conditions/", 
+    "license_text": "May use the data contained in this site for any purpose, providing it does not infringe the terms and conditions.", 
+    "license_type": "CC0", 
+    "name": "companieshouse", 
+    "prefix": "companieshouse", 
+    "url": "https://data.london.gov.uk/dataset/directory-of-london-businesses", 
+    "usage_concordance": 0, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

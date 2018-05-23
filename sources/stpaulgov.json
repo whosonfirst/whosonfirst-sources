@@ -1,15 +1,15 @@
 {
-	"id": 1108800107,
-	"fullname": "Open Information Saint Paul",
-	"name": "stpaulgov",
-	"prefix": "stpaulgov",
-	"key": "",
-	"url": "https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b",
-	"license": "https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb",
-	"license_type": "CC0 (assumed)",
-	"license_text": "The City shall develop and implement practices allowing it to prioritize the proactive release of high quality, machine-readable, disclosable city data, making it freely available via an open license without restrictions on use, reuse, or redistribution, ensuring it is fully accessible to the broadest range of users possible.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Open Information portal for the Saint Paul, MN government."
+    "description": "The Open Information portal for the Saint Paul, MN government.", 
+    "fullname": "Open Information Saint Paul", 
+    "id": 1108800107, 
+    "key": "", 
+    "license": "https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb", 
+    "license_text": "The City shall develop and implement practices allowing it to prioritize the proactive release of high quality, machine-readable, disclosable city data, making it freely available via an open license without restrictions on use, reuse, or redistribution, ensuring it is fully accessible to the broadest range of users possible.", 
+    "license_type": "CC0 (assumed)", 
+    "name": "stpaulgov", 
+    "prefix": "stpaulgov", 
+    "url": "https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

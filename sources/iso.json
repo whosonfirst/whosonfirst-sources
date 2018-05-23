@@ -1,15 +1,15 @@
 {
-	"id": 1108931861,
-	"fullname": "International Organization for Standardization",
-	"name": "iso",
-	"prefix": "iso",
-	"key": "id",
-	"url": "http://www.iso.org/",
-	"license": "https://www.iso.org/privacy-and-copyright.html",
-	"license_type": "Restricted",
-	"license_text": "All content on ISO Online is copyright protected. The copyright is owned by ISO. Any use of the content, including copying of it in whole or in part, for example to another Internet site, is prohibited and would require written permission from ISO.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies."
+    "description": "ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies. Data for concordance values is sourced from Statoids. Who's On First tracks which 'country' a feature belongs to via the 'wof:country' and 'iso:country' properties. No other ISO properties are referenced.", 
+    "fullname": "International Organization for Standardization", 
+    "id": 1108931861, 
+    "key": "id", 
+    "license": "https://www.iso.org/privacy-and-copyright.html", 
+    "license_text": "All content on ISO Online is copyright protected. The copyright is owned by ISO. Any use of the content, including copying of it in whole or in part, for example to another Internet site, is prohibited and would require written permission from ISO.", 
+    "license_type": "Restricted", 
+    "name": "iso", 
+    "prefix": "iso", 
+    "url": "http://www.iso.org/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 1
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1158832821,
-	"fullname": "International Telecommunications Union",
-	"name": "itu",
-	"prefix": "itu",
-	"key": "id",
-	"url": "https://www.itu.int/online/mm/scripts/gensel8",
-	"license": "https://www.itu.int/en/Pages/copyright.aspx",
-	"license_type": "Restricted",
-	"license_text": "ITU holds copyright in the information available on this Web site, unless otherwise stated. Copyright in any third-party materials found on this Web site must also be respected.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "ITU country codes are used to identify radio transmitter locations."
+    "description": "ITU country codes are used to identify radio transmitter locations. Data for concordance values is sourced from Statoids. Who's On First tracks the dial codes used to call places in 'country' or 'region' both as concordance and as properties. No other ITU properties are referenced.", 
+    "fullname": "International Telecommunications Union", 
+    "id": 1158832821, 
+    "key": "id", 
+    "license": "https://www.itu.int/en/Pages/copyright.aspx", 
+    "license_text": "ITU holds copyright in the information available on this Web site, unless otherwise stated. Copyright in any third-party materials found on this Web site must also be respected.", 
+    "license_type": "Restricted", 
+    "name": "itu", 
+    "prefix": "itu", 
+    "url": "https://www.itu.int/online/mm/scripts/gensel8", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 1
 }

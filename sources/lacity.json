@@ -1,15 +1,15 @@
 {
-	"id": 1024497679,
-	"fullname": "City of Los Angeles Neighborhood Councils (Certified)",
-	"name": "lacity",
-	"prefix": "lacity",
-	"key": "",
-	"url": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f",
-	"license": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about",
-	"license_type": "CC0",
-	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Official Certified Neighborhood Council boundaries in the City of Los Angeles created and maintained by the Bureau of Engineering / GIS Mapping Division."
+    "description": "Official Certified Neighborhood Council boundaries in the City of Los Angeles created and maintained by the Bureau of Engineering / GIS Mapping Division.", 
+    "fullname": "City of Los Angeles Neighborhood Councils (Certified)", 
+    "id": 1024497679, 
+    "key": "", 
+    "license": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about", 
+    "license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.", 
+    "license_type": "CC0", 
+    "name": "lacity", 
+    "prefix": "lacity", 
+    "url": "https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

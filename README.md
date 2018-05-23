@@ -32,6 +32,8 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"license_text":` A one to two sentence description of what the license allows (_string, optional property_).
 
+* `"src:via"`: A list of sources used by a source. A list of key/value pairs that includes the source context, source name, link to the source website, and a note about the source (_list, optional property_). See the [template file](source_template.json) for an example.
+
 * `"usage_concordance":` Represents whether or not this source is used for concordance values (_integer, required property_). `1` value indicates use, `0` value indicates no use, `-1` value indicates unsure of use.
 
 * `"usage_property":` Represents whether or not this source is used for property values (_integer, required property_). `1` value indicates use, `0` value indicates no use, `-1` value indicates unsure of use.
@@ -39,6 +41,12 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 * `"usage_geometry":` Represents whether or not this source is used for geometries (_integer, required property_). `1` value indicates use, `0` value indicates no use, `-1` value indicates unsure of use.
 
 * `"description":` A one to two sentence description of the source (_string, optional property_).
+
+* `"mz:is_current":` Represents whether of not a source is currently in use (_integer, optional property_). `0` signifies "not current".
+
+* `"mz:associated":` Represents a source associated with works at Mapzen (_integer, optional property_). `1` signifies "Mapzen associated".
+
+* `"edtf:deprecated":` Indicates the date when a source was determined to be invalid, was never a "going concern" (_string, optional property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
 
 ## See also
 

@@ -1,15 +1,30 @@
 {
-	"id": 404734201,
-	"fullname": "Yerbashapes",
-	"name": "yerbashapes",
-	"prefix": "ys",
-	"key": "",
-	"url": "",
-	"license": "N/A",
-	"license_type": "CC0",
-	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Weighted means from Quattroshapes. Yerbashapes are a product of Mapzen for Who's On First."
+    "description": "Weighted means from Quattroshapes.", 
+    "fullname": "Yerbashapes", 
+    "id": 404734201, 
+    "key": "", 
+    "license": "N/A", 
+    "license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.", 
+    "license_type": "CC0", 
+    "mz_associated": 1,
+    "name": "yerbashapes",
+    "prefix": "ys", 
+    "src:via": [
+        {
+            "context": "Global", 
+            "source_link": "https://www.flickr.com/", 
+            "source_name": "flickr", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Mapzen", 
+            "source_note": ""
+        }
+    ], 
+    "url": "", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

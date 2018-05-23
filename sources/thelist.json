@@ -1,15 +1,15 @@
 {
-	"id": 1108973687,
-	"fullname": "The List - Bay Area Concert Guide",
-	"name": "thelist",
-	"prefix": "thelist",
-	"key":"",
-	"url": "http://www.calweb.net/~skoepke/",
-	"license": "http://www.calweb.net/~skoepke/",
-	"license_type": "Public Domain",
-	"license_text": "Public domain per email conversation on May 30th, 2017.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The list is an online concert guide for Northern California and the west coast."
+    "description": "The list is an online concert guide for Northern California and the west coast.", 
+    "fullname": "The List - Bay Area Concert Guide", 
+    "id": 1108973687, 
+    "key": "", 
+    "license": "http://www.calweb.net/~skoepke/", 
+    "license_text": "Public domain per email conversation on May 30th, 2017.", 
+    "license_type": "Public Domain", 
+    "name": "thelist", 
+    "prefix": "thelist", 
+    "url": "http://www.calweb.net/~skoepke/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

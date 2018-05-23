@@ -1,15 +1,15 @@
 {
-	"id": 1108729077,
-	"fullname": "City of Kuopio",
-	"name": "kuogov",
-	"prefix": "kuogov",
-	"key": "",
-	"url": "https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat/resource/6ca89290-3743-4832-9ed6-03d8cf9b2d5f",
-	"license": "https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat",
-	"license_type": "CC BY 4.0",
-	"license_text": "You are free to: Share, copy and redistribute the material in any medium or format and Adapt, remix, transform, and build upon the material for any purpose, even commercially.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Official website for the City of Kuopio, Finland."
+    "description": "Official website for the City of Kuopio, Finland.", 
+    "fullname": "City of Kuopio", 
+    "id": 1108729077, 
+    "key": "", 
+    "license": "https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat", 
+    "license_text": "You are free to: Share, copy and redistribute the material in any medium or format and Adapt, remix, transform, and build upon the material for any purpose, even commercially.", 
+    "license_type": "CC BY 4.0", 
+    "name": "kuogov", 
+    "prefix": "kuogov", 
+    "url": "https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat/resource/6ca89290-3743-4832-9ed6-03d8cf9b2d5f", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

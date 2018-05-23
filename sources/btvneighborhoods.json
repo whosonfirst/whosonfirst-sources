@@ -1,15 +1,15 @@
 {
-	"id": 404734212,
-	"fullname": "Burlington VT Neighborhoods Project",
-	"name": "btvneighborhoods",
-	"prefix": "btv",
-	"key": "id",
-	"url": "https://gist.github.com/wboykinm/dfe44481d8ff759c4f1afea223a7c070",
-	"license": "http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html",
-	"license_type": "CC0 (equivalent)",
-	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html"
+    "description": "Crowdsourced by the locals: http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html", 
+    "fullname": "Burlington VT Neighborhoods Project", 
+    "id": 404734212, 
+    "key": "id", 
+    "license": "http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html", 
+    "license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.", 
+    "license_type": "CC0 (equivalent)", 
+    "name": "btvneighborhoods", 
+    "prefix": "btv", 
+    "url": "https://gist.github.com/wboykinm/dfe44481d8ff759c4f1afea223a7c070", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
 }

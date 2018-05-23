@@ -1,15 +1,15 @@
 {
-	"id": 1158832823,
-	"fullname": "Geopolitical Entities and Codes",
-	"name": "gec",
-	"prefix": "gec",
-	"key": "",
-	"url": "http://geonames.nga.mil/gns/html/countrycodes.html",
-	"license": "http://geonames.nga.mil/gns/html/namefiles.html",
-	"license_type": "CC0",
-	"license_text": "Foreign geographic names data is freely available.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Formerly FIPS PUB 10-4, these country codes were used by the National Geospatial-Intelligence Agency (NGA) to define 'Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions'. GEC maintenance was discontinued on 31 December 2014."
+    "description": "Formerly FIPS PUB 10-4, these country codes were used by the National Geospatial-Intelligence Agency (NGA) to define 'Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions'. GEC maintenance was discontinued on 31 December 2014.", 
+    "fullname": "Geopolitical Entities and Codes", 
+    "id": 1158832823, 
+    "key": "", 
+    "license": "http://geonames.nga.mil/gns/html/namefiles.html", 
+    "license_text": "Foreign geographic names data is freely available.", 
+    "license_type": "CC0", 
+    "name": "gec", 
+    "prefix": "gec", 
+    "url": "http://geonames.nga.mil/gns/html/countrycodes.html", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

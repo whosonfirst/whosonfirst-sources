@@ -1,15 +1,15 @@
 {
-	"id": 1108794097,
-	"fullname": "Oakland Community and Economic Development Department",
-	"name": "oakced",
-	"prefix": "oakced",
-	"key": "",
-	"url": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9",
-	"license": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9/about",
-	"license_type": "Public Domain",
-	"license_text": "",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for the City of Oakland, CA."
+    "description": "Open Data portal for the City of Oakland, CA.", 
+    "fullname": "Oakland Community and Economic Development Department", 
+    "id": 1108794097, 
+    "key": "", 
+    "license": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9/about", 
+    "license_text": "", 
+    "license_type": "Public Domain", 
+    "name": "oakced", 
+    "prefix": "oakced", 
+    "url": "https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

@@ -1,15 +1,15 @@
 {
-	"id": 1108973847,
-	"fullname": "Ottawa Neighbourhood Study (ONS)",
-	"name": "can-ons",
-	"prefix": "can-ons",
-	"key":"",
-	"url": "Data provided by request at http://neighbourhoodstudy.ca/contact/",
-	"license": "http://neighbourhoodstudy.ca/ons-terms-of-use/",
-	"license_type": "CC BY (equivalent)",
-	"license_text": "....publicly available and accessible data...must give ONS credit for each use or reproduction of the datasets...",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Custom neighbourhood data provided by the Ottawa Neighbourhood Study organization for community enrichment."
+    "description": "Custom neighbourhood data provided by the Ottawa Neighbourhood Study organization for community enrichment.", 
+    "fullname": "Ottawa Neighbourhood Study (ONS)", 
+    "id": 1108973847, 
+    "key": "", 
+    "license": "http://neighbourhoodstudy.ca/ons-terms-of-use/", 
+    "license_text": "....publicly available and accessible data...must give ONS credit for each use or reproduction of the datasets...", 
+    "license_type": "CC BY (equivalent)", 
+    "name": "can-ons", 
+    "prefix": "can-ons", 
+    "url": "Data provided by request at http://neighbourhoodstudy.ca/contact/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

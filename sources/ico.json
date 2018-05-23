@@ -1,15 +1,15 @@
 {
-	"id": 1158832825,
-	"fullname": "International Olympics Committee",
-	"name": "ioc",
-	"prefix": "ioc",
-	"key": "id",
-	"url": "https://www.olympic.org/the-ioc",
-	"license": "https://www.olympic.org/terms-of-service",
-	"license_type": "Restricted",
-	"license_text": "All elements of the Site, including the IOC Content, are protected by copyright, trade dress, moral rights, trademark and other laws relating to the protection of intellectual property.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "These codes identify the nationality of athletes and teams during Olympic events."
+    "description": "These codes identify the nationality of athletes and teams during Olympic events. Data for concordance values is sourced from Statoids.", 
+    "fullname": "International Olympics Committee", 
+    "id": 1158832825, 
+    "key": "id", 
+    "license": "https://www.olympic.org/terms-of-service", 
+    "license_text": "All elements of the Site, including the IOC Content, are protected by copyright, trade dress, moral rights, trademark and other laws relating to the protection of intellectual property.", 
+    "license_type": "Restricted", 
+    "name": "ioc", 
+    "prefix": "ioc", 
+    "url": "https://www.olympic.org/the-ioc", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

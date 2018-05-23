@@ -1,15 +1,15 @@
 {
-	"id": 1108728529,
-	"fullname": "Turku City Government",
-	"name": "tkugov",
-	"prefix": "tkugov",
-	"key": "",
-	"url": "http://opendata.lounaistieto.fi/aineistoja/Turku_pienalueet.zip",
-	"license": "http://www.lounaistieto.fi/blog/2015/08/18/turun-palvelualuejakotilastoalueet/",
-	"license_type": "CC BY 4.0",
-	"license_text": "You are free to: Share - copy and redistribute the material in any medium or format and Adapt - remix, transform, and build upon the material for any purpose, even commercially.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Open Data portal for the City of Turku, Finland."
+    "description": "Open Data portal for the City of Turku, Finland.", 
+    "fullname": "Turku City Government", 
+    "id": 1108728529, 
+    "key": "", 
+    "license": "http://www.lounaistieto.fi/blog/2015/08/18/turun-palvelualuejakotilastoalueet/", 
+    "license_text": "You are free to: Share - copy and redistribute the material in any medium or format and Adapt - remix, transform, and build upon the material for any purpose, even commercially.", 
+    "license_type": "CC BY 4.0", 
+    "name": "tkugov", 
+    "prefix": "tkugov", 
+    "url": "http://opendata.lounaistieto.fi/aineistoja/Turku_pienalueet.zip", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

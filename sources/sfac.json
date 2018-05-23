@@ -1,15 +1,15 @@
 {
-	"id": 772974303,
-	"fullname": "San Francisco Arts Commission",
-	"name": "sfac",
-	"prefix": "sfac",
-	"key": "accession_id",
-	"url": "http://www.sfartscommission.org/",
-	"license": "http://www.sfartscommission.org/terms-use",
-	"license_type": "CC BY (assumed)",
-	"license_text": "As a convenience to potential users, the City and County of San Francisco ('City') makes a variety of datasets ('Data') available for download through this website. Your use of the Data is subject to these terms of use, which constitute a legal agreement between You and the City and County of San Francisco ('City'). This legal agreement is referred to as the 'Terms of Use.'",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "Official website for the San Francisco Arts Commission."
+    "description": "Official website for the San Francisco Arts Commission.", 
+    "fullname": "San Francisco Arts Commission", 
+    "id": 772974303, 
+    "key": "accession_id", 
+    "license": "http://www.sfartscommission.org/terms-use", 
+    "license_text": "As a convenience to potential users, the City and County of San Francisco ('City') makes a variety of datasets ('Data') available for download through this website. Your use of the Data is subject to these terms of use, which constitute a legal agreement between You and the City and County of San Francisco ('City'). This legal agreement is referred to as the 'Terms of Use.'", 
+    "license_type": "CC BY (assumed)", 
+    "name": "sfac", 
+    "prefix": "sfac", 
+    "url": "http://www.sfartscommission.org/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

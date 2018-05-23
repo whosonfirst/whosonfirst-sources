@@ -1,15 +1,15 @@
 {
-	"id": 1108962957,
-	"fullname": "Los Angeles Times",
-	"name": "latimes",
-	"prefix": "latimes",
-	"key": "id",
-	"url": "http://www.latimes.com/",
-	"license": "http://www.tronc.com/central-terms-of-service/",
-	"license_type": "Restricted",
-	"license_text": "If you operate a Web site and wish to link to the Site, you may do so provided you agree to cease such link upon request from us. No other use is permitted without prior written permission of tronc.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Los Angeles Times."
+    "description": "The Los Angeles Times.", 
+    "fullname": "Los Angeles Times", 
+    "id": 1108962957, 
+    "key": "id", 
+    "license": "http://www.tronc.com/central-terms-of-service/", 
+    "license_text": "If you operate a Web site and wish to link to the Site, you may do so provided you agree to cease such link upon request from us. No other use is permitted without prior written permission of tronc.", 
+    "license_type": "Restricted", 
+    "name": "latimes", 
+    "prefix": "latimes", 
+    "url": "http://www.latimes.com/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }

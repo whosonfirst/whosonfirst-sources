@@ -1,15 +1,15 @@
 {
-	"id": 840464301,
-	"fullname": "Library of Congress",
-	"name": "loc",
-	"prefix": "loc",
-	"key": "id",
-	"url": "http://www.loc.gov",
-	"license": "https://www.loc.gov/legal/",
-	"license_type": "CC0",
-	"license_text": "Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.",
-	"usage_concordance":-1,
-	"usage_property":-1,
-	"usage_geometry":-1,
-	"description": "The Library of Congress is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps and manuscripts in its collections. The Library is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office."
+    "description": "The Library of Congress is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps and manuscripts in its collections. The Library is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.", 
+    "fullname": "Library of Congress", 
+    "id": 840464301, 
+    "key": "id", 
+    "license": "https://www.loc.gov/legal/", 
+    "license_text": "Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.", 
+    "license_type": "CC0", 
+    "name": "loc", 
+    "prefix": "loc", 
+    "url": "http://www.loc.gov", 
+    "usage_concordance": 1, 
+    "usage_geometry": 0, 
+    "usage_property": 0
 }
