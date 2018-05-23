@@ -91,10 +91,17 @@ if __name__ == '__main__':
         if details.get('src:via'):
             docs.write("\n  This source includes `CC-BY compatible` data from the following organizations:\n")
             for via in details['src:via']:
-                if via['source_note']:
-                    docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
+                if not via['source_link'] == "":
+                    if via['source_note']:
+                        docs.write("  \t* **%s**: [%s](%s) - %s\n" % (via["context"],via["source_name"],via["source_link"],via["source_note"]))
+                    else:
+                        docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
+
                 else:
-                    docs.write("  \t* **%s**: [%s](%s)\n" % (via["context"],via["source_name"],via["source_link"]))
+                    if via['source_note']:
+                        docs.write("  \t* **%s**: %s - %s\n" % (via["context"],via["source_name"],via["source_note"]))
+                    else:
+                        docs.write("  \t* **%s**: %s\n" % (via["context"],via["source_name"]))
 
         usage = []
 

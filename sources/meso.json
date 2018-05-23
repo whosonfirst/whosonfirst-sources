@@ -4,8 +4,8 @@
 	"id": 1108756907,
 	"key": "",
 	"license": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
-	"license_text": "The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"license_type": "CC0",
+	"license_text": "Mesoshapes includes open data from government and other sources, many of which require attribution. See details below.",
+	"license_type": "CC-BY",
 	"mz_associated": 1,
 	"name": "meso",
 	"prefix": "meso",
@@ -259,7 +259,7 @@
 		{
 			"context": "Global",
 			"source_link": "",
-			"source_name": "Art of the Mappable (AOTM)",
+			"source_name": "Art of the Mappable (AOTM) for Mapzen under CC0",
 			"source_note": ""
 		},
 		{

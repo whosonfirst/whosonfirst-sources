@@ -1101,117 +1101,117 @@ _This is a Mapzen associated source._
 * id: `1108756907`
 * name: `meso`
 * prefix: `meso`
-* license_type: _CC0_
-* license_text: _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
+* license_type: _CC-BY_
+* license_text: _Mesoshapes includes open data from government and other sources, many of which require attribution. See details below._
 * url: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 
   This source includes `CC-BY compatible` data from the following organizations:
-  	* **Armenia**: [Acopian Center for the Environment (ACE)]()
-  	* **Armenia**: [Revolutionary GIS]()
-  	* **Asia**: [National Land Surveying and Mapping Center (TNLSMC)]()
-  	* **Azerbaijan**: [ISCGM]()
-  	* **Azerbaijan**: [State Committee Land and Cartography]()
-  	* **Bangladesh**: [GIST]()
-  	* **Bangladesh**: [National Renewable Energy Laboratory (NREL)]()
-  	* **Bolivia**: [IDE-EPB GeoBolivia data portal (IDE_EPB)]()
-  	* **Burundi**: [OCHA HDX]()
-  	* **Burundi**: [IGEBU]()
-  	* **Cameroon**: [WRI]()
-  	* **Cameroon**: [Institut National de la Cartographie]()
-  	* **Chad**: [OCHA]()
-  	* **Chile**: [Chilean National Library of Congress]()
-  	* **Colombia**: [Instituto Geografico Agustin Codazzi]()
-  	* **Colombia**: [OCHA]()
-  	* **Colombia**: [Sala Humanitaria (SH)]()
-  	* **Costa Rica**: [ESRI Open Data]()
-  	* **Costa Rica**: [Daticos/Geotecnologias S.A.]()
-  	* **Cuba**: [Oficina Nacional de Estadísticas, Cuba (ONEC)]()
-  	* **Democratic Rebublic of Congo**: [OCHA]()
-  	* **Democratic Rebublic of Congo**: [Referenciel Geographique Commun DRC]()
-  	* **Egypt**: [Revolutionary GIS]()
-  	* **Egypt**: [USAID via FOIA]()
-  	* **Ethiopia**: [GIST]()
-  	* **Ethiopia**: [USAID]()
-  	* **Ethiopia**: [WRI]()
-  	* **Europe**: [Euro Global Map (EGM)]()
-  	* **Europe**: [European Data Portal (EDP)]()
-  	* **France**: [French IGN (FIGN)]()
-  	* **French Guiana**: [French IGN]()
-  	* **Gambia**: [OCHA]()
-  	* **Georgia**: [GIST]()
-  	* **Georgia**: [ISCGM]()
-  	* **Georgia**: [geodesyandcartography]()
-  	* **Global**: [Digital Chart of the World (DCW)]()
-  	* **Global**: [ESRI Open Data - Daticos]()
-  	* **Global**: [Natural Earth Urban (NEU)]()
-  	* **Global**: [National Renewable Energy Laboratory (NREL)]()
-  	* **Global**: [World Resource Institute (WRI)]()
-  	* **Global**: [International Steering Committee for Global Mapping (ISCGM)]()
-  	* **Global**: [Art of the Mappable (AOTM)]()
-  	* **Global**: [OCHA_OPEN]()
-  	* **Global**: [USAID]() - GIST with USAID as originator
-  	* **Global**: [Empirical Study of Conflict (ESOC)]()
-  	* **Guinea**: [OCHA HDX]()
-  	* **Guinea**: [WFP]()
-  	* **Guinea**: [International Organization for Migration]()
-  	* **Guyana**: [Guyana Bureau of Statistics (GBOS)]()
-  	* **Honduras**: [ISCGM]()
-  	* **Honduras**: [Direccion General de Catastro y Geografia]()
-  	* **India**: [DataMeet]()
-  	* **Indonesia**: [Geospatial Information Agency]()
-  	* **Indonesia**: [ISCGM]()
-  	* **Iraq**: [ESOC]()
-  	* **Iraq**: [World Food Program]()
-  	* **Iraq**: [Relief Web Humanitarian Information Center]()
-  	* **Israel**: [Revolutionary GIS]()
-  	* **Israel**: [Israel Central Bureau of Statistics (ICBS)]()
-  	* **Jamaica**: [Statistical Institute of Jamaica]()
-  	* **Japan**: [Geospatial Information Authority of Japan (GSI)]()
-  	* **Kyrgyzstan**: [OCHA]()
-  	* **Kyrgyzstan**: [Ministry of Emergency Situations of the Kyrgyz Republic]()
-  	* **Liberia**: [GIST]()
-  	* **Liberia**: [USAID]()
-  	* **Liberia**: [OFDA Economic and Humanitarian Assistance]()
-  	* **Libya**: [OCHA HDX]()
-  	* **Libya**: [Libya Bureau of Statistics and Census (BSC)]()
-  	* **Libya**: [IOM]()
-  	* **Macedonia**: [EuroGlobalMap]()
-  	* **Mali**: [OCHA]()
-  	* **Mauritania**: [OCHA]()
-  	* **Mauritius**: [Ministry of Housing and Lands]()
-  	* **Mauritius**: [ISCGM]()
-  	* **Mozambique**: [ISCGM]()
-  	* **Mozambique**: [CENACARTA]()
-  	* **New Zealand**: [Statistics New Zealand (SNZ)]()
-  	* **Nicaragua**: [ISCGM]()
-  	* **Nicaragua**: [INETER]()
-  	* **Niger**: [OCHA]()
-  	* **Nigeria**: [OCHA]()
-  	* **Palestine**: [OCHA]()
-  	* **Palestine**: [Ministry of planning (Palestinian Authority)]()
-  	* **Papua**: [ISCGM]()
-  	* **Papua**: [National Mapping Bureau]()
-  	* **Paraguay**: [DGEEC]()
-  	* **Paraguay**: [Republica de Paraguay Dirección General de Estadística, Encuestas y Censos (DGEEC)]()
-  	* **Peru**: [OCHA]()
-  	* **Peru**: [Instituto Geográfico Nacional]()
-  	* **Rwanda**: [Revolutionary GIS]()
-  	* **Rwanda**: [National Institute of Statistics of Rwanda (NISR)]()
-  	* **Senegal**: [OCHA]()
-  	* **Serbia**: [EuroGlobalMap]()
-  	* **Serbia**: [EuroGeoGraphics]()
-  	* **South Africa**: [Revolutionary GIS]()
-  	* **South Africa**: [South Africa Municipal Demarcation Board (SAMDB)]()
-  	* **Taiwan**: [National Land Surveying and Mapping Center]()
-  	* **Tanzania**: [Tanzania National Bureau of Statistics (TNBS)]()
-  	* **Togo**: [ISCGM]()
-  	* **Togo**: [Direction General of Cartography - DGC Togo]()
-  	* **Ukraine**: [Revolutionary GIS]()
-  	* **Ukraine**: [OCHA Ukraine ДНВП Картографія]()
-  	* **Zimbabwe**: [Zimbabwe Central Statistics Office (ZimStat)]()
-  	* **Zimbabwe**: [OCHA HDX]()
+  	* **Armenia**: Acopian Center for the Environment (ACE)
+  	* **Armenia**: Revolutionary GIS
+  	* **Asia**: National Land Surveying and Mapping Center (TNLSMC)
+  	* **Azerbaijan**: ISCGM
+  	* **Azerbaijan**: State Committee Land and Cartography
+  	* **Bangladesh**: GIST
+  	* **Bangladesh**: National Renewable Energy Laboratory (NREL)
+  	* **Bolivia**: IDE-EPB GeoBolivia data portal (IDE_EPB)
+  	* **Burundi**: OCHA HDX
+  	* **Burundi**: IGEBU
+  	* **Cameroon**: WRI
+  	* **Cameroon**: Institut National de la Cartographie
+  	* **Chad**: OCHA
+  	* **Chile**: Chilean National Library of Congress
+  	* **Colombia**: Instituto Geografico Agustin Codazzi
+  	* **Colombia**: OCHA
+  	* **Colombia**: Sala Humanitaria (SH)
+  	* **Costa Rica**: ESRI Open Data
+  	* **Costa Rica**: Daticos/Geotecnologias S.A.
+  	* **Cuba**: Oficina Nacional de Estadísticas, Cuba (ONEC)
+  	* **Democratic Rebublic of Congo**: OCHA
+  	* **Democratic Rebublic of Congo**: Referenciel Geographique Commun DRC
+  	* **Egypt**: Revolutionary GIS
+  	* **Egypt**: USAID via FOIA
+  	* **Ethiopia**: GIST
+  	* **Ethiopia**: USAID
+  	* **Ethiopia**: WRI
+  	* **Europe**: Euro Global Map (EGM)
+  	* **Europe**: European Data Portal (EDP)
+  	* **France**: French IGN (FIGN)
+  	* **French Guiana**: French IGN
+  	* **Gambia**: OCHA
+  	* **Georgia**: GIST
+  	* **Georgia**: ISCGM
+  	* **Georgia**: geodesyandcartography
+  	* **Global**: Digital Chart of the World (DCW)
+  	* **Global**: ESRI Open Data - Daticos
+  	* **Global**: Natural Earth Urban (NEU)
+  	* **Global**: National Renewable Energy Laboratory (NREL)
+  	* **Global**: World Resource Institute (WRI)
+  	* **Global**: International Steering Committee for Global Mapping (ISCGM)
+  	* **Global**: Art of the Mappable (AOTM) for Mapzen under CC0
+  	* **Global**: OCHA_OPEN
+  	* **Global**: USAID - GIST with USAID as originator
+  	* **Global**: Empirical Study of Conflict (ESOC)
+  	* **Guinea**: OCHA HDX
+  	* **Guinea**: WFP
+  	* **Guinea**: International Organization for Migration
+  	* **Guyana**: Guyana Bureau of Statistics (GBOS)
+  	* **Honduras**: ISCGM
+  	* **Honduras**: Direccion General de Catastro y Geografia
+  	* **India**: DataMeet
+  	* **Indonesia**: Geospatial Information Agency
+  	* **Indonesia**: ISCGM
+  	* **Iraq**: ESOC
+  	* **Iraq**: World Food Program
+  	* **Iraq**: Relief Web Humanitarian Information Center
+  	* **Israel**: Revolutionary GIS
+  	* **Israel**: Israel Central Bureau of Statistics (ICBS)
+  	* **Jamaica**: Statistical Institute of Jamaica
+  	* **Japan**: Geospatial Information Authority of Japan (GSI)
+  	* **Kyrgyzstan**: OCHA
+  	* **Kyrgyzstan**: Ministry of Emergency Situations of the Kyrgyz Republic
+  	* **Liberia**: GIST
+  	* **Liberia**: USAID
+  	* **Liberia**: OFDA Economic and Humanitarian Assistance
+  	* **Libya**: OCHA HDX
+  	* **Libya**: Libya Bureau of Statistics and Census (BSC)
+  	* **Libya**: IOM
+  	* **Macedonia**: EuroGlobalMap
+  	* **Mali**: OCHA
+  	* **Mauritania**: OCHA
+  	* **Mauritius**: Ministry of Housing and Lands
+  	* **Mauritius**: ISCGM
+  	* **Mozambique**: ISCGM
+  	* **Mozambique**: CENACARTA
+  	* **New Zealand**: Statistics New Zealand (SNZ)
+  	* **Nicaragua**: ISCGM
+  	* **Nicaragua**: INETER
+  	* **Niger**: OCHA
+  	* **Nigeria**: OCHA
+  	* **Palestine**: OCHA
+  	* **Palestine**: Ministry of planning (Palestinian Authority)
+  	* **Papua**: ISCGM
+  	* **Papua**: National Mapping Bureau
+  	* **Paraguay**: DGEEC
+  	* **Paraguay**: Republica de Paraguay Dirección General de Estadística, Encuestas y Censos (DGEEC)
+  	* **Peru**: OCHA
+  	* **Peru**: Instituto Geográfico Nacional
+  	* **Rwanda**: Revolutionary GIS
+  	* **Rwanda**: National Institute of Statistics of Rwanda (NISR)
+  	* **Senegal**: OCHA
+  	* **Serbia**: EuroGlobalMap
+  	* **Serbia**: EuroGeoGraphics
+  	* **South Africa**: Revolutionary GIS
+  	* **South Africa**: South Africa Municipal Demarcation Board (SAMDB)
+  	* **Taiwan**: National Land Surveying and Mapping Center
+  	* **Tanzania**: Tanzania National Bureau of Statistics (TNBS)
+  	* **Togo**: ISCGM
+  	* **Togo**: Direction General of Cartography - DGC Togo
+  	* **Ukraine**: Revolutionary GIS
+  	* **Ukraine**: OCHA Ukraine ДНВП Картографія
+  	* **Zimbabwe**: Zimbabwe Central Statistics Office (ZimStat)
+  	* **Zimbabwe**: OCHA HDX
 * usage: `property`, `geometry`
 
 ## Mini Tenders
@@ -1495,80 +1495,80 @@ _A gazetteer of non-overlapping, authoritative polygons around a curated list of
 * license: _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
 
   This source includes `CC-BY compatible` data from the following organizations:
-  	* **Australia**: [Geoscience Australia and Australian Bureau of Statistics]()
-  	* **Austria**: [Bundesamt für Eich- und Vermessungswesen]()
-  	* **Belgium**: [Institut Géographique National – Belgique]()
-  	* **Brazil**: [IBGE]()
-  	* **Bulgaria**: [Cadastre Agency]()
-  	* **Bulgaria**: [MRDPW]()
-  	* **Canada**: [Department of Natural Resources Canada]()
-  	* **Canada**: [Statistics Canada]()
-  	* **Canada**: [BC Stats]()
-  	* **Chile**: [Global Map of Chile]()
-  	* **Chile**: [International Steering Committee for Global Mapping]()
-  	* **Chile**: [Instituto Geografico Militar de Chile]()
-  	* **Croatia**: [Drzavna Geodetska Uprava]()
-  	* **Cyprus**: [Lands and Surveys]()
-  	* **Cyprus**: [Survey and Cartogr. Br.]()
-  	* **Czech Republic**: [Ceskúrad zememerick a katastrální]()
-  	* **Denmark**: [Kort og Matrikelstyrelsen]()
-  	* **Estonia**: [Maaamet]()
-  	* **Europe**: [EuroGeoGraphics]()
+  	* **Australia**: Geoscience Australia and Australian Bureau of Statistics
+  	* **Austria**: Bundesamt für Eich- und Vermessungswesen
+  	* **Belgium**: Institut Géographique National – Belgique
+  	* **Brazil**: IBGE
+  	* **Bulgaria**: Cadastre Agency
+  	* **Bulgaria**: MRDPW
+  	* **Canada**: Department of Natural Resources Canada
+  	* **Canada**: Statistics Canada
+  	* **Canada**: BC Stats
+  	* **Chile**: Global Map of Chile
+  	* **Chile**: International Steering Committee for Global Mapping
+  	* **Chile**: Instituto Geografico Militar de Chile
+  	* **Croatia**: Drzavna Geodetska Uprava
+  	* **Cyprus**: Lands and Surveys
+  	* **Cyprus**: Survey and Cartogr. Br.
+  	* **Czech Republic**: Ceskúrad zememerick a katastrální
+  	* **Denmark**: Kort og Matrikelstyrelsen
+  	* **Estonia**: Maaamet
+  	* **Europe**: EuroGeoGraphics
   	* **Europe**: [European Environment Agency (EEA)](http://www.eea.europa.eu/data-and-maps/data/urban-morphological-zones-2006-umz2006-f3v0)
-  	* **Faroe Islands**: [Kort og Matrikelstyrelsen]()
-  	* **Finland**: [Maanmittauslaitos]()
-  	* **Global**: [Flickr]()
-  	* **France**: [Institut Géographique National]()
-  	* **France**: [Institut National de l’Information Géographique et Forestière]()
-  	* **Global**: [Geonames]()
-  	* **Georgia**: [National Agency of Public Registry]()
-  	* **Germany**: [Bundesamt für Kartographie und Geodäsie]()
-  	* **Great Britain**: [Ordnance Survey]()
-  	* **Greece**: [Hellenic Military Geographical Service]()
-  	* **Greenland**: [Kort og Matrikelstyrelsen]()
-  	* **Hungary**: [Földmérési és Távérzékelési Intézet]()
-  	* **Iceland**: [Landmælingar Íslands]()
-  	* **Indonesia**: [Global Map of Indonesia (ISCGM/Indonesia)]()
-  	* **Ireland**: [Ordnance Survey Ireland]()
-  	* **Italy**: [Istituto Geografico Militare Italiano]()
-  	* **Latvia**: [Latvijas Republikas Valsts zemes dienests]()
-  	* **Liechtenstein**: [Bundesamt für Landestopographie]()
-  	* **Lithuania**: [Nacionalinė žemės tarnyba]()
-  	* **Luxembourg**: [Administration du Cadastre et de la Topographie]()
-  	* **Malta**: [Malta Environment and Planning Authority (MEPA)]()
-  	* **Mexico**: [INEGI]()
-  	* **Moldova**: [State Agency for Land Relations and Cadastre]()
-  	* **Netherlands**: [Kadaster]()
-  	* **Netherlands**: [Topografische Dienst Nederland]()
-  	* **New Zealand**: [Land Information New Zealand]()
-  	* **Northern Ireland**: [Ordnance Survey of Northern Ireland]()
-  	* **Norway**: [Statens Kartverk]()
-  	* **Palestine**: [Global Map of Palestine]()
-  	* **Palestine**: [ISCGM/Palestinian National Authority]()
-  	* **Palestine**: [Ministry of Planning]()
+  	* **Faroe Islands**: Kort og Matrikelstyrelsen
+  	* **Finland**: Maanmittauslaitos
+  	* **Global**: Flickr
+  	* **France**: Institut Géographique National
+  	* **France**: Institut National de l’Information Géographique et Forestière
+  	* **Global**: Geonames
+  	* **Georgia**: National Agency of Public Registry
+  	* **Germany**: Bundesamt für Kartographie und Geodäsie
+  	* **Great Britain**: Ordnance Survey
+  	* **Greece**: Hellenic Military Geographical Service
+  	* **Greenland**: Kort og Matrikelstyrelsen
+  	* **Hungary**: Földmérési és Távérzékelési Intézet
+  	* **Iceland**: Landmælingar Íslands
+  	* **Indonesia**: Global Map of Indonesia (ISCGM/Indonesia)
+  	* **Ireland**: Ordnance Survey Ireland
+  	* **Italy**: Istituto Geografico Militare Italiano
+  	* **Latvia**: Latvijas Republikas Valsts zemes dienests
+  	* **Liechtenstein**: Bundesamt für Landestopographie
+  	* **Lithuania**: Nacionalinė žemės tarnyba
+  	* **Luxembourg**: Administration du Cadastre et de la Topographie
+  	* **Malta**: Malta Environment and Planning Authority (MEPA)
+  	* **Mexico**: INEGI
+  	* **Moldova**: State Agency for Land Relations and Cadastre
+  	* **Netherlands**: Kadaster
+  	* **Netherlands**: Topografische Dienst Nederland
+  	* **New Zealand**: Land Information New Zealand
+  	* **Northern Ireland**: Ordnance Survey of Northern Ireland
+  	* **Norway**: Statens Kartverk
+  	* **Palestine**: Global Map of Palestine
+  	* **Palestine**: ISCGM/Palestinian National Authority
+  	* **Palestine**: Ministry of Planning
   	* **Palestine**: [Geographic Center and Technical Support](www.mop.gov.ps)
-  	* **Poland**: [Główny Urząd Geodezji i Kartografii]()
-  	* **Portugal**: [Instituto Geográfico Português]()
-  	* **Rep. of Slovakia**: [Geodetick a kartografick ústav]()
-  	* **Romania**: [CNGCFT]()
-  	* **Romania**: [National Center of Geodesie]()
-  	* **Romania**: [Cartography]()
-  	* **Romania**: [Fotogrametry and Remote Sensing]()
-  	* **Serbia**: [Republički geodetski zavod]()
-  	* **Slovenia**: [Geodetska Uprava Republike Slovenije]()
-  	* **South Africa**: [: Global Map of the Republic of South Africa]()
-  	* **South Africa**: [ISCGM/State Copyright]()
-  	* **South Africa**: [Department of Rural Development and Land Reform]()
+  	* **Poland**: Główny Urząd Geodezji i Kartografii
+  	* **Portugal**: Instituto Geográfico Português
+  	* **Rep. of Slovakia**: Geodetick a kartografick ústav
+  	* **Romania**: CNGCFT
+  	* **Romania**: National Center of Geodesie
+  	* **Romania**: Cartography
+  	* **Romania**: Fotogrametry and Remote Sensing
+  	* **Serbia**: Republički geodetski zavod
+  	* **Slovenia**: Geodetska Uprava Republike Slovenije
+  	* **South Africa**: : Global Map of the Republic of South Africa
+  	* **South Africa**: ISCGM/State Copyright
+  	* **South Africa**: Department of Rural Development and Land Reform
   	* **South Africa**: [Chief Directorate of National Geo-spatial Information](http://www.ngi.gov.za/)
-  	* **Spain**: [Centro Nacional de Informacion Geografica – Instituto Geográfico Nacional]()
-  	* **Spain**: [Instituto Geográfico Nacional]()
-  	* **Sweden**: [Lantmäteriet]()
-  	* **Switzerland**: [Bundesamt für Landestopographie]()
-  	* **Switzerland**: [swisstopo]()
-  	* **Ukraine**: [Research Institute of Geodesy and Cartography]()
-  	* **United Kingdom**: [Ordnance Survey]()
-  	* **United States**: [United States Census Bureau]()
-  	* **Global**: [Yahoo!]()
+  	* **Spain**: Centro Nacional de Informacion Geografica – Instituto Geográfico Nacional
+  	* **Spain**: Instituto Geográfico Nacional
+  	* **Sweden**: Lantmäteriet
+  	* **Switzerland**: Bundesamt für Landestopographie
+  	* **Switzerland**: swisstopo
+  	* **Ukraine**: Research Institute of Geodesy and Cartography
+  	* **United Kingdom**: Ordnance Survey
+  	* **United States**: United States Census Bureau
+  	* **Global**: Yahoo!
 * usage: `concordance`, `property`, `geometry`
 
 ## Quattroshapes Point Gazetteer
@@ -1853,7 +1853,6 @@ _This is a Mapzen associated source._
 * name: `transitland`
 * prefix: `transitland`
 * license_type: _CC0_
-* license_text: _Mapzen hereby grants to You and You hereby accept a limited, non-exclusive, royalty free, non-transferable, non-sublicensable, freely revocable, worldwide license solely to use the Licensed Material to develop Products._
 * url: _https://transit.land/_
 * license: _https://transit.land/an-open-project/contributor-agreement.html_
 * usage: `concordance`, `geometry`
@@ -2043,7 +2042,7 @@ _This is a Mapzen associated source._
 
   This source includes `CC-BY compatible` data from the following organizations:
   	* **Global**: [flickr](https://www.flickr.com/)
-  	* **Global**: [Mapzen]()
+  	* **Global**: Mapzen
 * usage: `geometry`
 
 ## Zetashapes
