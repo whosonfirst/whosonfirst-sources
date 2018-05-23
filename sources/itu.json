@@ -1,5 +1,5 @@
 {
-    "description": "ITU country codes are used to identify radio transmitter locations.", 
+    "description": "ITU country codes are used to identify radio transmitter locations. Data for concordance values is sourced from Statoids. Who's On First tracks the dial codes used to call places in 'country' or 'region' both as concordance and as properties. No other ITU properties are referenced.", 
     "fullname": "International Telecommunications Union", 
     "id": 1158832821, 
     "key": "id", 

@@ -1,5 +1,5 @@
 {
-    "description": "ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies.", 
+    "description": "ISO is an independent, non-governmental international organization with a membership of 163 national standards bodies. Data for concordance values is sourced from Statoids. Who's On First tracks which 'country' a feature belongs to via the 'wof:country' and 'iso:country' properties. No other ISO properties are referenced.", 
     "fullname": "International Organization for Standardization", 
     "id": 1108931861, 
     "key": "id", 

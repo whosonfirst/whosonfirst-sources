@@ -1,5 +1,5 @@
 {
-    "description": "In most places that allow direct-dialed international calls, you must first dial an international access code. These access codes are maintained for the member countries or regions by the International Telecommunication Union (ITU).", 
+    "description": "In most places that allow direct-dialed international calls, you must first dial an international access code. These access codes are maintained for the member countries or regions by the International Telecommunication Union (ITU). Data for concordance values is sourced from Statoids.", 
     "edtf:deprecated": "2018-05-21",
     "fullname": "Dial Codes", 
     "id": 1158832839, 
