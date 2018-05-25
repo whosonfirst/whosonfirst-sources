@@ -14,7 +14,7 @@
 		"source_name": "Statistics Canada",
 		"source_note": "Canadian open data portal."
 	}],
-	"mz:associated":-1
+	"mz:associated":-1,
 	"mz:is_current": -1,
 	"edtf:deprecated": "YYY-MM-DD",
 	"usage_concordance": -1,
