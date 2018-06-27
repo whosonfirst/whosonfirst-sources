@@ -1,5 +1,5 @@
 {
-    "description": "Purveyors of fine freeware since 1972. On the net since 1991.", 
+    "description": "Purveyors of fine freeware since 1972. On the net since 1991. Used to populate several dozen venue records in Who's On First.",
     "fullname": "Acme Laboratories", 
     "id": 1108961115, 
     "key": "id", 
@@ -10,6 +10,6 @@
     "prefix": "acme", 
     "url": "https://acme.com/", 
     "usage_concordance": 0, 
-    "usage_geometry": 0, 
-    "usage_property": 0
+    "usage_geometry": 1, 
+    "usage_property": 1
 }
