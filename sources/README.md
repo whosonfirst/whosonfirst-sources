@@ -1197,7 +1197,7 @@ _This is a Mapzen associated source._
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 
- This source includes `CC-BY compatible` data from the following organizations:
+  This source includes `CC-BY compatible` data from the following organizations:
   	* **Armenia**: Acopian Center for the Environment (ACE)
   	* **Armenia**: Revolutionary GIS
   	* **Asia**: National Land Surveying and Mapping Center (TNLSMC)
@@ -1606,7 +1606,7 @@ _A gazetteer of non-overlapping, authoritative polygons around a curated list of
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md_
 * license: _https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md_
 
- This source includes `CC-BY compatible` data from the following organizations:
+  This source includes `CC-BY compatible` data from the following organizations:
   	* **Australia**: Geoscience Australia and Australian Bureau of Statistics
   	* **Austria**: Bundesamt für Eich- und Vermessungswesen
   	* **Belgium**: Institut Géographique National – Belgique
@@ -2188,7 +2188,7 @@ _This is a Mapzen associated source._
 * license_text: _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission._
 * license: `N/A`
 
- This source includes `CC-BY compatible` data from the following organizations:
+  This source includes `CC-BY compatible` data from the following organizations:
   	* **Global**: [flickr](https://www.flickr.com/) - This product uses the Flickr API but is not endorsed or certified by Flickr.
   	* **Global**: Mapzen
 * usage: `geometry`
@@ -2207,7 +2207,7 @@ _Zetashapes is an experiment in crowdsourced US neighborhood polygons._
 * remarks: _https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/zetashapes_remarks.md_
 * license: _http://www.zetashapes.com/license_
 
- This source includes `CC-BY compatible` data from the following organizations:
+  This source includes `CC-BY compatible` data from the following organizations:
   	* **Global**: [flickr](https://www.flickr.com/) - This product uses the Flickr API but is not endorsed or certified by Flickr.
   	* **United States**: [United States Census Bureau](http://www.census.gov)
 * usage: `property`, `geometry`

@@ -101,7 +101,7 @@ if __name__ == '__main__':
         #list out all "via" sources with links to each source's source...
         if details.get('src:via'):
 
-            docs.write("\n This source includes `CC-BY compatible` data from the following organizations:\n")
+            docs.write("\n  This source includes `CC-BY compatible` data from the following organizations:\n")
 
             for via in details['src:via']:
 
