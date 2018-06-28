@@ -1,5 +1,6 @@
 {
     "description": "Country codes used be the Global Administrative Unit Layers from the Food and Agriculture Organization. The entity codes are integers, assigned sequentially, with no duplication between layers; that is, no country has the same code as any primary subdivision, and so on.", 
+    "edtf:inception": "2017-10-09", 
     "fullname": "Global Administrative Unit Layers - Food and Agriculture Organization", 
     "id": 1158832835, 
     "key": "id", 

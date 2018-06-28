@@ -1,5 +1,6 @@
 {
     "description": "Neighbourhood (district) data as provided by the Barcelona City Council (CartoBCN).", 
+    "edtf:inception": "2017-10-11", 
     "fullname": "CartoBCN", 
     "id": 1158844413, 
     "key": "", 

@@ -1,5 +1,6 @@
 {
     "description": "Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.", 
+    "edtf:inception": "2015-11-09", 
     "fullname": "Mapshaper", 
     "id": 404734195, 
     "key": "", 

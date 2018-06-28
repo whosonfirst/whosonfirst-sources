@@ -1,5 +1,6 @@
 {
     "description": "Datasets can be found under the shapefile or geodatabase directories, sorted by precision and location.", 
+    "edtf:inception": "2017-05-12", 
     "fullname": "Natural Resources Canada, CanVec Hydrographic Features", 
     "id": 1108962077, 
     "key": "", 

@@ -1,643 +1,644 @@
 {
-	"description": "Mesoshapes were a product of Mapzen for Who's On First that aggregated data from national mapping agencies and other sources under CC-BY compatible licenses. In some cases Mesoshapes also includes CC0 polygon geometries that Mapzen drew by comparing three or more reference datasets for limited number of countries.",
-	"fullname": "Mesoshapes",
-	"id": 1108756907,
-	"key": "",
-	"license": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
-	"license_text": "Mesoshapes includes open data from government and other sources, many of which require attribution. See details below.",
-	"license_type": "CC-BY",
-	"mz_associated": 1,
-	"name": "meso",
-	"prefix": "meso",
-	"remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md",
-	"src:via": [{
-			"context": "Armenia",
-			"source_link": "",
-			"source_name": "Acopian Center for the Environment (ACE)",
-			"source_note": ""
-		},
-		{
-			"context": "Armenia",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "Asia",
-			"source_link": "",
-			"source_name": "National Land Surveying and Mapping Center (TNLSMC)",
-			"source_note": ""
-		},
-		{
-			"context": "Azerbaijan",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Azerbaijan",
-			"source_link": "",
-			"source_name": "State Committee Land and Cartography",
-			"source_note": ""
-		},
-		{
-			"context": "Bangladesh",
-			"source_link": "",
-			"source_name": "GIST",
-			"source_note": ""
-		},
-		{
-			"context": "Bangladesh",
-			"source_link": "",
-			"source_name": "National Renewable Energy Laboratory (NREL)",
-			"source_note": ""
-		},
-		{
-			"context": "Bolivia",
-			"source_link": "",
-			"source_name": "IDE-EPB GeoBolivia data portal (IDE_EPB)",
-			"source_note": ""
-		},
-		{
-			"context": "Burundi",
-			"source_link": "",
-			"source_name": "OCHA HDX",
-			"source_note": ""
-		},
-		{
-			"context": "Burundi",
-			"source_link": "",
-			"source_name": "IGEBU",
-			"source_note": ""
-		},
-		{
-			"context": "Cameroon",
-			"source_link": "",
-			"source_name": "WRI",
-			"source_note": ""
-		},
-		{
-			"context": "Cameroon",
-			"source_link": "",
-			"source_name": "Institut National de la Cartographie",
-			"source_note": ""
-		},
-		{
-			"context": "Chad",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Chile",
-			"source_link": "",
-			"source_name": "Chilean National Library of Congress",
-			"source_note": ""
-		},
-		{
-			"context": "Colombia",
-			"source_link": "",
-			"source_name": "Instituto Geografico Agustin Codazzi",
-			"source_note": ""
-		},
-		{
-			"context": "Colombia",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Colombia",
-			"source_link": "",
-			"source_name": "Sala Humanitaria (SH)",
-			"source_note": ""
-		},
-		{
-			"context": "Costa Rica",
-			"source_link": "",
-			"source_name": "ESRI Open Data",
-			"source_note": ""
-		},
-		{
-			"context": "Costa Rica",
-			"source_link": "",
-			"source_name": "Daticos/Geotecnologias S.A.",
-			"source_note": ""
-		},
-		{
-			"context": "Cuba",
-			"source_link": "",
-			"source_name": "Oficina Nacional de Estad\u00edsticas, Cuba (ONEC)",
-			"source_note": ""
-		},
-		{
-			"context": "Democratic Rebublic of Congo",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Democratic Rebublic of Congo",
-			"source_link": "",
-			"source_name": "Referenciel Geographique Commun DRC",
-			"source_note": ""
-		},
-		{
-			"context": "Egypt",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "Egypt",
-			"source_link": "",
-			"source_name": "USAID via FOIA",
-			"source_note": ""
-		},
-		{
-			"context": "Ethiopia",
-			"source_link": "",
-			"source_name": "GIST",
-			"source_note": ""
-		},
-		{
-			"context": "Ethiopia",
-			"source_link": "",
-			"source_name": "USAID",
-			"source_note": ""
-		},
-		{
-			"context": "Ethiopia",
-			"source_link": "",
-			"source_name": "WRI",
-			"source_note": ""
-		},
-		{
-			"context": "Europe",
-			"source_link": "",
-			"source_name": "Euro Global Map (EGM)",
-			"source_note": ""
-		},
-		{
-			"context": "Europe",
-			"source_link": "",
-			"source_name": "European Data Portal (EDP)",
-			"source_note": ""
-		},
-		{
-			"context": "France",
-			"source_link": "",
-			"source_name": "French IGN (FIGN)",
-			"source_note": ""
-		},
-		{
-			"context": "French Guiana",
-			"source_link": "",
-			"source_name": "French IGN",
-			"source_note": ""
-		},
-		{
-			"context": "Gambia",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Georgia",
-			"source_link": "",
-			"source_name": "GIST",
-			"source_note": ""
-		},
-		{
-			"context": "Georgia",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Georgia",
-			"source_link": "",
-			"source_name": "geodesyandcartography",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "Digital Chart of the World (DCW)",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "ESRI Open Data - Daticos",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "Natural Earth Urban (NEU)",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "National Renewable Energy Laboratory (NREL)",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "World Resource Institute (WRI)",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "International Steering Committee for Global Mapping (ISCGM)",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "Art of the Mappable (AOTM) for Mapzen under CC0",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "OCHA_OPEN",
-			"source_note": ""
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "USAID",
-			"source_note": "GIST with USAID as originator"
-		},
-		{
-			"context": "Global",
-			"source_link": "",
-			"source_name": "Empirical Study of Conflict (ESOC)",
-			"source_note": ""
-		},
-		{
-			"context": "Guinea",
-			"source_link": "",
-			"source_name": "OCHA HDX",
-			"source_note": ""
-		},
-		{
-			"context": "Guinea",
-			"source_link": "",
-			"source_name": "WFP",
-			"source_note": ""
-		},
-		{
-			"context": "Guinea",
-			"source_link": "",
-			"source_name": "International Organization for Migration",
-			"source_note": ""
-		},
-		{
-			"context": "Guyana",
-			"source_link": "",
-			"source_name": "Guyana Bureau of Statistics (GBOS)",
-			"source_note": ""
-		},
-		{
-			"context": "Honduras",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Honduras",
-			"source_link": "",
-			"source_name": "Direccion General de Catastro y Geografia",
-			"source_note": ""
-		},
-		{
-			"context": "India",
-			"source_link": "",
-			"source_name": "DataMeet",
-			"source_note": ""
-		},
-		{
-			"context": "Indonesia",
-			"source_link": "",
-			"source_name": "Geospatial Information Agency",
-			"source_note": ""
-		},
-		{
-			"context": "Indonesia",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Iraq",
-			"source_link": "",
-			"source_name": "ESOC",
-			"source_note": ""
-		},
-		{
-			"context": "Iraq",
-			"source_link": "",
-			"source_name": "World Food Program",
-			"source_note": ""
-		},
-		{
-			"context": "Iraq",
-			"source_link": "",
-			"source_name": "Relief Web Humanitarian Information Center",
-			"source_note": ""
-		},
-		{
-			"context": "Israel",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "Israel",
-			"source_link": "",
-			"source_name": "Israel Central Bureau of Statistics (ICBS)",
-			"source_note": ""
-		},
-		{
-			"context": "Jamaica",
-			"source_link": "",
-			"source_name": "Statistical Institute of Jamaica",
-			"source_note": ""
-		},
-		{
-			"context": "Japan",
-			"source_link": "",
-			"source_name": "Geospatial Information Authority of Japan (GSI)",
-			"source_note": ""
-		},
-		{
-			"context": "Kyrgyzstan",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Kyrgyzstan",
-			"source_link": "",
-			"source_name": "Ministry of Emergency Situations of the Kyrgyz Republic",
-			"source_note": ""
-		},
-		{
-			"context": "Liberia",
-			"source_link": "",
-			"source_name": "GIST",
-			"source_note": ""
-		},
-		{
-			"context": "Liberia",
-			"source_link": "",
-			"source_name": "USAID",
-			"source_note": ""
-		},
-		{
-			"context": "Liberia",
-			"source_link": "",
-			"source_name": "OFDA Economic and Humanitarian Assistance",
-			"source_note": ""
-		},
-		{
-			"context": "Libya",
-			"source_link": "",
-			"source_name": "OCHA HDX",
-			"source_note": ""
-		},
-		{
-			"context": "Libya",
-			"source_link": "",
-			"source_name": "Libya Bureau of Statistics and Census (BSC)",
-			"source_note": ""
-		},
-		{
-			"context": "Libya",
-			"source_link": "",
-			"source_name": "IOM",
-			"source_note": ""
-		},
-		{
-			"context": "Macedonia",
-			"source_link": "",
-			"source_name": "EuroGlobalMap",
-			"source_note": ""
-		},
-		{
-			"context": "Mali",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Mauritania",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Mauritius",
-			"source_link": "",
-			"source_name": "Ministry of Housing and Lands",
-			"source_note": ""
-		},
-		{
-			"context": "Mauritius",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Mozambique",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Mozambique",
-			"source_link": "",
-			"source_name": "CENACARTA",
-			"source_note": ""
-		},
-		{
-			"context": "New Zealand",
-			"source_link": "",
-			"source_name": "Statistics New Zealand (SNZ)",
-			"source_note": ""
-		},
-		{
-			"context": "Nicaragua",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Nicaragua",
-			"source_link": "",
-			"source_name": "INETER",
-			"source_note": ""
-		},
-		{
-			"context": "Niger",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Nigeria",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Palestine",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Palestine",
-			"source_link": "",
-			"source_name": "Ministry of planning (Palestinian Authority)",
-			"source_note": ""
-		},
-		{
-			"context": "Papua",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Papua",
-			"source_link": "",
-			"source_name": "National Mapping Bureau",
-			"source_note": ""
-		},
-		{
-			"context": "Paraguay",
-			"source_link": "",
-			"source_name": "DGEEC",
-			"source_note": ""
-		},
-		{
-			"context": "Paraguay",
-			"source_link": "",
-			"source_name": "Republica de Paraguay Direcci\u00f3n General de Estad\u00edstica, Encuestas y Censos (DGEEC)",
-			"source_note": ""
-		},
-		{
-			"context": "Peru",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Peru",
-			"source_link": "",
-			"source_name": "Instituto Geogr\u00e1fico Nacional",
-			"source_note": ""
-		},
-		{
-			"context": "Rwanda",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "Rwanda",
-			"source_link": "",
-			"source_name": "National Institute of Statistics of Rwanda (NISR)",
-			"source_note": ""
-		},
-		{
-			"context": "Senegal",
-			"source_link": "",
-			"source_name": "OCHA",
-			"source_note": ""
-		},
-		{
-			"context": "Serbia",
-			"source_link": "",
-			"source_name": "EuroGlobalMap",
-			"source_note": ""
-		},
-
-		{
-			"context": "Serbia",
-			"source_link": "",
-			"source_name": "EuroGeoGraphics",
-			"source_note": ""
-		},
-		{
-			"context": "South Africa",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "South Africa",
-			"source_link": "",
-			"source_name": "South Africa Municipal Demarcation Board (SAMDB)",
-			"source_note": ""
-		},
-		{
-			"context": "Taiwan",
-			"source_link": "",
-			"source_name": "National Land Surveying and Mapping Center",
-			"source_note": ""
-		},
-		{
-			"context": "Tanzania",
-			"source_link": "",
-			"source_name": "Tanzania National Bureau of Statistics (TNBS)",
-			"source_note": ""
-		},
-		{
-			"context": "Togo",
-			"source_link": "",
-			"source_name": "ISCGM",
-			"source_note": ""
-		},
-		{
-			"context": "Togo",
-			"source_link": "",
-			"source_name": "Direction General of Cartography - DGC Togo",
-			"source_note": ""
-		},
-		{
-			"context": "Ukraine",
-			"source_link": "",
-			"source_name": "Revolutionary GIS",
-			"source_note": ""
-		},
-		{
-			"context": "Ukraine",
-			"source_link": "",
-			"source_name": "OCHA Ukraine \u0414\u041d\u0412\u041f \u041a\u0430\u0440\u0442\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
-			"source_note": ""
-		},
-		{
-			"context": "Zimbabwe",
-			"source_link": "",
-			"source_name": "Zimbabwe Central Statistics Office (ZimStat)",
-			"source_note": ""
-		},
-		{
-			"context": "Zimbabwe",
-			"source_link": "",
-			"source_name": "OCHA HDX",
-			"source_note": ""
-		}
-	],
-	"url": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md",
-	"usage_concordance": 0,
-	"usage_geometry": 1,
-	"usage_property": 1
+    "description": "Mesoshapes were a product of Mapzen for Who's On First that aggregated data from national mapping agencies and other sources under CC-BY compatible licenses. In some cases Mesoshapes also includes CC0 polygon geometries that Mapzen drew by comparing three or more reference datasets for limited number of countries.", 
+    "edtf:inception": "2016-12-08", 
+    "fullname": "Mesoshapes", 
+    "id": 1108756907, 
+    "key": "", 
+    "license": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md", 
+    "license_text": "Mesoshapes includes open data from government and other sources, many of which require attribution. See details below.", 
+    "license_type": "CC-BY", 
+    "mz_associated": 1, 
+    "name": "meso", 
+    "prefix": "meso", 
+    "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/meso_remarks.md", 
+    "src:via": [
+        {
+            "context": "Armenia", 
+            "source_link": "", 
+            "source_name": "Acopian Center for the Environment (ACE)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Armenia", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Asia", 
+            "source_link": "", 
+            "source_name": "National Land Surveying and Mapping Center (TNLSMC)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Azerbaijan", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Azerbaijan", 
+            "source_link": "", 
+            "source_name": "State Committee Land and Cartography", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Bangladesh", 
+            "source_link": "", 
+            "source_name": "GIST", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Bangladesh", 
+            "source_link": "", 
+            "source_name": "National Renewable Energy Laboratory (NREL)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Bolivia", 
+            "source_link": "", 
+            "source_name": "IDE-EPB GeoBolivia data portal (IDE_EPB)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Burundi", 
+            "source_link": "", 
+            "source_name": "OCHA HDX", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Burundi", 
+            "source_link": "", 
+            "source_name": "IGEBU", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Cameroon", 
+            "source_link": "", 
+            "source_name": "WRI", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Cameroon", 
+            "source_link": "", 
+            "source_name": "Institut National de la Cartographie", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Chad", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Chile", 
+            "source_link": "", 
+            "source_name": "Chilean National Library of Congress", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Colombia", 
+            "source_link": "", 
+            "source_name": "Instituto Geografico Agustin Codazzi", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Colombia", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Colombia", 
+            "source_link": "", 
+            "source_name": "Sala Humanitaria (SH)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Costa Rica", 
+            "source_link": "", 
+            "source_name": "ESRI Open Data", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Costa Rica", 
+            "source_link": "", 
+            "source_name": "Daticos/Geotecnologias S.A.", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Cuba", 
+            "source_link": "", 
+            "source_name": "Oficina Nacional de Estad\u00edsticas, Cuba (ONEC)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Democratic Rebublic of Congo", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Democratic Rebublic of Congo", 
+            "source_link": "", 
+            "source_name": "Referenciel Geographique Commun DRC", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Egypt", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Egypt", 
+            "source_link": "", 
+            "source_name": "USAID via FOIA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Ethiopia", 
+            "source_link": "", 
+            "source_name": "GIST", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Ethiopia", 
+            "source_link": "", 
+            "source_name": "USAID", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Ethiopia", 
+            "source_link": "", 
+            "source_name": "WRI", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Europe", 
+            "source_link": "", 
+            "source_name": "Euro Global Map (EGM)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Europe", 
+            "source_link": "", 
+            "source_name": "European Data Portal (EDP)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "France", 
+            "source_link": "", 
+            "source_name": "French IGN (FIGN)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "French Guiana", 
+            "source_link": "", 
+            "source_name": "French IGN", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Gambia", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Georgia", 
+            "source_link": "", 
+            "source_name": "GIST", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Georgia", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Georgia", 
+            "source_link": "", 
+            "source_name": "geodesyandcartography", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Digital Chart of the World (DCW)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "ESRI Open Data - Daticos", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Natural Earth Urban (NEU)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "National Renewable Energy Laboratory (NREL)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "World Resource Institute (WRI)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "International Steering Committee for Global Mapping (ISCGM)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Art of the Mappable (AOTM) for Mapzen under CC0", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "OCHA_OPEN", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "USAID", 
+            "source_note": "GIST with USAID as originator"
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "", 
+            "source_name": "Empirical Study of Conflict (ESOC)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Guinea", 
+            "source_link": "", 
+            "source_name": "OCHA HDX", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Guinea", 
+            "source_link": "", 
+            "source_name": "WFP", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Guinea", 
+            "source_link": "", 
+            "source_name": "International Organization for Migration", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Guyana", 
+            "source_link": "", 
+            "source_name": "Guyana Bureau of Statistics (GBOS)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Honduras", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Honduras", 
+            "source_link": "", 
+            "source_name": "Direccion General de Catastro y Geografia", 
+            "source_note": ""
+        }, 
+        {
+            "context": "India", 
+            "source_link": "", 
+            "source_name": "DataMeet", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Indonesia", 
+            "source_link": "", 
+            "source_name": "Geospatial Information Agency", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Indonesia", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Iraq", 
+            "source_link": "", 
+            "source_name": "ESOC", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Iraq", 
+            "source_link": "", 
+            "source_name": "World Food Program", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Iraq", 
+            "source_link": "", 
+            "source_name": "Relief Web Humanitarian Information Center", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Israel", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Israel", 
+            "source_link": "", 
+            "source_name": "Israel Central Bureau of Statistics (ICBS)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Jamaica", 
+            "source_link": "", 
+            "source_name": "Statistical Institute of Jamaica", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Japan", 
+            "source_link": "", 
+            "source_name": "Geospatial Information Authority of Japan (GSI)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Kyrgyzstan", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Kyrgyzstan", 
+            "source_link": "", 
+            "source_name": "Ministry of Emergency Situations of the Kyrgyz Republic", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Liberia", 
+            "source_link": "", 
+            "source_name": "GIST", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Liberia", 
+            "source_link": "", 
+            "source_name": "USAID", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Liberia", 
+            "source_link": "", 
+            "source_name": "OFDA Economic and Humanitarian Assistance", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Libya", 
+            "source_link": "", 
+            "source_name": "OCHA HDX", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Libya", 
+            "source_link": "", 
+            "source_name": "Libya Bureau of Statistics and Census (BSC)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Libya", 
+            "source_link": "", 
+            "source_name": "IOM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Macedonia", 
+            "source_link": "", 
+            "source_name": "EuroGlobalMap", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mali", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mauritania", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mauritius", 
+            "source_link": "", 
+            "source_name": "Ministry of Housing and Lands", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mauritius", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mozambique", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Mozambique", 
+            "source_link": "", 
+            "source_name": "CENACARTA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "New Zealand", 
+            "source_link": "", 
+            "source_name": "Statistics New Zealand (SNZ)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Nicaragua", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Nicaragua", 
+            "source_link": "", 
+            "source_name": "INETER", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Niger", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Nigeria", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Palestine", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Palestine", 
+            "source_link": "", 
+            "source_name": "Ministry of planning (Palestinian Authority)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Papua", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Papua", 
+            "source_link": "", 
+            "source_name": "National Mapping Bureau", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Paraguay", 
+            "source_link": "", 
+            "source_name": "DGEEC", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Paraguay", 
+            "source_link": "", 
+            "source_name": "Republica de Paraguay Direcci\u00f3n General de Estad\u00edstica, Encuestas y Censos (DGEEC)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Peru", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Peru", 
+            "source_link": "", 
+            "source_name": "Instituto Geogr\u00e1fico Nacional", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Rwanda", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Rwanda", 
+            "source_link": "", 
+            "source_name": "National Institute of Statistics of Rwanda (NISR)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Senegal", 
+            "source_link": "", 
+            "source_name": "OCHA", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Serbia", 
+            "source_link": "", 
+            "source_name": "EuroGlobalMap", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Serbia", 
+            "source_link": "", 
+            "source_name": "EuroGeoGraphics", 
+            "source_note": ""
+        }, 
+        {
+            "context": "South Africa", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "South Africa", 
+            "source_link": "", 
+            "source_name": "South Africa Municipal Demarcation Board (SAMDB)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Taiwan", 
+            "source_link": "", 
+            "source_name": "National Land Surveying and Mapping Center", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Tanzania", 
+            "source_link": "", 
+            "source_name": "Tanzania National Bureau of Statistics (TNBS)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Togo", 
+            "source_link": "", 
+            "source_name": "ISCGM", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Togo", 
+            "source_link": "", 
+            "source_name": "Direction General of Cartography - DGC Togo", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Ukraine", 
+            "source_link": "", 
+            "source_name": "Revolutionary GIS", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Ukraine", 
+            "source_link": "", 
+            "source_name": "OCHA Ukraine \u0414\u041d\u0412\u041f \u041a\u0430\u0440\u0442\u043e\u0433\u0440\u0430\u0444\u0456\u044f", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Zimbabwe", 
+            "source_link": "", 
+            "source_name": "Zimbabwe Central Statistics Office (ZimStat)", 
+            "source_note": ""
+        }, 
+        {
+            "context": "Zimbabwe", 
+            "source_link": "", 
+            "source_name": "OCHA HDX", 
+            "source_note": ""
+        }
+    ], 
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
 }

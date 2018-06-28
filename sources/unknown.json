@@ -1,5 +1,6 @@
 {
     "description": "Used when a property value is not known. A placeholder for 'we do not know'.", 
+    "edtf:inception": "2017-02-28", 
     "fullname": "unknown", 
     "id": 1108830757, 
     "key": "id", 

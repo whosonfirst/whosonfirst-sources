@@ -1,15 +1,16 @@
 {
     "description": "Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/lbl) for more information.", 
+    "edtf:deprecated": "2018-05-18", 
+    "edtf:inception": "2017-06-16", 
     "fullname": "label", 
     "id": 1108955855, 
     "key": "id", 
     "license": "CC0", 
+    "mz:is_current": 0, 
     "name": "lbl", 
     "prefix": "lbl", 
     "url": "", 
     "usage_concordance": 0, 
     "usage_geometry": 0, 
-    "usage_property": 0,
-    "edtf:deprecated": "2018-05-18",
-    "mz:is_current": 0
+    "usage_property": 0
 }

@@ -1,5 +1,6 @@
 {
     "description": "A gazetteer of non-overlapping, authoritative polygons around a curated list of places. Quattroshapes includes open data from government and other sources, many of which require attribution. See [remarks](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/quattroshapes_remarks.md) for detail.", 
+    "edtf:inception": "2015-08-20", 
     "fullname": "Quattroshapes", 
     "id": 404734183, 
     "key": "id", 
