@@ -1,25 +1,28 @@
 {
-	"id": -1,
+	"description": "",
+	"edtf:deprecated": "YYY-MM-DD",
+	"edtf:inception": "YYY-MM-DD",
 	"fullname": "",
+	"id": -1,
+	"key": "",
+	"license": "",
+	"license_text": "",
+	"license_type": "",
+	"mz:associated": -1,
+	"mz:is_current": -1,
 	"name": "",
 	"prefix": "",
-	"key": "",
-	"url": "",
-	"license": "",
-	"license_type": "",
-	"license_text": "",
 	"src:via": [{
 		"context": "Canada",
 		"source_link": "http://statcan.gc.ca/",
 		"source_name": "Statistics Canada",
 		"source_note": "Canadian open data portal."
 	}],
-	"mz:associated":-1,
-	"mz:is_current": -1,
-	"edtf:deprecated": "YYY-MM-DD",
-	"edtf:inception": "YYY-MM-DD",
+	"url": "",
 	"usage_concordance": -1,
-	"usage_property": -1,
 	"usage_geometry": -1,
-	"description": ""
+	"usage_property": -1
 }
+
+
+
