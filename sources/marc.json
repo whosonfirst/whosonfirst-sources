@@ -1,5 +1,6 @@
 {
     "description": "MARC is a standard for encoding bibliographic materials in electronic form. The Library of Congress maintains the MARC code list for countries.", 
+    "edtf:inception": "2017-10-09", 
     "fullname": "Machine-Readable Cataloging - Library of Congress", 
     "id": 1158832837, 
     "key": "id", 

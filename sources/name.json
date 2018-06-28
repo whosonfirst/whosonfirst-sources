@@ -1,17 +1,18 @@
 {
     "description": "Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/name) for more information.", 
+    "edtf:deprecated": "2018-05-18", 
+    "edtf:inception": "2017-02-27", 
     "fullname": "name", 
     "id": 1108828507, 
     "key": "id", 
     "license": "N/A", 
     "license_text": "", 
     "license_type": "CC0", 
+    "mz:is_current": 0, 
     "name": "name", 
     "prefix": "name", 
     "url": "", 
     "usage_concordance": 0, 
     "usage_geometry": 0, 
-    "usage_property": 1,
-    "edtf:deprecated": "2018-05-18",
-    "mz:is_current": 0
+    "usage_property": 1
 }

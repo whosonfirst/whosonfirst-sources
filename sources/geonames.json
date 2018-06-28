@@ -1,5 +1,6 @@
 {
     "description": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.", 
+    "edtf:inception": "2015-08-20", 
     "fullname": "GeoNames", 
     "id": 404734175, 
     "key": "id", 

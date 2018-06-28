@@ -1,5 +1,6 @@
 {
     "description": "Country abbreviations used in weather reports from the World Meteorological Organization. Data for concordance values is sourced from Statoids.", 
+    "edtf:inception": "2017-10-09", 
     "fullname": "World Meteorological Organization", 
     "id": 1158832833, 
     "key": "id", 

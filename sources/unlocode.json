@@ -1,5 +1,6 @@
 {
     "description": "UN/LOCODE is based on a code structure set up by ECLAC and a list of locations originating in ESCAP, developed in UNCTAD in co-operation with transport organisations like IATA and the ICS and with active contributions from national governments and commercial bodies. Note: Who's On First concatenates the UN/LOCODE two-character country code and three-character feature code with a deliminator and names the result the 'id'.", 
+    "edtf:inception": "2016-03-03", 
     "fullname": "UN/LOCODE (United Nations Code for Trade and Transport Locations)", 
     "id": 420573473, 
     "key": "id", 

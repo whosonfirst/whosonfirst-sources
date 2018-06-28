@@ -1,5 +1,6 @@
 {
     "description": "Neighborhood boundaries are created based on zip code, zoning district boundaries and census tract boundaries. This GIS data layer was produced by the BRA Office of Digital Cartography and GIS.", 
+    "edtf:inception": "2016-09-21", 
     "fullname": "Boston Redevelopment Authority", 
     "id": 1108694665, 
     "key": "", 

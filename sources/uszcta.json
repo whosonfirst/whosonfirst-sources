@@ -1,5 +1,6 @@
 {
     "description": "ZIP Code Tabulation Areas (ZCTAs) are generalized areal representations of United States Postal Service (USPS) ZIP Code service areas.", 
+    "edtf:inception": "2016-04-08", 
     "fullname": "US ZIP Code Tabulation Area", 
     "id": 554867137, 
     "key": "id", 

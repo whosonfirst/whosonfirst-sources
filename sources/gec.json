@@ -1,5 +1,6 @@
 {
     "description": "Formerly FIPS PUB 10-4, these country codes were used by the National Geospatial-Intelligence Agency (NGA) to define 'Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions'. GEC maintenance was discontinued on 31 December 2014.", 
+    "edtf:inception": "2017-10-09", 
     "fullname": "Geopolitical Entities and Codes", 
     "id": 1158832823, 
     "key": "", 

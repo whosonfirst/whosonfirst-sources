@@ -15,6 +15,7 @@
         }
     ], 
     "description": "The leading source of quality data about the nation's people and economy from the United States Census Bureau.", 
+    "edtf:inception": "2016-11-14", 
     "fullname": "United States Census Bureau", 
     "id": 1108739789, 
     "key": "", 
@@ -25,6 +26,6 @@
     "prefix": "uscensus", 
     "url": "https://www.census.gov/", 
     "usage_concordance": 0, 
-    "usage_geometry": 1,
+    "usage_geometry": 1, 
     "usage_property": 0
 }

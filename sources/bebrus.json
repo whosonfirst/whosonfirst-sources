@@ -1,10 +1,11 @@
 {
     "description": "The UrbIS-Adm product is a digital map of an administrative and thematic nature. This source excludes data from UrbIS-P&B, which is governed by a different license. UrbIS-Adm contains geographical data and attribute data.", 
+    "edtf:inception": "2018-02-21", 
     "fullname": "UrbIS-Adm", 
     "id": 1159046813, 
     "key": "", 
     "license": "http://bric.brussels/en/our-solutions/urbis-solutions/documents/user-guide-urbis", 
-    "license_text": "Realized by means of Brussels UrbIS®© - Distribution & Copyright CIRB", 
+    "license_text": "Realized by means of Brussels UrbIS\u00ae\u00a9 - Distribution & Copyright CIRB", 
     "license_type": "CC-BY", 
     "name": "bebrus", 
     "prefix": "bebrus", 

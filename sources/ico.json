@@ -1,5 +1,6 @@
 {
     "description": "These codes identify the nationality of athletes and teams during Olympic events. Data for concordance values is sourced from Statoids.", 
+    "edtf:inception": "2017-10-09", 
     "fullname": "International Olympics Committee", 
     "id": 1158832825, 
     "key": "id", 
