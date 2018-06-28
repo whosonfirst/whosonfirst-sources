@@ -63,14 +63,14 @@ if __name__ == '__main__':
         if details.get('mz_associated'):
             docs.write("_This is a Mapzen associated source._ \n\n")
 
+        #call out add date
+        if details.get('edtf:inception'):
+            docs.write("* %s: `%s`\n" % ('added', details['edtf:inception']))
+
         #call out deprecated sources and their deprecated date
         if details.get('edtf:deprecated'):
             if not details['edtf:deprecated'] == 'uuuu':
-                docs.write("* %s %s.\n" % ('This source was deprecated on', details['edtf:deprecated']))
-
-        #call out add date
-        if details.get('edtf:inception'):
-            docs.write("* %s %s.\n" % ('This source was added on', details['edtf:inception']))
+                docs.write("* %s: `%s`\n" % ('deprecated', details['edtf:deprecated']))
 
         for k in ('id', 'name', 'prefix'):
 
@@ -101,7 +101,7 @@ if __name__ == '__main__':
         #list out all "via" sources with links to each source's source...
         if details.get('src:via'):
 
-            docs.write("\n  This source includes `CC-BY compatible` data from the following organizations:\n")
+            docs.write("\n This source includes `CC-BY compatible` data from the following organizations:\n")
 
             for via in details['src:via']:
 
