@@ -48,6 +48,8 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 * `"edtf:deprecated":` Indicates the date when a source was determined to be invalid, was never a "going concern" (_string, optional property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
 
+* `"edtf:inception":` Indicates the date when a source was added to Who's On First. (_string, required property_). _Format: YYYY-MM-DD (though these dates can be encoded with any valid EDTF syntax)_.
+
 ## See also
 
 * https://github.com/whosonfirst
