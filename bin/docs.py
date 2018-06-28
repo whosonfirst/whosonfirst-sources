@@ -68,6 +68,10 @@ if __name__ == '__main__':
             if not details['edtf:deprecated'] == 'uuuu':
                 docs.write("* %s %s.\n" % ('This source was deprecated on', details['edtf:deprecated']))
 
+        #call out add date
+        if details.get('edtf:inception'):
+            docs.write("* %s %s.\n" % ('This source was added on', details['edtf:inception']))
+
         for k in ('id', 'name', 'prefix'):
 
             if details[k] == '':
