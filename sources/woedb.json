@@ -9,6 +9,26 @@
     "license_type": "CC0", 
     "name": "woedb", 
     "prefix": "woedb", 
+    "src:via":[
+        {
+            "context": "Global", 
+            "source_link": "https://archive.org/details/FlickrShapesPublicDataset2.0.1.tar", 
+            "source_name": "Alphashapes", 
+            "source_note": "Used for airport campus records."
+        },
+        {
+            "context": "Global", 
+            "source_link": "https://github.com/straup/whereonearth-timezone", 
+            "source_name": "Where On Earth - Timezones", 
+            "source_note": "Used for timezone records."
+        },
+        {
+            "context": "Global", 
+            "source_link": "http://efele.net/maps/tz/world/", 
+            "source_name": "tz_world", 
+            "source_note": "Used for timezone records."
+        }
+    ],
     "url": "http://woe.spum.org/", 
     "usage_concordance": 0, 
     "usage_geometry": 1, 
