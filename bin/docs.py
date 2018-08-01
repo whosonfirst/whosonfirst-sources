@@ -143,6 +143,5 @@ if __name__ == '__main__':
 
         docs.write("\n")
 
-    docs.write("_All %s sources (and %s source via) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (source_count, source_via_count))
-
+    docs.write("_All %s sources (%s primary sources, %s additional 'via' sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (source_count + source_via_count, source_count, source_via_count))
     docs.close()
