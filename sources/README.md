@@ -1133,22 +1133,6 @@ _Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON and several othe
 * license: _http://mozilla.org/MPL/2.0/_
 * usage: `property`, `geometry`
 
-## Mapzen
-
-_Mapzen is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world._ 
-
-_This is a Mapzen associated source._ 
-
-* added: `2015-11-09`
-* id: `404734197`
-* name: `mapzen`
-* prefix: `mz`
-* license_type: _CC0_
-* license_text: _Remember, some sources require attribution, some do not. Mapzen's original work, including the format and structure that allows Who's On First to operate, is made available under the Creative Commons Zero designation, and a shout out would be lovely._
-* url: _https://www.mapzen.com/_
-* license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md#license_
-* usage: `property`, `geometry`
-
 ## Mapzen Borders
 
 _Country, region and city boundary data from OpenStreetMap, served monthly until October 2016._ 
@@ -1300,6 +1284,22 @@ _This is a Mapzen associated source._
   	* **Ukraine**: OCHA Ukraine ДНВП Картографія
   	* **Zimbabwe**: Zimbabwe Central Statistics Office (ZimStat)
   	* **Zimbabwe**: OCHA HDX
+* usage: `property`, `geometry`
+
+## Metazen
+
+_Metazen is the generic WOFism for property prefixes related to the Mapzen umbrella of opinions that interoperate with Tilezen and Pelias, and original data sourced via Mapzen. The mz properties continue as Metazen opinions, while mz sources are Mapzen (RIP) with future updates being sourced to wof. Mapzen was an open, sustainable, and accessible mapping platform._ 
+
+_This is a Mapzen associated source._ 
+
+* added: `2015-11-09`
+* id: `404734197`
+* name: `metazen`
+* prefix: `mz`
+* license_type: _CC0_
+* license_text: _Remember, some sources require attribution, some do not. Mapzen's original work, including the format and structure that allows Who's On First to operate, is made available under the Creative Commons Zero designation, and a shout out would be lovely._
+* url: _https://www.mapzen.com/_
+* license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md#license_
 * usage: `property`, `geometry`
 
 ## Mini Tenders
