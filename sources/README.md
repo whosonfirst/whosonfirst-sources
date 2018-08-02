@@ -1288,7 +1288,7 @@ _This is a Mapzen associated source._
 
 ## Metazen
 
-_Metazen is the generic WOFism for property prefixes related to Mapzen and original data sourced via Mapzen. Mapzen was an open, sustainable, and accessible mapping platform._ 
+_Metazen is the generic WOFism for property prefixes related to the Mapzen umbrella of opinions that interoperate with Tilezen and Pelias, and original data sourced via Mapzen. The mz properties continue as Metazen opinions, while mz sources are Mapzen (RIP) with future updates being sourced to wof. Mapzen was an open, sustainable, and accessible mapping platform._ 
 
 _This is a Mapzen associated source._ 
 
