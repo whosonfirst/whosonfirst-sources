@@ -1,0 +1,15 @@
+{
+    "description": "Open Data Portal of the Government of the Hong Kong Special Administrative Region's Office of the Government Chief Information Officer", 
+    "fullname": "Hong Kong Open Data Portal", 
+    "id": 1159339397, 
+    "key": "", 
+    "license": "https://data.gov.hk/en/terms-and-conditions", 
+    "license_text": "You are allowed to browse, download, distribute, reproduce, hyperlink to, and print in their original format the Data for both commercial and non-commercial purposes on a free-of-charge basis...", 
+    "license_type": "CC-BY (equivalent)", 
+    "name": "hk-gov", 
+    "prefix": "hk-gov", 
+    "url": "https://data.gov.hk/en/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
+}
