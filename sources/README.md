@@ -2125,7 +2125,7 @@ _This is a Mapzen associated source._
 * prefix: `wof`
 * license_type: _CC0_
 * license_text: _The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. Note that some included work is available under CC BY._
-* url: _http://whosonfirst.mapzen.com/_
+* url: _https://whosonfirst.org/_
 * license: _https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md_
 * usage: `property`, `geometry`
 
