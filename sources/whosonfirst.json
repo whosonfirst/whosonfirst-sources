@@ -10,7 +10,7 @@
     "mz_associated": 1, 
     "name": "whosonfirst", 
     "prefix": "wof", 
-    "url": "http://whosonfirst.mapzen.com/", 
+    "url": "https://whosonfirst.org/", 
     "usage_concordance": 0, 
     "usage_geometry": 1, 
     "usage_property": 1
