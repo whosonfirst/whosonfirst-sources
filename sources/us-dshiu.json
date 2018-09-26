@@ -1,0 +1,16 @@
+{
+    "description": "Large Scale International Boundary (LSIB) detailed polygons provided by the U.S. Department of State Humanitarian Information Unit (HIU).", 
+    "edtf:inception": "2018-09-26", 
+    "fullname": "U.S. Department of State - Humanitarian Information Unit", 
+    "id": 1360665013, 
+    "key": "", 
+    "license": "https://data.humdata.org/about/license", 
+    "license_text": "Under the terms of this license you are free to use the material for any purpose without any restrictions.", 
+    "license_type": "Public Domain", 
+    "name": "us-dshiu", 
+    "prefix": "us-dshiu", 
+    "url": "https://data.humdata.org/dataset/global-lsib-polygons-detailed", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1,
+    "usage_property": 0
+}
