@@ -1,16 +1,18 @@
 {
-    "description": "Neighbourhood data provided by Open Data Paris.", 
+    "description": "Neighbourhood data provided by Open Data Paris. This source was deprecated and removed from Who's On First due to license concerns that arose after the import.", 
     "edtf:inception": "2017-12-29", 
+    "edtf:deprecated": "2018-10-09",
     "fullname": "Open Data Paris", 
     "id": 1158894143, 
     "key": "", 
     "license": "http://opendata2.paris.fr/opendata/document?id=78&id_attribute=48", 
     "license_text": "Ces droits incluent express\u00e9ment les utilisations commerciales et non commerciales...La distribution, la communication, l\u2019affichage, la location, la mise \u00e0 disposition ou la diffusion au public, par tous moyens et sous quelque forme que ce soit, en tout ou en partie, y compris de toute Base de donn\u00e9es d\u00e9riv\u00e9e ou en tant que partie d\u2019une Base de donn\u00e9es collaborative.", 
-    "license_type": "CC0 (equivalent)", 
+    "license_type": "ODbL",
+    "mz:is_current": 0,  
     "name": "fra-odp", 
     "prefix": "fra-odp", 
     "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/export/?location=12,48.85889,2.34692", 
     "usage_concordance": 0, 
-    "usage_geometry": 1, 
-    "usage_property": 1
+    "usage_geometry": 0, 
+    "usage_property": 0
 }
