@@ -1,5 +1,5 @@
 {
-    "description": "Neighbourhood data provided by Open Data Paris.", 
+    "description": "Neighbourhood data provided by Open Data Paris. This source was deprecated and removed from Who's On First due to license concerns that arose after the import.", 
     "edtf:inception": "2017-12-29", 
     "edtf:deprecated": "2018-10-09",
     "fullname": "Open Data Paris", 
