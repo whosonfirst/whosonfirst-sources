@@ -752,7 +752,7 @@ _A search-and-discovery service that compiles a database of locations and places
 
 ## Open Data Paris
 
-_Neighbourhood data provided by Open Data Paris._ 
+_Neighbourhood data provided by Open Data Paris. This source was deprecated and removed from Who's On First due to license concerns that arose after the import._ 
 
 * added: `2017-12-29`
 * deprecated: `2018-10-09`
