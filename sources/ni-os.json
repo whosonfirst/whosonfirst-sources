@@ -1,0 +1,17 @@
+{
+    "description": "The Open Data Portal for Northern Ireland", 
+    "edtf:inception": "2018-11-02", 
+    "fullname": "Ordnance Survey of Northern Ireland", 
+    "id": 1360699249, 
+    "key": "", 
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/", 
+    "license_text": "You are free to copy, publish, distribute and transmit the Information, adapt the Information, exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.", 
+    "license_type": "OGL, v3.0", 
+    "name": "Open Data Portal for Northern Ireland", 
+    "prefix": "ni-os", 
+    "remarks": "",
+    "url": "https://www.opendatani.gov.uk/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
