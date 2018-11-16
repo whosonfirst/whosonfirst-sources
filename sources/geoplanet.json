@@ -6,11 +6,11 @@
     "key": "id", 
     "license": "http://developer.yahoo.com/geo/geoplanet/data/", 
     "license_text": "This page provides open access to the underlying data under a Creative Commons Attribution license so that you can incorporate WOEIDs and the GeoPlanet hierarchy into your own applications.", 
-    "license_type": "CC BY", 
+    "license_type": "CC BY",
     "name": "geoplanet", 
     "prefix": "gp", 
     "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/geoplanet_remarks.md", 
-    "url": "http://developer.yahoo.com/geo/geoplanet/", 
+    "url": "https://en.wikipedia.org/wiki/GeoPlanet", 
     "usage_concordance": 1, 
     "usage_geometry": 0, 
     "usage_property": 1
