@@ -25,5 +25,5 @@ internetarchive:
 	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 spec:
-	python ./bin/compile.py > data/sources-spec-`date "+%Y%m%d"`.json
+	python2 ./bin/compile.py > data/sources-spec-`date "+%Y%m%d"`.json
 	cp data/sources-spec-`date "+%Y%m%d"`.json data/sources-spec-latest.json
