@@ -148,7 +148,7 @@ _Data.gov.au is the central source of Australian open government data. _
 * license_text: _Administrative Boundaries ©PSMA Australia Limited licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International licence (CC BY 4.0)._
 * url: _https://data.gov.au/dataset/ds-dga-bdcf5b09-89bc-47ec-9281-6b8e9ee147aa_
 * license: _https://creativecommons.org/licenses/by/4.0/_
-* usage: `property`, `geometry`
+* usage: `concordance`, `property`, `geometry`
 
 ## Australian Bureau of Statistics
 
