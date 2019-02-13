@@ -10,7 +10,7 @@
     "name": "aus-psma", 
     "prefix": "aus-psma", 
     "url": "https://data.gov.au/dataset/ds-dga-bdcf5b09-89bc-47ec-9281-6b8e9ee147aa", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 1, 
     "usage_property": 1
 }
