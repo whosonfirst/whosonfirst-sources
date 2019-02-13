@@ -1,0 +1,16 @@
+{
+    "description": "Data.gov.au is the central source of Australian open government data. ", 
+    "edtf:inception": "2019-02-13",
+    "fullname": "Australian Government Open Data Portal", 
+    "id": 1376953483, 
+    "key": "", 
+    "license": "https://creativecommons.org/licenses/by/4.0/", 
+    "license_text": "Administrative Boundaries ©PSMA Australia Limited licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International licence (CC BY 4.0).", 
+    "license_type": "CC BY 4.0", 
+    "name": "aus-psma", 
+    "prefix": "aus-psma", 
+    "url": "https://data.gov.au/dataset/ds-dga-bdcf5b09-89bc-47ec-9281-6b8e9ee147aa", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
