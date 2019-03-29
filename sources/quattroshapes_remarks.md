@@ -34,7 +34,7 @@ EuroGeoGraphics data copyright is held by European National Mapping Agencies.
 * Bulgaria © Cadastre Agency, MRDPW
 * Croatia © Drzavna Geodetska Uprava
 * Cyprus © Lands and Surveys, Survey and Cartogr. Br.
-* Czech Republic © Ceskúrad zememerick a katastrální
+* Czech Republic © Český úřad zeměměřický a katastrální
 * Denmark © Kort og Matrikelstyrelsen
 * Estonia © Maaamet
 * Faroe Islands © Kort og Matrikelstyrelsen
