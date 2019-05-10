@@ -192,20 +192,6 @@ _City of Baltimore Open Data Portal. This website is operated by the Mayor and C
 * license: _https://data.baltimorecity.gov/Geographic/Baltimore-Study-Area/cdrh-gpzc/about_
 * usage: `property`, `geometry`
 
-## The Service Centre of the Federal Government for Geo-Information and Geodesy (DLZ) and the Central Office for Geo-Topography (Zentrale Stelle Geotopographie, ZSGT) of the Laender
-
-_Service Centre of the Federal Government for Geo-Information and Geodesy_ 
-
-* added: `2019-05-10`
-* id: `1377649075`
-* name: `be-bkg`
-* prefix: `be-bkg`
-* license_type: _Data licence Germany – attribution – Version 2.0_
-* license_text: _The data and meta-data provided may, for commercial and non-commercial use, in particular be copied, printed, presented, altered, processed and transmitted to third parties; be merged with own data and with the data of others and be combined to form new and independent datasets; be integrated in internal and external business processes, products and applications in public and non-public electronic networks._
-* url: _http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=13&gdz_user_id=0_
-* license: _https://www.govdata.de/dl-de/by-2-0_
-* usage: `concordance`, `property`, `geometry`
-
 ## UrbIS-Adm
 
 _The UrbIS-Adm product is a digital map of an administrative and thematic nature. This source excludes data from UrbIS-P&B, which is governed by a different license. UrbIS-Adm contains geographical data and attribute data._ 
@@ -607,6 +593,20 @@ _Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowle
 * url: _http://dbpedia.org/_
 * license: _http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_
 * usage: `concordance`
+
+## The Service Centre of the Federal Government for Geo-Information and Geodesy (DLZ) and the Central Office for Geo-Topography (Zentrale Stelle Geotopographie, ZSGT) of the Laender
+
+_Service Centre of the Federal Government for Geo-Information and Geodesy_ 
+
+* added: `2019-05-10`
+* id: `1377649075`
+* name: `de-bkg`
+* prefix: `de-bkg`
+* license_type: _Data licence Germany – attribution – Version 2.0_
+* license_text: _The data and meta-data provided may, for commercial and non-commercial use, in particular be copied, printed, presented, altered, processed and transmitted to third parties; be merged with own data and with the data of others and be combined to form new and independent datasets; be integrated in internal and external business processes, products and applications in public and non-public electronic networks._
+* url: _http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=13&gdz_user_id=0_
+* license: _https://www.govdata.de/dl-de/by-2-0_
+* usage: `concordance`, `property`, `geometry`
 
 ## Denver Department of Community Planning and Development
 
