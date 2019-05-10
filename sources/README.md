@@ -594,7 +594,7 @@ _Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowle
 * license: _http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_
 * usage: `concordance`
 
-## The Service Centre of the Federal Government for Geo-Information and Geodesy (DLZ) and the Central Office for Geo-Topography (Zentrale Stelle Geotopographie, ZSGT) of the Laender
+## Bundesamt für Kartographie und Geodäsie
 
 _Service Centre of the Federal Government for Geo-Information and Geodesy_ 
 
