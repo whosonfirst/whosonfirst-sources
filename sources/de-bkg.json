@@ -1,0 +1,16 @@
+{
+    "description": "Service Centre of the Federal Government for Geo-Information and Geodesy",
+    "edtf:inception": "2019-05-10",
+    "fullname": "Bundesamt für Kartographie und Geodäsie",
+    "id": 1377649075,
+    "key": "",
+    "license": "https://www.govdata.de/dl-de/by-2-0",
+    "license_text": "The data and meta-data provided may, for commercial and non-commercial use, in particular be copied, printed, presented, altered, processed and transmitted to third parties; be merged with own data and with the data of others and be combined to form new and independent datasets; be integrated in internal and external business processes, products and applications in public and non-public electronic networks.",
+    "license_type": "Data licence Germany – attribution – Version 2.0",
+    "name": "de-bkg",
+    "prefix": "de-bkg",
+    "url": "http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=13&gdz_user_id=0",
+    "usage_concordance": 1,
+    "usage_geometry": 1,
+    "usage_property": 1
+}
