@@ -722,17 +722,17 @@ _Neighbourhood (district) data as provided by the Barcelona City Council (CartoB
 
 ## Institut Cartogràfic i Geològic de Catalunya
 
-_Official Site of the Institut Cartogràfic i Geològic de Catalunya (ICGC)_ 
+_Institut Cartogràfic i Geològic de Catalunya (ICGC)_ 
 
 * added: `2019-05-21`
 * id: `1393679059`
-* name: `esp-cicgc`
-* prefix: `esp-cicgc`
+* name: `esp-icgc`
+* prefix: `esp-icgc`
 * license_type: _CC BY 4.0_
 * license_text: _You are free to: Share — copy and redistribute the material in any medium or format [...] Adapt — remix, transform, and build upon the material for any purpose, even commercially._
 * url: _https://github.com/OpenICGC/limits_administratius/tree/master/data_
 * license: _http://www.icgc.cat/en/The-ICGC/Public-Information/Transparency/Re-use-of-the-information_
-* usage: `property`, `geometry`
+* usage: `concordance`, `property`, `geometry`
 
 ## Federal Aviation Administration
 
