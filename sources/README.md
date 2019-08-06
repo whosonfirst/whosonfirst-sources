@@ -549,7 +549,7 @@ _The Geoportal of the Swiss Federation._
 * id: `772975927`
 * name: `chgov`
 * prefix: `chgov`
-* license_type: _CC-By (equivalent)_
+* license_type: _CC-BY (equivalent)_
 * license_text: _You may use this dataset for non-commercial purposes. You may use this dataset for commercial purposes. You must provide the source (author, title and link to the dataset)._
 * url: _http://data.geo.admin.ch_
 * license: _https://www.geo.admin.ch/fr/geo-admin-ch/impressum.html_
