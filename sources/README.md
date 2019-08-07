@@ -541,7 +541,21 @@ _This data portal consists of a register containing information about and refere
 * license: _https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1_
 * usage: `property`, `geometry`
 
-## Swiss Confederation
+## The Swiss Cadastral System
+
+_The Swiss Cadastral System's dataset of towns and cities_ 
+
+* added: `2019-08-06`
+* id: `1394463629`
+* name: `ch-cadastre`
+* prefix: `ch-cadastre`
+* license_type: _CC-BY (equivalent)_
+* license_text: _You may use this dataset for non-commercial purposes. You may use this dataset for commercial purposes. You must provide the source (author, title and link to the dataset)._
+* url: _https://www.cadastre.ch/content/cadastre-internet/en/services/service/plz.html_
+* license: _https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/free-geodata.html_
+* usage: `geometry`
+
+## SwissTopo
 
 _The Geoportal of the Swiss Federation._ 
 
@@ -2338,5 +2352,5 @@ _An overlay of boundaries for Chicago's 228 neighborhoods._
 * license: _http://chicagomap.zolk.com/about.html_
 * usage: `property`, `geometry`
 
-_All 339 sources (154 primary sources, 185 additional 'via' sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
+_All 340 sources (155 primary sources, 185 additional 'via' sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
 

@@ -1,16 +1,16 @@
 {
-    "description": "The Geoportal of the Swiss Federation.", 
-    "edtf:inception": "2016-05-04", 
-    "fullname": "SwissTopo", 
-    "id": 772975927, 
+    "description": "The Swiss Cadastral System's dataset of towns and cities", 
+    "edtf:inception": "2019-08-06", 
+    "fullname": "The Swiss Cadastral System", 
+    "id": 1394463629, 
     "key": "", 
     "license": "https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/free-geodata.html", 
     "license_text": "You may use this dataset for non-commercial purposes. You may use this dataset for commercial purposes. You must provide the source (author, title and link to the dataset).", 
     "license_type": "CC-BY (equivalent)", 
-    "name": "chgov", 
-    "prefix": "chgov", 
-    "url": "http://data.geo.admin.ch", 
+    "name": "ch-cadastre", 
+    "prefix": "ch-cadastre", 
+    "url": "https://www.cadastre.ch/content/cadastre-internet/en/services/service/plz.html", 
     "usage_concordance": 0, 
     "usage_geometry": 1, 
-    "usage_property": 1
+    "usage_property": 0
 }
