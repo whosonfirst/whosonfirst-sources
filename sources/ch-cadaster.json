@@ -12,5 +12,6 @@
     "url": "https://www.cadastre.ch/content/cadastre-internet/en/services/service/plz.html", 
     "usage_concordance": 0, 
     "usage_geometry": 1, 
-    "usage_property": 0
+    "usage_property": 0,
+    "source_note": "This source shares the same license and data portal as the chgov source."
 }
