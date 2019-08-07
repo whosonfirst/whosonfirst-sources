@@ -1,7 +1,7 @@
 {
     "description": "The Swiss Cadastral System's dataset of towns and cities", 
     "edtf:inception": "2019-08-06", 
-    "fullname": "The Swiss Cadastral System", 
+    "fullname": "Swiss Cadastral System", 
     "id": 1394463629, 
     "key": "", 
     "license": "https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/free-geodata.html", 
@@ -13,5 +13,5 @@
     "usage_concordance": 0, 
     "usage_geometry": 1, 
     "usage_property": 0,
-    "source_note": "This source shares the same license and data portal as the chgov source."
+    "source_note": "This source shares the same license and data portal as the chgov (SwissTopo) source."
 }

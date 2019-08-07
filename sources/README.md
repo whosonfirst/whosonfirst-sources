@@ -541,7 +541,7 @@ _This data portal consists of a register containing information about and refere
 * license: _https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1_
 * usage: `property`, `geometry`
 
-## The Swiss Cadastral System
+## Swiss Cadastral System
 
 _The Swiss Cadastral System's dataset of towns and cities_ 
 
