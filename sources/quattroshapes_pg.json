@@ -9,6 +9,20 @@
     "license_type": "CC BY 2.0", 
     "name": "quattroshapes_pg", 
     "prefix": "qs_pg", 
+    "src:via": [
+        {
+            "context": "Global", 
+            "source_link": "https://web.archive.org/web/20111028163611/http://developer.yahoo.com/geo/geoplanet/data/", 
+            "source_name": "GeoPlanet", 
+            "source_note": "GeoPlanet provides an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet."
+        }, 
+        {
+            "context": "Global", 
+            "source_link": "http://www.geonames.org/", 
+            "source_name": "GeoNames", 
+            "source_note": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge."
+        }
+    ],
     "url": "http://www.quattroshapes.com/", 
     "usage_concordance": 1, 
     "usage_geometry": 1, 
