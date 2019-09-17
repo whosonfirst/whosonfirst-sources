@@ -1,0 +1,16 @@
+{
+    "description": "The Poland Head Office of Geodesy and Cartography's border and territorial division data sets.", 
+    "edtf:inception": "2017-09-17", 
+    "fullname": "Office of Geodesy and Cartography, Poland", 
+    "id": 1477855963, 
+    "key": "id", 
+    "license": "http://www.gugik.gov.pl/prawa-autorskie", 
+    "license_text": "You are free to: share — copy and redistribute the material in any medium or format [and] adapt — remix, transform, and build upon the material for any purpose, even commercially.", 
+    "license_type": "CC BY 3.0 PL", 
+    "name": "pl-gugik", 
+    "prefix": "pl-gugik", 
+    "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
