@@ -10,7 +10,7 @@
     "name": "pl-gugik", 
     "prefix": "pl-gugik", 
     "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 1, 
     "usage_property": 1
 }
