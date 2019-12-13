@@ -1,0 +1,16 @@
+{
+    "description": "Official Administrative Letter of Portugal's (CAOP) demarcation records for the country's administrative districts.", 
+    "edtf:inception": "2019-12-11", 
+    "fullname": "Directorate-General for the Territorial Development of Portugal", 
+    "id": 1511614895, 
+    "key": "id", 
+    "license": " https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/78860e37-8b72-4df9-9fbc-7fbd130243a2", 
+    "license_text": "Whenever the user publishes and / or discloses, by analog or digital means, geographic information owned by the Directorate-General of the Territory, even if partially adapted, he / she shall be credited with the inclusion of the text 'Geographic information provided by the Directorate-General of the Territory'. No restrictions.", 
+    "license_type": "CC BY 3.0 (equivalent)", 
+    "name": "pt-dgt", 
+    "prefix": "pt-dgt", 
+    "url": "http://www.dgterritorio.pt/dados_abertos/caop/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
