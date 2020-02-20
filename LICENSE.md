@@ -1,1 +1,287 @@
-For licensing details please consult https://github.com/whosonfirst/whosonfirst-data/blob/master/LICENSE.md
+# License
+
+- **Austria Open Data**: [source data](https://www.data.gv.at/katalog/dataset/c33d36b0-f184-4f2a-89cc-839ca7fcf88a), [source license](http://creativecommons.org/licenses/by/3.0/at/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Ordnance Survey of Northern Ireland**: [source data](https://www.opendatani.gov.uk/), [source license](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Alameda County Data Sharing Initiative**: [source data](https://data.acgov.org/), [source license](https://data.acgov.org/terms-of-use), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Acme Laboratories**: [source data](https://acme.com/), [source license](https://acme.com/license.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Amsterdam Open Datakaart**: [source data](https://kaart.amsterdam.nl), [source license](https://kaart.amsterdam.nl/datasets), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Ciudad Autónoma de Buenos Aires, Iniciativa de Datos Públicos y Transparencia**: [source data](https://data.buenosaires.gob.ar/dataset/barrios), [source license](https://data.buenosaires.gob.ar/tyc), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **data.gv.at**: [source data](https://www.data.gv.at), [source license](http://creativecommons.org/licenses/by/3.0/at/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Atlanta Department of Planning and Community Development**: [source data](http://dpcd.coaplangis.opendata.arcgis.com/datasets/neighborhoods), [source license](https://www.arcgis.com/home/item.html?id=716f417a1990446389ef7fd2c381d09f), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Australian Government Open Data Portal**: [source data](https://data.gov.au/dataset/ds-dga-bdcf5b09-89bc-47ec-9281-6b8e9ee147aa), [source license](https://creativecommons.org/licenses/by/4.0/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Australian Bureau of Statistics**: [source data](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202011?OpenDocument), [source license](http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/%A9+Copyright?opendocument), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Azavea, Inc.**: [source data](https://www.opendataphilly.org/dataset/philadelphia-neighborhoods/resource/06e8d380-821f-44ce-8718-a0f2f7902318), [source license](https://www.opendataphilly.org/dataset/philadelphia-neighborhoods), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Baltimore Mayor's Office of Information Technology**: [source data](https://data.baltimorecity.gov/Geographic/Baltimore-Study-Area/cdrh-gpzc), [source license](https://data.baltimorecity.gov/Geographic/Baltimore-Study-Area/cdrh-gpzc/about), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Voorlopig Referentiebestand Gemeentegrenzen**: [source data](http://www.geopunt.be/download?container=referentiebestand-gemeenten&title=Voorlopig%20referentiebestand%20gemeentegrenzen), [source license](http://www.geopunt.be/nl/over-geopunt/disclaimer), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Boston Redevelopment Authority**: [source data](https://data.cityofboston.gov/), [source license](https://data.cityofboston.gov/City-Services/Boston-Neighborhood-Shapefiles/af56-j7tb), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Burlington VT Neighborhoods Project**: [source data](https://gist.github.com/wboykinm/dfe44481d8ff759c4f1afea223a7c070), [source license](http://geosprocket.blogspot.com/2012/10/results-of-burlington-neighborhoods.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Burrito Justice**: [source data](http://burritojustice.com/la-lengua/), [source license](https://burritojustice.com/licensing/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Cambridge Geographic Information System Department**: [source data](http://www.cambridgema.gov/GIS/gisdatadictionary/Boundary/BOUNDARY_CDDNeighborhoods), [source license](https://data.cambridgema.gov/download/tif9-pmiw/application/pdf), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Alberta Open Government - Municipal Boundaries**: [source data](https://open.alberta.ca/opendata/property-municipal-boundaries), [source license](https://open.alberta.ca/documentation/ogp-licence), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Burnaby GIS Department**: [source data](http://data.burnaby.ca/datasets/0023da089ff746bfb688e2531d1f2beb_9), [source license](https://www.burnaby.ca/opendata/licence.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Calgary, Corporate Analytics and Innovation**: [source data](https://data.calgary.ca/Base-Maps/Community-Boundaries/ab7m-fwn6), [source license](https://data.calgary.ca/stories/s/u45n-7awa), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **DataBC - British Colombia Open Data Catalogue**: [source data](https://catalogue.data.gov.bc.ca/dataset?download_audience=Public), [source license](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **District of North Vancouver Government**: [source data](http://geoweb.dnv.org/Products/Data/SHP/RegNeighbourhood_shp.zip), [source license](http://geoweb.dnv.org/data/metadata.php?dataset=RegNeighbourhood), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Edmonton Department of Sustainable Development**: [source data](https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Neighbourhood-Boundaries-with-War/jfvj-x253), [source license](https://www.edmonton.ca/city_government/documents/Web-version2.1-OpenDataAgreement.pdf), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Gatineau Service de l'urbanisme et du developpement durable (SUDD)**: [source data](http://www3.gatineau.ca/Infoterritoire/WebInterface/views/index.aspx), [source license](http://www3.gatineau.ca/Infoterritoire/WebInterface/help/fr/Content/1_About/1_About_FR.htm), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Laval Service de l'urbanisme**: [source data](https://www.donneesquebec.ca/recherche/fr/dataset/limites-des-anciennes-municipalites), [source license](https://www.donneesquebec.ca/fr/licence/#cc-by), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Montreal Service de la Mise en Valeur du Territoire**: [source data](http://donnees.ville.montreal.qc.ca/dataset/quartiers), [source license](https://creativecommons.org/licenses/by/4.0/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of New Westminster Development Services Department**: [source data](http://opendata.newwestcity.ca/datasets/neighbourhoods), [source license](http://opendata.newwestcity.ca/licence), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Ottawa Neighbourhood Study (ONS)**: source data, [source license](http://neighbourhoodstudy.ca/ons-terms-of-use/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Quebec City Open Data Portal**: [source data](http://donnees.ville.quebec.qc.ca/donne_details.aspx?jdid=9), [source license](http://donnees.ville.quebec.qc.ca/licence.aspx), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Regina Open Data - Community Associations**: [source data](http://open.regina.ca/dataset/community-associations), [source license](http://www.regina.ca/residents/open-government/open-government-licence/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Saskatoon Open Data Portal - Neighbourhood Areas**: [source data](http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/NeighbourhoodArea#param=NOFILTER--DataView--Results), [source license](http://opendata-saskatoon.cloudapp.net/TermsOfUse/TermsOfUse), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Surrey GIS Section**: [source data](https://data.surrey.ca/dataset/surrey-city-boundary), [source license](http://data.surrey.ca/pages/open-government-licence-surrey), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Victoria Open Data Catalogue**: [source data](http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html), [source license](http://www.victoria.ca/EN/main/online-services/open-data-catalogue/open-data-licence.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Winnipeg Department of Planning, Property, and Development**: [source data](https://data.winnipeg.ca/City-Planning/Neighbourhood/fen6-iygi), [source license](https://data.winnipeg.ca/open-data-licence), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Natural Resources Canada, CanVec Hydrographic Features**: [source data](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b), [source license](http://open.canada.ca/en/open-government-licence-canada), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Centraal Bureau voor de Statistiek**: [source data](https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1/resource/7f32452a-f035-4a23-bce9-1972f5189beb), [source license](https://data.overheid.nl/data/dataset/wijk-en-buurtkaart-2016-versie-1), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Swiss Cadastral System**: [source data](https://www.cadastre.ch/content/cadastre-internet/en/services/service/plz.html), [source license](https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/free-geodata.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **SwissTopo**: [source data](http://data.geo.admin.ch), [source license](https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/free-geodata.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Bundesamt für Kartographie und Geodäsie**: [source data](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=13&gdz_user_id=0), [source license](https://www.govdata.de/dl-de/by-2-0), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Denver Department of Community Planning and Development**: [source data](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-statistical-neighborhoods), [source license](https://www.denvergov.org/opendata/termsofuse), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **GeoDanmark**: [source data](https://www.geodanmark.dk/), [source license](https://download.kortforsyningen.dk/content/vilk%C3%A5r-og-betingelser), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Elections BC**: [source data](http://elections.bc.ca/), [source license](http://142.34.128.33/docs/EBC-Open-Data-Licence.pdf), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Portal de datos abiertos del Ayuntamiento de Madrid**: [source data](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=46b55cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default), [source license](http://datos.madrid.es/egob/catalogo/aviso-legal), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **CartoBCN**: [source data](http://w20.bcn.cat/cartobcn/), [source license](http://w133.bcn.cat/geoportal/descargas/en_gb_cond_us_carto.pdf), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Institut Cartogràfic i Geològic de Catalunya**: [source data](https://github.com/OpenICGC/limits_administratius/tree/master/data), [source license](http://www.icgc.cat/en/The-ICGC/Public-Information/Transparency/Re-use-of-the-information), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **NLS National Land Survey of Finland**: [source data](http://www.maanmittauslaitos.fi/en/digituotteet/municipal-division-finland), [source license](http://www.maanmittauslaitos.fi/en/opendata-licence-cc40), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Open Data France**: [source data](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf), [source license](https://www.data.gouv.fr/en/terms/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **London Datastore - Greater London Authority**: [source data](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london), [source license](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **GeoNames**: [source data](http://www.geonames.org/), [source license](http://www.geonames.org/about.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Yahoo! GeoPlanet**: [source data](http://developer.yahoo.com/geo/geoplanet/), [source license](http://developer.yahoo.com/geo/geoplanet/data/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Hong Kong Open Data Portal**: [source data](https://data.gov.hk/en/), [source license](https://data.gov.hk/en/terms-and-conditions), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Helsinki City Real Estate Department**: [source data](http://www.hel2.fi/tietokeskus/data/kartta_aineistot/PKS_Kartta_Rajat_KML2011.zip), [source license](http://www.hri.fi/dataset/paakaupunkiseudun-aluejakokartat), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Ordnance Survey Ireland**: [source data](https://data-osi.opendata.arcgis.com/datasets/administrative-counties-ungeneralised-osi-national-administrative-boundaries-), [source license](https://data-osi.opendata.arcgis.com/datasets/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **International Organization for Standardization**: [source data](http://www.iso.org/), [source license](https://www.iso.org/privacy-and-copyright.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **International Telecommunications Union**: [source data](https://www.itu.int/online/mm/scripts/gensel8), [source license](https://www.itu.int/en/Pages/copyright.aspx), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Kuopio**: [source data](https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat/resource/6ca89290-3743-4832-9ed6-03d8cf9b2d5f), [source license](https://www.avoindata.fi/data/fi/dataset/kuopion-kaupunginosat), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Los Angeles Neighborhood Councils (Certified)**: [source data](https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f), [source license](https://data.lacity.org/A-Well-Run-City/Neighborhood-Councils-Certified-/fu65-dz2f/about), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Mapshaper**: [source data](https://github.com/mbloch/mapshaper), [source license](http://mozilla.org/MPL/2.0/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Mesoshapes**: [source data](https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md), [source license](https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+  - **Armenia**: Acopian Center for the Environment (ACE)
+  - **Armenia**: Revolutionary GIS
+  - **Asia**: National Land Surveying and Mapping Center (TNLSMC)
+  - **Azerbaijan**: ISCGM
+  - **Azerbaijan**: State Committee Land and Cartography
+  - **Bangladesh**: GIST
+  - **Bangladesh**: National Renewable Energy Laboratory (NREL)
+  - **Bolivia**: IDE-EPB GeoBolivia data portal (IDE_EPB)
+  - **Burundi**: OCHA HDX
+  - **Burundi**: IGEBU
+  - **Cameroon**: WRI
+  - **Cameroon**: Institut National de la Cartographie
+  - **Chad**: OCHA
+  - **Chile**: Chilean National Library of Congress
+  - **Colombia**: Instituto Geografico Agustin Codazzi
+  - **Colombia**: OCHA
+  - **Colombia**: Sala Humanitaria (SH)
+  - **Costa Rica**: ESRI Open Data
+  - **Costa Rica**: Daticos/Geotecnologias S.A.
+  - **Cuba**: Oficina Nacional de Estadísticas, Cuba (ONEC)
+  - **Democratic Rebublic of Congo**: OCHA
+  - **Democratic Rebublic of Congo**: Referenciel Geographique Commun DRC
+  - **Egypt**: Revolutionary GIS
+  - **Egypt**: USAID via FOIA
+  - **Ethiopia**: GIST
+  - **Ethiopia**: USAID
+  - **Ethiopia**: WRI
+  - **Europe**: Euro Global Map (EGM)
+  - **Europe**: European Data Portal (EDP)
+  - **France**: French IGN (FIGN)
+  - **French Guiana**: French IGN
+  - **Gambia**: OCHA
+  - **Georgia**: GIST
+  - **Georgia**: ISCGM
+  - **Georgia**: geodesyandcartography
+  - **Global**: Digital Chart of the World (DCW)
+  - **Global**: ESRI Open Data - Daticos
+  - **Global**: Natural Earth Urban (NEU)
+  - **Global**: National Renewable Energy Laboratory (NREL)
+  - **Global**: World Resource Institute (WRI)
+  - **Global**: International Steering Committee for Global Mapping (ISCGM)
+  - **Global**: Art of the Mappable (AOTM) for Mapzen under CC0
+  - **Global**: OCHA_OPEN
+  - **Global**: USAID
+  - **Global**: Empirical Study of Conflict (ESOC)
+  - **Guinea**: OCHA HDX
+  - **Guinea**: WFP
+  - **Guinea**: International Organization for Migration
+  - **Guyana**: Guyana Bureau of Statistics (GBOS)
+  - **Honduras**: ISCGM
+  - **Honduras**: Direccion General de Catastro y Geografia
+  - **India**: DataMeet
+  - **Indonesia**: Geospatial Information Agency
+  - **Indonesia**: ISCGM
+  - **Iraq**: ESOC
+  - **Iraq**: World Food Program
+  - **Iraq**: Relief Web Humanitarian Information Center
+  - **Israel**: Revolutionary GIS
+  - **Israel**: Israel Central Bureau of Statistics (ICBS)
+  - **Jamaica**: Statistical Institute of Jamaica
+  - **Japan**: Geospatial Information Authority of Japan (GSI)
+  - **Kyrgyzstan**: OCHA
+  - **Kyrgyzstan**: Ministry of Emergency Situations of the Kyrgyz Republic
+  - **Liberia**: GIST
+  - **Liberia**: USAID
+  - **Liberia**: OFDA Economic and Humanitarian Assistance
+  - **Libya**: OCHA HDX
+  - **Libya**: Libya Bureau of Statistics and Census (BSC)
+  - **Libya**: IOM
+  - **Macedonia**: EuroGlobalMap
+  - **Mali**: OCHA
+  - **Mauritania**: OCHA
+  - **Mauritius**: Ministry of Housing and Lands
+  - **Mauritius**: ISCGM
+  - **Mozambique**: ISCGM
+  - **Mozambique**: CENACARTA
+  - **New Zealand**: Statistics New Zealand (SNZ)
+  - **Nicaragua**: ISCGM
+  - **Nicaragua**: INETER
+  - **Niger**: OCHA
+  - **Nigeria**: OCHA
+  - **Palestine**: OCHA
+  - **Palestine**: Ministry of planning (Palestinian Authority)
+  - **Papua**: ISCGM
+  - **Papua**: National Mapping Bureau
+  - **Paraguay**: DGEEC
+  - **Paraguay**: Republica de Paraguay Dirección General de Estadística, Encuestas y Censos (DGEEC)
+  - **Peru**: OCHA
+  - **Peru**: Instituto Geográfico Nacional
+  - **Rwanda**: Revolutionary GIS
+  - **Rwanda**: National Institute of Statistics of Rwanda (NISR)
+  - **Senegal**: OCHA
+  - **Serbia**: EuroGlobalMap
+  - **Serbia**: EuroGeoGraphics
+  - **South Africa**: Revolutionary GIS
+  - **South Africa**: South Africa Municipal Demarcation Board (SAMDB)
+  - **Taiwan**: National Land Surveying and Mapping Center
+  - **Tanzania**: Tanzania National Bureau of Statistics (TNBS)
+  - **Togo**: ISCGM
+  - **Togo**: Direction General of Cartography - DGC Togo
+  - **Ukraine**: Revolutionary GIS
+  - **Ukraine**: OCHA Ukraine ДНВП Картографія
+  - **Zimbabwe**: Zimbabwe Central Statistics Office (ZimStat)
+  - **Zimbabwe**: OCHA HDX
+- **Metazen**: [source data](https://www.mapzen.com/), [source license](https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md#license), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Mini Tenders**: [source data](http://www.thebolditalic.com/articles/1101-mini-tenders), [source license](http://www.thebolditalic.com/articles/1101-mini-tenders), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Natural Earth**: [source data](http://www.naturalearthdata.com/), [source license](http://www.naturalearthdata.com/about/terms-of-use/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Geonorge Norway**: [source data](https://www.geonorge.no/), [source license](https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of New Orleans, Office of Information Technology and Innovation, Enterprise Information Team**: [source data](https://data.nola.gov/Geographic-Base-Layers/Neighborhoods/92zg-wzkq), [source license](https://data.nola.gov/Geographic-Base-Layers/Neighborhoods/92zg-wzkq), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Oakland Community and Economic Development Department**: [source data](https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9), [source license](https://data.oaklandnet.com/Property/Oakland-Neighborhoods/7zky-kcq9/about), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Oulu**: [source data](http://www.ouka.fi/oulu/oulu-tietoa/avoin-data-aineisto), [source license](http://www.ouka.fi/oulu/oulu-tietoa/kayttoehdot), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **OurAirports**: [source data](http://ourairports.com/data/), [source license](http://ourairports.com/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Pediacities**: [source data](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods), [source license](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods/resource/91778048-3c58-449c-a3f9-365ed203e914), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Office of Geodesy and Cartography, Poland**: [source data](http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg), [source license](http://www.gugik.gov.pl/prawa-autorskie), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of Portland Bureau of Planning and Sustainability**: [source data](http://gis.pdx.opendata.arcgis.com/datasets/c11815647b3949faa20b16cf50ab214d_125), [source license](https://www.arcgis.com/home/item.html?id=c11815647b3949faa20b16cf50ab214d), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Directorate-General for the Territorial Development of Portugal**: [source data](http://www.dgterritorio.pt/dados_abertos/caop/), source license, [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Quattroshapes**: [source data](http://www.quattroshapes.com/), [source license](https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+  - **Australia**: Geoscience Australia and Australian Bureau of Statistics
+  - **Austria**: Bundesamt für Eich- und Vermessungswesen
+  - **Belgium**: Institut Géographique National – Belgique
+  - **Brazil**: IBGE
+  - **Bulgaria**: Cadastre Agency
+  - **Bulgaria**: MRDPW
+  - **Canada**: Department of Natural Resources Canada
+  - **Canada**: Statistics Canada
+  - **Canada**: BC Stats
+  - **Chile**: Global Map of Chile
+  - **Chile**: International Steering Committee for Global Mapping
+  - **Chile**: Instituto Geografico Militar de Chile
+  - **Croatia**: Drzavna Geodetska Uprava
+  - **Cyprus**: Lands and Surveys
+  - **Cyprus**: Survey and Cartogr. Br.
+  - **Czech Republic**: Český úřad zeměměřický a katastrální
+  - **Denmark**: Kort og Matrikelstyrelsen
+  - **Estonia**: Maaamet
+  - **Europe**: EuroGeoGraphics
+  - **Europe**: European Environment Agency (EEA)
+  - **Faroe Islands**: Kort og Matrikelstyrelsen
+  - **Finland**: Maanmittauslaitos
+  - **Global**: Flickr
+  - **France**: Institut Géographique National
+  - **France**: Institut National de l’Information Géographique et Forestière
+  - **Global**: Geonames
+  - **Georgia**: National Agency of Public Registry
+  - **Germany**: Bundesamt für Kartographie und Geodäsie
+  - **Great Britain**: Ordnance Survey
+  - **Greece**: Hellenic Military Geographical Service
+  - **Greenland**: Kort og Matrikelstyrelsen
+  - **Hungary**: Földmérési és Távérzékelési Intézet
+  - **Iceland**: Landmælingar Íslands
+  - **Indonesia**: Global Map of Indonesia (ISCGM/Indonesia)
+  - **Ireland**: Ordnance Survey Ireland
+  - **Italy**: Istituto Geografico Militare Italiano
+  - **Latvia**: Latvijas Republikas Valsts zemes dienests
+  - **Liechtenstein**: Bundesamt für Landestopographie
+  - **Lithuania**: Nacionalinė žemės tarnyba
+  - **Luxembourg**: Administration du Cadastre et de la Topographie
+  - **Malta**: Malta Environment and Planning Authority (MEPA)
+  - **Mexico**: INEGI
+  - **Moldova**: State Agency for Land Relations and Cadastre
+  - **Netherlands**: Kadaster
+  - **Netherlands**: Topografische Dienst Nederland
+  - **New Zealand**: Land Information New Zealand
+  - **Northern Ireland**: Ordnance Survey of Northern Ireland
+  - **Norway**: Statens Kartverk
+  - **Palestine**: Global Map of Palestine
+  - **Palestine**: ISCGM/Palestinian National Authority
+  - **Palestine**: Ministry of Planning
+  - **Palestine**: Geographic Center and Technical Support
+  - **Poland**: Główny Urząd Geodezji i Kartografii
+  - **Portugal**: Instituto Geográfico Português
+  - **Rep. of Slovakia**: Geodetick a kartografick ústav
+  - **Romania**: CNGCFT
+  - **Romania**: National Center of Geodesie
+  - **Romania**: Cartography
+  - **Romania**: Fotogrametry and Remote Sensing
+  - **Serbia**: Republički geodetski zavod
+  - **Slovenia**: Geodetska Uprava Republike Slovenije
+  - **South Africa**: : Global Map of the Republic of South Africa
+  - **South Africa**: ISCGM/State Copyright
+  - **South Africa**: Department of Rural Development and Land Reform
+  - **South Africa**: Chief Directorate of National Geo-spatial Information
+  - **Spain**: Centro Nacional de Informacion Geografica – Instituto Geográfico Nacional
+  - **Spain**: Instituto Geográfico Nacional
+  - **Sweden**: Lantmäteriet
+  - **Switzerland**: Bundesamt für Landestopographie
+  - **Switzerland**: swisstopo
+  - **Ukraine**: Research Institute of Geodesy and Cartography
+  - **United Kingdom**: Ordnance Survey
+  - **United States**: United States Census Bureau
+  - **Global**: Yahoo!
+- **Quattroshapes Point Gazetteer**: [source data](http://www.quattroshapes.com/), [source license](https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+  - **Global**: GeoPlanet
+  - **Global**: GeoNames
+- **The City of Santa Barbara**: [source data](https://maps.santabarbaraca.gov/Html5Viewer/Index.html?configBase=/Geocortex/Essentials/REST/sites/City_of_Santa_Barbara__Public/viewers/SantaBarbaraPublic/virtualdirectory/Resources/Config/Default), [source license](https://www.santabarbaraca.gov/howdoi/get/webhelp/policy.asp), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **SanGIS/SANDAG GIS Data Warehouse**: [source data](http://rdw.sandag.org/Account/GetFSFile.aspx?dir=Law&Name=SDPD_BEATS.zip), [source license](http://www.sangis.org/Legal_Notice.htm), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Lantmateriet Sweden**: [source data](https://www.lantmateriet.se/), [source license](https://www.lantmateriet.se/en/Maps-and-geographic-information/Maps/oppna-data/anvandarvillkor/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Seattle City GIS Program**: [source data](https://data.seattle.gov/dataset/data-seattle-gov-GIS-shapefile-datasets/f7tb-rnup), [source license](https://data.seattle.gov/data-policy), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **San Francisco Arts Commission**: [source data](http://www.sfartscommission.org/), [source license](http://www.sfartscommission.org/terms-use), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **City of San Francisco**: [source data](https://data.sfgov.org/), [source license](https://data.sfgov.org/terms-of-use), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **SimpleGeo**: [source data](https://www.simplegeo.com), [source license](https://creativecommons.org/publicdomain/zero/1.0/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **San Jose Planning Department**: [source data](https://www.sanjoseca.gov/DocumentCenter/View/11287), [source license](http://www.sanjoseca.gov/DocumentCenter/View/55954), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Open San Mateo County**: [source data](https://data.smcgov.org/), [source license](https://creativecommons.org/publicdomain/zero/1.0/legalcode), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Senatsverwaltung fur Stadtentwicklung und Umwelt Berlin**: [source data](http://daten.berlin.de/datensaetze?field_category_tid%5B%5D=231), [source license](http://www.stadtentwicklung.berlin.de/geoinformation/download/nutzIII.pdf), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Statistics Canada**: [source data](http://statcan.gc.ca/), [source license](http://www.statcan.gc.ca/eng/reference/licence-eng), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Statoids**: [source data](http://www.statoids.com), source license, [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Open Information Saint Paul**: [source data](https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b), [source license](https://information.stpaul.gov/City-Administration/Establishing-an-Open-Information-Program-Resolutio/v7qy-vtzb), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Surveying and Mapping Authority of the Republic of Slovenia**: [source data](http://egp.gu.gov.si/egp/), [source license](https://creativecommons.org/licenses/by/2.5/si/legalcode), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **The List - Bay Area Concert Guide**: [source data](http://www.calweb.net/~skoepke/), [source license](http://www.calweb.net/~skoepke/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Turku City Government**: [source data](http://opendata.lounaistieto.fi/aineistoja/Turku_pienalueet.zip), [source license](http://www.lounaistieto.fi/blog/2015/08/18/turun-palvelualuejakotilastoalueet/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Tampere City Survey GIS**: [source data](http://opendata.navici.com/tampere/opendata/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=opendata:KH_TILASTO&outputFormat=json), [source license](http://www.tampere.fi/tampereen-kaupunki/tietoa-tampereesta/avoin-data/avoin-data-lisenssi.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Toronto Social Development, Finance & Administration Department**: [source data](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=04b489fe9c18b210VgnVCM1000003dd60f89RCRD&vgnextchannel=75d6e03bb8d1e310VgnVCM10000071d60f89RCRD), [source license](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Transitland**: [source data](https://transit.land/), [source license](https://transit.land/an-open-project/contributor-agreement.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **UN/LOCODE (United Nations Code for Trade and Transport Locations)**: [source data](http://www.unece.org/cefact/locode/welcome.html), [source license](http://www.unece.org/cefact/locode/locode_since1981.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **U.S. Department of State - Humanitarian Information Unit**: [source data](https://data.humdata.org/dataset/global-lsib-polygons-detailed), [source license](https://data.humdata.org/about/license), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **United States Census Bureau**: [source data](https://www.census.gov/), [source license](https://www.census.gov/data/developers/about/terms-of-service.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **US ZIP Code Tabulation Area**: [source data](http://www.census.gov/geo/reference/zctas.html), [source license](https://www.census.gov/data/developers/about/terms-of-service.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Vancouver Planning and Development Services**: [source data](http://data.vancouver.ca/datacatalogue/localAreaBoundary.htm), [source license](http://vancouver.ca/your-government/open-data-catalogue.aspx#tab19099), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Washington Post**: [source data](https://web.archive.org/web/20160209065412/http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes), [source license](http://opendatadc.org/dataset/neighborhood-boundaries-217-neighborhoods-washpost-justgrimes), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Yahoo! GeoPlanet (formerly Where On Earth)**: [source data](http://developer.yahoo.com/geo/geoplanet/), [source license](http://developer.yahoo.com/geo/geoplanet/data/), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Who's On First**: [source data](https://whosonfirst.org/), [source license](https://github.com/whosonfirst-data/whosonfirst-data/blob/master/LICENSE.md), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Wikipedia**: [source data](http://www.wikipedia.org/), [source license](https://en.wikipedia.org/wiki/Wikipedia:Copyrights), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+- **Zetashapes**: [source data](http://www.zetashapes.com), [source license](http://www.zetashapes.com/license), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
+  - **Global**: flickr
+  - **United States**: United States Census Bureau
+- **Zolk Chicago Neighborhoods Map**: [source data](http://chicagomap.zolk.com/), [source license](http://chicagomap.zolk.com/about.html), [more info](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md)
