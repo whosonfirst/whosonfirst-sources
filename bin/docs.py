@@ -142,8 +142,8 @@ if __name__ == '__main__':
         include_license = False
 
         #to construct the LICENSE page, we need to create variables for the license and url
-        url = '[source data](' + str(details['url']) + ')'
-        license = '[source license](' + str(details['license']) + ')'
+        url = '[data](' + str(details['url']) + ')'
+        license = '[license](' + str(details['license']) + ')'
 
         #catch any usage flag and append it as markdown to a usage: prop, if found
         if details.get('usage_concordance'):
@@ -177,14 +177,14 @@ if __name__ == '__main__':
 
         #if we don't have a useable url or license, don't set markdown in LICENSE
         if not str(details['url']).startswith('http'):
-            url = 'source data, '
+            url = 'data, '
         if not str(details['license']).startswith('http'):
-            license = 'source license, '
+            license = 'license, '
 
         #by now, we have sorted sources to include in the LICENSE, proceed...
         if include_license == True:
 
-            _license.write("- **" + str(details['fullname']) + "**: source " + url + ' and ' license + '\n')
+            _license.write("- **" + str(details['fullname']) + "**: source " + url + ' and ' + license + '\n')
 
             if has_via == True:
                 for via in details['src:via']:
