@@ -205,7 +205,7 @@ if __name__ == '__main__':
 
     #now write out the README and close all docs    
     docs.write("_All %s sources (%s primary sources, %s additional 'via' sources, and %s concordance-only sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (source_count + source_via_count, new_source_count, source_via_count, source_concordance_count))
-    _license.write("\n\n_All %s sources listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future." % (new_source_count + source_via_count))
+    _license.write("\n\n_All %s sources listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._" % (new_source_count + source_via_count))
 
     docs.close()
     _license.close()
