@@ -60,6 +60,8 @@ if __name__ == '__main__':
 
     source_count = 0
     source_via_count = 0
+    source_concordance_count = 0
+
     for file in os.listdir(sources):
         if file.endswith('.json'):
             source_count += 1
@@ -168,6 +170,12 @@ if __name__ == '__main__':
         if not usage == []:
             docs.write("* %s: %s\n" % ('usage', all_uses))
 
+        #below, we need to list out some stats about sources
+        #create a new variable, then subtract that from the over all source count
+        if usage == ['`concordance`']:
+            source_concordance_count +=1
+        new_source_count = source_count - source_concordance_count
+
         docs.write("\n")
 
         #here, we're removing some sources from the license
@@ -196,7 +204,8 @@ if __name__ == '__main__':
                 _license.write("- **" + str(details['fullname']) + "**: source " + url + ' and ' + license + '\n')
 
     #now write out the README and close all docs    
-    docs.write("_All %s sources (%s primary sources, %s additional 'via' sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (source_count + source_via_count, source_count, source_via_count))
+    docs.write("_All %s sources (%s primary sources, %s additional 'via' sources, and %s concordance-only sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (source_count + source_via_count, new_source_count, source_via_count, source_concordance_count))
+    _license.write("_All %s sources listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._\n\n" % (new_source_count))
 
     docs.close()
     _license.close()
