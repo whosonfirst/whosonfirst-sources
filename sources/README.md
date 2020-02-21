@@ -2390,5 +2390,5 @@ _An overlay of boundaries for Chicago's 228 neighborhoods._
 * license: _http://chicagomap.zolk.com/about.html_
 * usage: `property`, `geometry`
 
-_All 344 sources (157 primary sources, 187 additional 'via' sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
+_All 344 sources (125 primary sources, 187 additional 'via' sources, and 32 concordance-only sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
 
