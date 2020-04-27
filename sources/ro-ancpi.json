@@ -1,0 +1,16 @@
+{
+    "description": "The National Agency for Cadastre and Real Estate Advertising (ANCPI) is the sole authority in the field of cartography, cadastre and real estate advertising in Romania.", 
+    "edtf:inception": "2020-04-17", 
+    "fullname": "Romanian National Agency for Cadastre and Land Registration (ANCPI)", 
+    "id": 1713095439, 
+    "key": "id", 
+    "license": "https://geoportal.ancpi.ro/portal/sharing/rest/content/items/8077dd16e957477d9cc9b457f5f17cac/data", 
+    "license_text": "You are allowed to: Copy, publish, distribute the information, To adapt the information, Re-use the information for commercial or non-commercial purposes. Respecting the following conditions: you must declare the source of the information by displaying the text of the assignment attached byto the licensor and, as far as possible, the address where the information waspublished by it.", 
+    "license_type": "License for Open Government - OGL ROU 1.0", 
+    "name": "ro-ancpi", 
+    "prefix": "ro-ancpi", 
+    "url": "https://geoportal.ancpi.ro/geoportal/catalog/download/download.page", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
