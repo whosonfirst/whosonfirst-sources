@@ -4,9 +4,6 @@
 from __future__ import unicode_literals
 
 import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
-
 import os
 import logging
 import datetime
@@ -41,7 +38,7 @@ if __name__ == '__main__':
         lookup[details['name']] = id
 
     names = lookup.keys()
-    names.sort()
+    names = sorted(names)
 
     #now write the license out
     _license = io.open(license, "w")
