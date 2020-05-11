@@ -1,16 +1,18 @@
 {
     "description": "The source for this property is missing. For example, if a record in Who's On First was imported without a src:geom property, the source would be considered 'missing'.", 
     "edtf:inception": "2015-12-15", 
+    "edtf:deprecated": "2020-05-11", 
     "fullname": "Missing", 
     "id": 404734213, 
     "key": "", 
     "license": "N/A", 
     "license_text": "N/A", 
     "license_type": "N/A", 
+    "mz:is_current": 0,
     "name": "missing", 
     "prefix": "xx", 
     "url": "N/A", 
     "usage_concordance": 0, 
-    "usage_geometry": 1, 
+    "usage_geometry": 0, 
     "usage_property": 0
 }
