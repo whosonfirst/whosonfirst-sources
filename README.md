@@ -4,13 +4,19 @@ Where things come from in Who's On First.
 
 Click [here](sources/README.md) to see a full list of Who's On First sources.
 
-### Adding a new source
+## Installation
+
+```
+sudo pip install -r requirements.txt .
+```
+
+## Adding a new source
 
 1. Create a new source .json file using the [template file](source_template.json).
 2. Fill out all required properties and optional properties, if available.
 3. Run the [Makefile](Makefile) using the `make all` command.
 
-### Source Properties
+## Source Properties
 
 While a source .json file in the `whosonfirst-sources` repository does not require all properties listed below, the more information we are able to gather about a source, the better. When adding a new source, please provide as much current, available information about that specific source as possible.
 
