@@ -16,6 +16,18 @@ sudo pip install -r requirements.txt .
 2. Fill out all required properties and optional properties, if available.
 3. Run the [Makefile](Makefile) using the `make all` command.
 
+### Python 3 Health Warning
+
+The scripts in this repo's `./bin` directory require and _assume_ Python 3.
+
+If your default Python is still 2.7.x (as many people's still are), this will cause these scripts to complain in a pained manner. Setting the `PYTHON` environment variable as part of running the `Makefile` will make the scripts happy and run, something like this ...
+
+```
+PYTHON=`which python3` make all
+```
+
+If your default Python _is_ 3.x then you can safely ignore this.
+
 ## Source Properties
 
 While a source .json file in the `whosonfirst-sources` repository does not require all properties listed below, the more information we are able to gather about a source, the better. When adding a new source, please provide as much current, available information about that specific source as possible.
