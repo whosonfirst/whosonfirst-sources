@@ -1,0 +1,16 @@
+{
+    "description": "", 
+    "edtf:inception": "2020-09-01", 
+    "fullname": "Land Information New Zealand", 
+    "id": 1729181221, 
+    "key": "", 
+    "license": "https://www.linz.govt.nz/data/licensing-and-using-data/attributing-linz-data", 
+    "license_text": "Attribution: When attributing LINZ you need to credit the data source as the LINZ Data Service and include the licence type: 'Sourced from the LINZ Data Service and licensed for reuse under the CC BY 4.0(link is external) licence.'", 
+    "license_type": "CC BY 4.0", 
+    "name": "nz-linz", 
+    "prefix": "nz-linz", 
+    "url": "https://data.linz.govt.nz/layer/104830-fire-and-emergency-nz-localities/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
