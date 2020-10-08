@@ -1,0 +1,16 @@
+{
+    "description": "Public data portal for the National Park Service.", 
+    "edtf:inception": "2019-09-01", 
+    "fullname": "U.S. National Park Service Data Store", 
+    "id": 1729314175, 
+    "key": "", 
+    "license": "https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True", 
+    "license_text": "Material created by the NPS and presented on this website, unless otherwise indicated, is generally considered in the public domain. It may be distributed or copied as permitted by applicable law.", 
+    "license_type": "Public Domain", 
+    "name": "us-nps", 
+    "prefix": "us-nps", 
+    "url": "https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1,
+    "usage_property": 0
+}
