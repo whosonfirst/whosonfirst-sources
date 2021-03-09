@@ -102,7 +102,7 @@ _Layers are viewable from the link in the url field as Buurten (microhoods), Buu
 * license: _https://kaart.amsterdam.nl/datasets_
 * usage: `property`, `geometry`
 
-## Ciudad Autónoma de Buenos Aires, Iniciativa de Datos Públicos y Transparencia
+## Ciudad Autonoma de Buenos Aires, Iniciativa de Datos Publicos y Transparencia
 
 _Open Data portal for the City of Buenos Aires, Argentina._ 
 
@@ -614,7 +614,7 @@ _Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowle
 * license: _http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License_
 * usage: `concordance`
 
-## Bundesamt für Kartographie und Geodäsie
+## Bundesamt fur Kartographie und Geodasie
 
 _Service Centre of the Federal Government for Geo-Information and Geodesy_ 
 
@@ -768,9 +768,9 @@ _Neighbourhood (district) data as provided by the Barcelona City Council (CartoB
 * license: _http://w133.bcn.cat/geoportal/descargas/en_gb_cond_us_carto.pdf_
 * usage: `property`, `geometry`
 
-## Institut Cartogràfic i Geològic de Catalunya
+## Institut Cartografic i Geologic de Catalunya
 
-_Institut Cartogràfic i Geològic de Catalunya (ICGC)_ 
+_Institut Cartografic i Geologic de Catalunya (ICGC)_ 
 
 * added: `2019-05-21`
 * id: `1393679059`
@@ -2022,7 +2022,7 @@ _Singapore's one-stop portal to its publicly-available datasets._
 * license_text: _You can use, access, download, copy, distribute, transmit, modify and adapt the datasets, or any derived analyses or applications, whether commercially or non-commercially (“Use”). You may grant a sub-licence of the datasets if this is necessary to enable users of your application and/or website (“your Sub-Licensees”), to use your application or access your website._
 * url: _https://data.gov.sg/_
 * license: _https://data.gov.sg/open-data-licence_
-* usage: `property`, `geometry`
+* usage: `concordance`, `property`, `geometry`
 
 ## SimpleGeo
 
