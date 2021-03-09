@@ -1,0 +1,16 @@
+{
+    "description": "Singapore's one-stop portal to its publicly-available datasets.", 
+    "edtf:inception": "2021-03-08", 
+    "fullname": "Singapore Open Data Portal", 
+    "id": 1729875405, 
+    "key": "", 
+    "license": "https://data.gov.sg/open-data-licence", 
+    "license_text": "You can use, access, download, copy, distribute, transmit, modify and adapt the datasets, or any derived analyses or applications, whether commercially or non-commercially (“Use”). You may grant a sub-licence of the datasets if this is necessary to enable users of your application and/or website (“your Sub-Licensees”), to use your application or access your website.", 
+    "license_type": "Singapore Open Data Licence v1", 
+    "name": "sg-sggov", 
+    "prefix": "sg-sggov", 
+    "url": "https://data.gov.sg/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
