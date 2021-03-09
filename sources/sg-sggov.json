@@ -10,7 +10,7 @@
     "name": "sg-sggov", 
     "prefix": "sg-sggov", 
     "url": "https://data.gov.sg/", 
-    "usage_concordance": 0, 
+    "usage_concordance": 1, 
     "usage_geometry": 1, 
     "usage_property": 1
 }
