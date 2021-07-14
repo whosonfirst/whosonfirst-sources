@@ -1,0 +1,16 @@
+{
+    "description": "San Francisco International Airport", 
+    "edtf:inception": "", 
+    "fullname": "San Francisco International Airport", 
+    "id": 1746040287, 
+    "key": "", 
+    "license": "", 
+    "license_text": "Data contained on this Web page/site is Copyright © San Francisco City and County (CCSF), California. The GIS data are proprietary to CCSF and title to this information remains in CCSF. All applicable common law and statutory rights in the GIS data including, but not limited to, rights in copyright, shall and will remain the property of CCSF. Information shown on these maps are derived from public records that are constantly undergoing change and do not replace a site survey, and is not warranted for content or accuracy. CCSF does not guarantee the positional or thematic accuracy of the GIS data. The GIS data or cartographic digital files are not a legal representation of any of the features in which it depicts, and disclaims any assumption of the legal status of which it represents. The GIS data or cartographic digital files are not a legal representation of any of the features in which it depicts, and disclaims any assumption of the legal status of which it represents. Areas and/or boundaries contained in this dataset are approximate. Any implied warranties, including warranties of merchantability or fitness for a particular purpose, shall be expressly excluded. All the data on this web page, whether in written, numerical, or graphical form is derived from the San Francisco International Airport’s Asset Management Geospatial Information System (GIS) and is not guaranteed to be accurate. San Francisco International Airport (SFO) makes no warranty of any kind, expressed or implied, including any warranty of merchantability, fitness for a particular purpose, or any other matter. SFO is not responsible for errors, omissions, misuse, or misinterpretation in or of the material. SFO’s digital information is prepared for reference purposes only and should not be used, and is not intended for, survey or engineering purposes. No representation is made concerning the legal status of any apparent route of access identified in digital or hardcopy mapping of geospatial information or data. The requestor acknowledges and accepts all limitations, including the fact that the data, information, and maps are being updated on an ongoing basis, and agrees not to hold SFO or the City and County of San Francisco responsible or liable for any damages that may arise from the use of the data. San Francisco International Airport. Infrastructure Information Management.", 
+    "license_type": "", 
+    "name": "ccsf-sfo", 
+    "prefix": "ccsf-sfo", 
+    "url": "", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 0
+}
