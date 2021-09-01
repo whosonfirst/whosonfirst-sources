@@ -1525,6 +1525,20 @@ _The Museum Universe Data File is an evolving list of museums and related organi
 * url: _https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file_
 * license: ``
 
+## Mexico's Comision Nacional de Areas Naturales Protegidas
+
+_Mexico's National database of Biosphere Reserves, National Parks, Natural Monuments, Natural Resources Protection Areas, Flora and Fauna Protection Areas, CONANP Sanctuaries_ 
+
+* added: `2021-09-01`
+* id: `1746277021`
+* name: `mx-conanp`
+* prefix: `mx-conanp`
+* license_type: _CC BY (equivalent)_
+* license_text: _You can: Make and distribute copies of the data set and its content; Disseminate and publish the data set and its content; Adapt or rearrange the data set and its content; Extract all or part of the content of the data set; Commercially exploit the data set and its content, and; Create data sets derived from the data set or its content._
+* url: _https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181_
+* license: _https://datos.gob.mx/libreusomx_
+* usage: `concordance`, `property`, `geometry`
+
 ## name
 
 _Property prefix. See [property description](https://github.com/whosonfirst/whosonfirst-properties/tree/master/properties/name) for more information._ 
@@ -2528,5 +2542,5 @@ _An overlay of boundaries for Chicago's 228 neighborhoods._
 * license: _http://chicagomap.zolk.com/about.html_
 * usage: `property`, `geometry`
 
-_All 355 sources (134 primary sources, 188 additional 'via' sources, and 33 concordance-only sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
+_All 356 sources (135 primary sources, 188 additional 'via' sources, and 33 concordance-only sources) listed above are currently used to populate Who's On First records or will be added to Who's On First records in the near future._
 
