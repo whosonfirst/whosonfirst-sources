@@ -1,0 +1,16 @@
+{
+    "description": "Mexico's National database of Biosphere Reserves, National Parks, Natural Monuments, Natural Resources Protection Areas, Flora and Fauna Protection Areas, CONANP Sanctuaries", 
+    "edtf:inception": "2021-09-01", 
+    "fullname": "Mexico's Comision Nacional de Áreas Naturales Protegidas", 
+    "id": 1746277021, 
+    "key": "id", 
+    "license": "https://datos.gob.mx/libreusomx", 
+    "license_text": "You can: Make and distribute copies of the data set and its content; Disseminate and publish the data set and its content; Adapt or rearrange the data set and its content; Extract all or part of the content of the data set; Commercially exploit the data set and its content, and; Create data sets derived from the data set or its content.", 
+    "license_type": "CC BY (equivalent)", 
+    "name": "mx-conanp", 
+    "prefix": "mx-conanp", 
+    "url": "https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
