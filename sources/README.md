@@ -332,7 +332,7 @@ _Canada's National Park Boundaries dataset_
 * name: `can-clab`
 * prefix: `can-clab`
 * license_type: _CC BY (equivalent)_
-* license_text: _You are free to: copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose._
+* license_text: _Contains information licensed under the Open Government Licence – Canada. You are free to: copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose._
 * url: _https://open.canada.ca/data/en/dataset/9e1507cd-f25c-4c64-995b-6563bf9d65bd_
 * license: _https://open.canada.ca/en/open-government-licence-canada_
 * usage: `concordance`, `property`, `geometry`
