@@ -1534,7 +1534,7 @@ _Mexico's National database of Biosphere Reserves, National Parks, Natural Monum
 * name: `mx-conanp`
 * prefix: `mx-conanp`
 * license_type: _CC BY (equivalent)_
-* license_text: _You can: Make and distribute copies of the data set and its content; Disseminate and publish the data set and its content; Adapt or rearrange the data set and its content; Extract all or part of the content of the data set; Commercially exploit the data set and its content, and; Create data sets derived from the data set or its content._
+* license_text: _'Reservas de la Biosfera, Parques Nacionales, Monumentos Naturales, Áreas de Protección de Recursos Naturales, Áreas de Protección de Flora y Fauna, Santuarios' published by CONANP. Consulted at https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181 on 2021-09-01. You can: Make and distribute copies of the data set and its content; Disseminate and publish the data set and its content; Adapt or rearrange the data set and its content; Extract all or part of the content of the data set; Commercially exploit the data set and its content, and; Create data sets derived from the data set or its content._
 * url: _https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181_
 * license: _https://datos.gob.mx/libreusomx_
 * usage: `concordance`, `property`, `geometry`
