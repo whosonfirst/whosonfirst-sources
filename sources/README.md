@@ -150,8 +150,8 @@ _The Collaborative Australian Protected Areas Database (CAPAD) provides both spa
 * id: `1746286501`
 * name: `au-capad`
 * prefix: `au-capad`
-* license_type: _CC BY (equivalent)_
-* license_text: _You are free to: Share — copy and redistribute the material in any medium or format, Adapt — remix, transform, and build upon the material for any purpose, even commercially._
+* license_type: _CC BY_
+* license_text: _Collaborative Australian Protected Areas Database (CAPAD) 2020, Commonwealth of Australia 2021. You are free to: Share — copy and redistribute the material in any medium or format, Adapt — remix, transform, and build upon the material for any purpose, even commercially._
 * url: _http://www.environment.gov.au/fed/catalog/search/resource/downloadData.page?uuid=%7B4448CACD-9DA8-43D1-A48F-48149FD5FCFD%7D_
 * license: _https://creativecommons.org/licenses/by/3.0/au/deed.en_
 * usage: `concordance`, `property`, `geometry`
