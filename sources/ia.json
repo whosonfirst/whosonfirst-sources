@@ -1,0 +1,15 @@
+{
+	"description": "The Internet Archive",
+	"edtf:deprecated": "YYYY-MM-DD",
+	"edtf:inception": "YYYY-MM-DD",
+	"fullname": "The Internet Archive",
+	"id": 1746386297,
+	"key": "id",
+	"license": "N/A",
+	"name": "ia",
+	"prefix": "id",
+	"url": "https://archive.org",
+	"usage_concordance": 1,
+	"usage_geometry": 0,
+	"usage_property": 0
+}
