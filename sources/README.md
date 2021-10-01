@@ -2304,7 +2304,7 @@ _This is a Mapzen associated source._
 
 ## data.gov.uk's National Parks Dataset
 
-_The United Kingdom Open Data Portal's National Parks Dataset_ 
+_The United Kingdom's data.gov.uk National Parks (DGNP) Dataset_ 
 
 * added: `2021-03-08`
 * id: `1746415191`
