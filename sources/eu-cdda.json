@@ -1,0 +1,16 @@
+{
+    "description": "The European inventory of nationally designated protected areas ", 
+    "edtf:inception": "2021-09-30", 
+    "fullname": "European Environmental Agency CDDA Database", 
+    "id": 1746415189, 
+    "key": "", 
+    "license": "https://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-16", 
+    "license_text": "EEA standard re-use policy: unless otherwise indicated, re-use of content on the EEA website for commercial or non-commercial purposes is permitted free of charge, provided that the source is acknowledged (http://www.eea.europa.eu/legal/copyright). Copyright holder: European Environment Agency (EEA); Estonian Environmental Register 01.01.2021; Land Burgenland, Land Kärnten, Land Niederösterreich, Land Oberösterreich, Land Salzburg, Land Steiermark, Land Tirol, Land Vorarlberg, Stadt Wien aggregated by Austrian Environment Agency.", 
+    "license_type": "CC-BY (equivalent)", 
+    "name": "eu-cdda", 
+    "prefix": "eu-cdda", 
+    "url": "https://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-16", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
