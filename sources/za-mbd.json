@@ -10,7 +10,7 @@
     "name": "za-mdb", 
     "prefix": "za-mdb", 
     "url": "https://dataportal-mdb-sa.opendata.arcgis.com/", 
-    "usage_concordance": 1, 
+    "usage_concordance": 0, 
     "usage_geometry": 1, 
     "usage_property": 1
 }

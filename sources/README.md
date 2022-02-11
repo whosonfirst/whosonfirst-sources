@@ -2563,7 +2563,7 @@ _The Municipal Demarcation Board of South Africa's Open Data Portal_
 * license_text: _CC-BY per email conversation on 2022-01-22._
 * url: _https://dataportal-mdb-sa.opendata.arcgis.com/_
 * license: _https://dataportal-mdb-sa.opendata.arcgis.com/datasets/f676be280ea94648999d176d58a5e772_0/about_
-* usage: `concordance`, `property`, `geometry`
+* usage: `property`, `geometry`
 
 ## Zetashapes
 
