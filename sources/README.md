@@ -2557,8 +2557,8 @@ _The Municipal Demarcation Board of South Africa's Open Data Portal_
 
 * added: `2022-02-11`
 * id: `1762994725`
-* name: `za-mbd`
-* prefix: `za-mbd`
+* name: `za-mdb`
+* prefix: `za-mdb`
 * license_type: _CC-BY (equivalent)_
 * license_text: _CC-BY per email conversation on 2022-01-22._
 * url: _https://dataportal-mdb-sa.opendata.arcgis.com/_
