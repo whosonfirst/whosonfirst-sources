@@ -1,0 +1,16 @@
+{
+    "description": "Native Land Digital is an Indigenous-led Canadian not-for-profit organization.", 
+    "edtf:inception": "2022-11-13", 
+    "fullname": "nativeland", 
+    "id": 1796621767, 
+    "key": "The dataset is publicly available and is not under any proprietary license; the work can be considered under a CC0 license (free to use in any way you like).", 
+    "license": "https://native-land.ca/resources/api-docs/", 
+    "license_text": "", 
+    "license_type": "CC0", 
+    "name": "nativeland", 
+    "prefix": "nativeland", 
+    "url": "https://native-land.ca/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
