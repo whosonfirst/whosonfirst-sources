@@ -31,7 +31,7 @@
         }, 
         {
             "context": "India", 
-            "source_link": "https://ghsl.jrc.ec.europa.eu/ghs\_stat\_ucdb2015mt\_r2019a.php", 
+            "source_link": "https://ghsl.jrc.ec.europa.eu/ghs_stat_ucdb2015mt_r2019a.php", 
             "source_name": "Global Human Settlement Layer (GHSL)", 
             "source_note": ""
         }, 
@@ -43,7 +43,7 @@
         }, 
         {
             "context": "India", 
-            "source_link": "https://download.geoservice.dlr.de/WSF\_EVO/", 
+            "source_link": "https://download.geoservice.dlr.de/WSF_EVO/", 
             "source_name": "World Settlement Footprint (WSF) Evolution - Landsat-5/7 Dataset (WSFEVO)", 
             "source_note": ""
         } 
