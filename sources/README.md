@@ -673,8 +673,8 @@ _Bavarian state office for digitisation, broadband and measurement_
 
 * added: `2023-03-17`
 * id: `1830479083`
-* name: `de-by`
-* prefix: `de-by`
+* name: `de-ldbv`
+* prefix: `de-ldbv`
 * license_type: _CC BY 4.0_
 * license_text: _You are free to Share, copy and redistribute the material in any medium or format and Adapt, remix, transform, and build upon the material for any purpose, even commercially. _
 * url: _https://www.ldbv.bayern.de/produkte/opendata/opendata_weitere.html_
