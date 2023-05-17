@@ -1,0 +1,16 @@
+{
+    "description": "Eurostat, short for the European Statistical Office, is an official organ of European Commission and is responsible for providing statistical information to the institutions of the European Union (EU) and to promote the harmonisation of statistical methods across its member states, candidates for accession, as well as European Free Trade Association (EFTA) countries. The census and statistical organisations in the different countries that cooperate with Eurostat are harmonized under the concept of the European Statistical System, including NUTS enumeration units that change shape every few years. NUTS 2021 is the current vintage that roughly matches to administrative geographies. Earlier NUTS vintages did not match well to administrative geographies, include 2016, 2013, 2010, 2006, and 2003. The term NUTS comes from the French acronym of 'Nomenclature of territorial units for statistics'.",
+    "edtf:inception": "2023-05-16",
+    "fullname": "Eurostat",
+    "id": 1863613455,
+    "key": "",
+    "license": "https://ec.europa.eu/eurostat/about-us/policies/copyright",
+    "license_text": "© European Union, 1995 - today. Eurostat has a policy of encouraging free re-use of its data, both for non-commercial and commercial purposes. All statistical data, metadata, content of web pages or other dissemination tools, official publications and other documents published on its website, with the exceptions listed below, can be reused without any payment or written licence provided that: (1) the source is indicated as Eurostat; (2) when re-use involves modifications to the data or text, this must be stated clearly to the end user of the information. Some limited exceptions apply. The basis for the copyright and licence policy of Eurostat is the legal notice of the European Commission 'Europa website' which can be found here: https://ec.europa.eu/info/legal-notice_en",
+    "license_type": "CC-BY equivalent",
+    "name": "eurostat",
+    "prefix": "eurostat",
+    "url": "https://ec.europa.eu/eurostat/web/main/home",
+    "usage_concordance": 1,
+    "usage_geometry": 0,
+    "usage_property": 1
+}
