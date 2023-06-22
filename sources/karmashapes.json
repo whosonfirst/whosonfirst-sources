@@ -15,37 +15,37 @@
             "context": "India", 
             "source_link": "https://geonames.nga.mil/geonames/GNSHome/welcome.html", 
             "source_name": "National Geospatial Intelligence Agency (NGA)", 
-            "source_note": ""
+            "source_note": "The 'Global Populated Places' file was used. This is a federal agency of the United States."
         }, 
         {
             "context": "India", 
             "source_link": "https://sedac.ciesin.columbia.edu/data/set/india-india-village-level-geospatial-socio-econ-1991-2001/data-download", 
             "source_name": "Socioeconomic Data and Applications Center (SECAC) / Center for International Earth Science Information Network (CIESIN)", 
-            "source_note": ""
+            "source_note": "The 'India Village-Level Geospatial Socio-Economic Data Set, v1 (1991, 2001)' dataset was used."
         }, 
         {
             "context": "India", 
             "source_link": "https://geosadak-pmgsy.nic.in/opendata/", 
-            "source_name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)", 
-            "source_note": ""
+            "source_name": "Ministry of Rural Development, 2022. PMGSY", 
+            "source_note": "The 'Habitations' dataset was used."
         }, 
         {
             "context": "India", 
             "source_link": "https://ghsl.jrc.ec.europa.eu/ghs_stat_ucdb2015mt_r2019a.php", 
-            "source_name": "Global Human Settlement Layer (GHSL)", 
-            "source_note": ""
+            "source_name": "European Union, 1995-2023 via the Joint Regional Commission", 
+            "source_note": "The 'Urban Centre Database UCDB R2019A' / 'Global Human Settlement Layer (GHSL)' dataset was used. "
         }, 
         {
             "context": "India", 
             "source_link": "https://www.arcgis.com/apps/instant/media/index.html?appid=fc92d38533d440078f17678ebc20e8e2", 
-            "source_name": "ESRI’s Sentinel-2 10m Land Use/Land Cover", 
-            "source_note": ""
+            "source_name": "Impact Observatory by National Geographic Society, Microsoft, and Esri", 
+            "source_note": "The 'Sentinel-2 10m Land Use/Land Cover (January 2022)' file was used."
         }, 
         {
             "context": "India", 
             "source_link": "https://download.geoservice.dlr.de/WSF_EVO/", 
-            "source_name": "World Settlement Footprint (WSF) Evolution - Landsat-5/7 Dataset (WSFEVO)", 
-            "source_note": ""
+            "source_name": "German Aerospace Center (DLR)", 
+            "source_note": "The 'World Settlement Footprint (WSF) Evolution - Landsat-5/7 Dataset (WSFEVO)' dataset was used."
         } 
     ], 
     "url": "https://karmashapes.wordpress.com/", 
