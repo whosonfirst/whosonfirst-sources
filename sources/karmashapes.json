@@ -1,0 +1,55 @@
+{
+    "description": "Karmashapes is a comprehensive dataset of cities, villages, and habitations in India.", 
+    "edtf:inception": "2023-03-07", 
+    "fullname": "Karmashapes", 
+    "id": 1813460441, 
+    "key": "", 
+    "license": "https://creativecommons.org/licenses/by/4.0/", 
+    "license_text": "You are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material, for any purpose, even commercially.", 
+    "license_type": "CC-BY", 
+    "name": "karmashapes", 
+    "prefix": "ks", 
+    "remarks": "https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/karmashapes_remarks.md", 
+    "src:via": [
+        {
+            "context": "India", 
+            "source_link": "https://geonames.nga.mil/geonames/GNSHome/welcome.html", 
+            "source_name": "National Geospatial Intelligence Agency (NGA)", 
+            "source_note": "The 'Global Populated Places' file was used. This is a federal agency of the United States."
+        }, 
+        {
+            "context": "India", 
+            "source_link": "https://sedac.ciesin.columbia.edu/data/set/india-india-village-level-geospatial-socio-econ-1991-2001/data-download", 
+            "source_name": "Socioeconomic Data and Applications Center (SECAC) / Center for International Earth Science Information Network (CIESIN)", 
+            "source_note": "The 'India Village-Level Geospatial Socio-Economic Data Set, v1 (1991, 2001)' dataset was used."
+        }, 
+        {
+            "context": "India", 
+            "source_link": "https://geosadak-pmgsy.nic.in/opendata/", 
+            "source_name": "Ministry of Rural Development, 2022. PMGSY", 
+            "source_note": "The 'Habitations' dataset was used."
+        }, 
+        {
+            "context": "India", 
+            "source_link": "https://ghsl.jrc.ec.europa.eu/ghs_stat_ucdb2015mt_r2019a.php", 
+            "source_name": "European Union, 1995-2023 via the Joint Regional Commission", 
+            "source_note": "The 'Urban Centre Database UCDB R2019A' / 'Global Human Settlement Layer (GHSL)' dataset was used. "
+        }, 
+        {
+            "context": "India", 
+            "source_link": "https://www.arcgis.com/apps/instant/media/index.html?appid=fc92d38533d440078f17678ebc20e8e2", 
+            "source_name": "Impact Observatory by National Geographic Society, Microsoft, and Esri", 
+            "source_note": "The 'Sentinel-2 10m Land Use/Land Cover (January 2022)' file was used."
+        }, 
+        {
+            "context": "India", 
+            "source_link": "https://download.geoservice.dlr.de/WSF_EVO/", 
+            "source_name": "German Aerospace Center (DLR)", 
+            "source_note": "The 'World Settlement Footprint (WSF) Evolution - Landsat-5/7 Dataset (WSFEVO)' dataset was used."
+        } 
+    ], 
+    "url": "https://karmashapes.wordpress.com/", 
+    "usage_concordance": 1, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
