@@ -1,0 +1,16 @@
+{
+	"description": "EuroGeographics (sometimes known as GISCO) partners with Eurostat and the European Commission to distrbute NUTS statistical data joined with geographical boundary polygon data. However, EuroGeographics restricts this usage to non-commercial, so this source is used for concordance values only. EuroGeographics also offers other commercial data products, and some open data with a coarser resolution 1:1,000,000 scale in their EuroGlobalMap project (which is aggregated by both Quattroshapes and Mesoshapes). The term NUTS comes from the French acronym of 'Nomenclature of territorial units for statistics'.",
+	"edtf:inception": "2023-05-16",
+	"fullname": "EuroGeographics",
+	"id": 1863613411,
+	"key": "",
+	"license": "https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units",
+	"license_text": "The Commission agrees to grant the non-exclusive and not transferable right to use and process the Eurostat/GISCO geographical data downloaded from this page (the 'data'). The permission to use the data is granted on condition that: (1) the data will not be used for commercial purposes; (2) the source will be acknowledged. A copyright notice, as specified below, will have to be visible on any printed or electronic publication using the data downloaded from this page. © EuroGeographics for the administrative boundaries",
+	"license_type": "Restricted Use License (non-commercial)",
+	"name": "eg",
+	"prefix": "eg",
+	"url": "https://eurogeographics.org/",
+	"usage_concordance": 1,
+	"usage_geometry": 0,
+	"usage_property": 0
+}
