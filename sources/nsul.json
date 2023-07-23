@@ -1,0 +1,36 @@
+{
+  "description": "Office of National Statistics (ONS) Unique Property Reference Number (UPRN) directory lookup",
+  "edtf:inception": "2023-07-23",
+  "fullname": "National Statistics UPRN Lookup",
+  "id": 1864205363,
+  "key": "",
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "license_text": "You are free to: copy, publish, distribute and transmit the Information; adapt the Information; exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application. You must (where you do any of the above): acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.",
+  "license_type": "OGL, v3.0",
+  "name": "nsul",
+  "prefix": "nsul",
+  "src:via": [
+    {
+      "context": "United Kingdom",
+      "source_link": "",
+      "source_name": "OS data",
+      "source_note": "Crown copyright and database right 2023"
+    },
+    {
+      "context": "United Kingdom",
+      "source_link": "",
+      "source_name": "Royal Mail data",
+      "source_note": "Royal Mail copyright and Database right 2023"
+    },
+    {
+      "context": "United Kingdom",
+      "source_link": "",
+      "source_name": "GeoPlace data",
+      "source_note": "Local Government Information House Limited copyright and database right 2023"
+    }
+  ],
+  "url": "https://www.ons.gov.uk/methodology/geography/geographicalproducts/nationalstatisticsaddressproducts",
+  "usage_concordance": 1,
+  "usage_geometry": 1,
+  "usage_property": 1
+}
