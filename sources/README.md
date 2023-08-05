@@ -1378,8 +1378,8 @@ _The Luxembourg government's Open Data project is part of the Digital Lëtzebuer
 * prefix: `lu-act`
 * license_type: _CC0_
 * license_text: _No Copyright. The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below._
-* url: _https://data.public.lu/en/datasets/limites-administratives-du-grand-duche-de-luxembourg/#_
-* license: _https://data.public.lu/en/datasets/limites-administratives-du-grand-duche-de-luxembourg/#_
+* url: _https://data.public.lu/en/datasets/limites-administratives-du-grand-duche-de-luxembourg/_
+* license: _https://data.public.lu/en/datasets/limites-administratives-du-grand-duche-de-luxembourg/_
 * usage: `property`, `geometry`
 
 ## Mapshaper
