@@ -1,0 +1,16 @@
+{
+    "description": "",
+    "edtf:inception": "2023-09-27",
+    "fullname": "Instituto Brasileiro de Geografia e Estatística (Brazilian Institute of Geography and Statistics) - IBGE",
+    "id": 1880431367,
+    "key": "id",
+    "license": "https://www.ibge.gov.br/np_download/novoportal/documentos_institucionais/Plano_de_Dados_Abertos_IBGE_2020_2022_1arevisao.pdf",
+    "license_text": "",
+    "license_type": "CC-BY equivalent",
+    "name": "bra-ibge",
+    "prefix": "bra-ibge",
+    "url": "https://www.ibge.gov.br/en/geosciences/territorial-organization/territorial-meshes/18890-municipal-mesh.html?edicao=33161&t=downloads",
+    "usage_concordance": 1,
+    "usage_geometry": 0,
+    "usage_property": 0
+}
