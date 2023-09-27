@@ -3,7 +3,7 @@
 	"edtf:inception": "2020-06-08",
 	"fullname": "Office for National Statistics",
 	"id": 1713206125,
-	"key": "",
+	"key": "gss_code'",
 	"license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
 	"license_text": "You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions. The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below. You are free to: copy, publish, distribute and transmit the Information; adapt the Information; exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application. You must (where you do any of the above): acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence. ",
 	"license_text_eng": "",
@@ -19,7 +19,7 @@
 		"source_note": "ONS Open Geography portal."
 	}],
 	"url": "https://geoportal.statistics.gov.uk/",
-	"usage_concordance": -1,
+	"usage_concordance": 1,
 	"usage_geometry": -1,
 	"usage_property": -1
 }
