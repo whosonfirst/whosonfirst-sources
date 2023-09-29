@@ -1,0 +1,16 @@
+{
+    "description": "Poland Central Statistical Office. The National Official Register of the Territorial Division of the Country (TERYT) concordance codes are a system of identifiers and names of for Polish units of territorial division and localities.",
+    "edtf:inception": "2023-09-27",
+    "fullname": "Główny Urząd Statystyczny (GUS)",
+    "id": 1880439685,
+    "key": "code",
+    "license": "https://portal.geo.stat.gov.pl/regulamin/",
+    "license_text": "Access and use of spatial data services made available on the Geostatistics Portal is universal and free of charge. Statistical studies based on spatial data presented on the Portal are for illustrative purposes only and cannot be treated as an official document. Provisions regarding the use of spatial data sets and services of the Geostatistical Portal are included in the Regulations https://portal.geo.stat.gov.pl/regulamin/.",
+    "license_type": "CC-BY equivalent",
+    "name": "pol-gus",
+    "prefix": "pol-gus",
+    "url": "https://stat.gov.pl/",
+    "usage_concordance": 1,
+    "usage_geometry": 0,
+    "usage_property": 0
+}

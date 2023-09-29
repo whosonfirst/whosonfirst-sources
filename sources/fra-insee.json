@@ -1,0 +1,16 @@
+{
+    "description": "National Institute of Statistics and Economic Studies of France",
+    "edtf:inception": "2023-09-27",
+    "fullname": "Institut national de la statistique et des études économiques (Insee)",
+    "id": 1880439677,
+    "key": "code",
+    "license": "https://www.insee.fr/en/information/2409139",
+    "license_text": "The INSEE welcomes the broadest use of the database products of which it is editor and holder of intellectual property rights (copyright and producer’s rights). To this effect, it authorizes the reuse of data (redistribution) for commercial use. This redistribution is subject or not, as the case may be, to the signing of a license and to payment of a fee.",
+    "license_type": "CC BY equivalent",
+    "name": "fra-insee",
+    "prefix": "fra-insee",
+    "url": "https://www.insee.fr/en/accueil",
+    "usage_concordance": 1,
+    "usage_geometry": 0,
+    "usage_property": 0
+}
