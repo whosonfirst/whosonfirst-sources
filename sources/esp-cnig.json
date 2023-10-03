@@ -1,0 +1,16 @@
+{
+    "description": "Autonomous Organization National Geographic Information Center",
+    "edtf:inception": "2023-10-03",
+    "fullname": "Organismo Autónomo Centro Nacional de Informatión Geográfica (CNIG)",
+    "id": 1880559919,
+    "key": "code",
+    "license": "https://centrodedescargas.cnig.es/CentroDescargas/locale?request_locale=en#",
+    "license_text": "Order FOM/2807/2015 is specified in a use license , compatible with CC-BY 4.0. This license covers free use for any legitimate purpose, with the only strict obligation being to recognize and mention the origin and ownership of the geographical information products and services licensed as IGN, as indicated in the aforementioned license. 2023",
+    "license_type": "CC-BY 4.0 equivalent",
+    "name": "esp-cnig",
+    "prefix": "esp-cnig",
+    "url": "https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=CAANE",
+    "usage_concordance": 1,
+    "usage_geometry": 1,
+    "usage_property": 1
+}
