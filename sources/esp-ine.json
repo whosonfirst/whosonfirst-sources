@@ -1,7 +1,7 @@
 {
     "description": "Statistical Office for Spain",
     "edtf:inception": "2023-09-27",
-    "fullname": "Instituto Nacional de Estadística de España (INE)",
+    "fullname": "Instituto Nacional de Estadística de Espana (INE)",
     "id": 1880439639,
     "key": "code",
     "license": "https://www.ine.es/dyngs/AYU/index.htm?cid=125",
@@ -12,5 +12,5 @@
     "url": "https://www.ine.es/",
     "usage_concordance": 1,
     "usage_geometry": 0,
-    "usage_property": 0
+    "usage_property": 1
 }
