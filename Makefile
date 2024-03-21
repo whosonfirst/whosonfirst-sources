@@ -4,6 +4,7 @@
 
 WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
+PYTHON=$(shell which python3)
 
 all: spec docs
 
@@ -11,7 +12,7 @@ archive: all
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./bin ./data ./sources ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 docs:
-	${PYTHON} ./bin/docs.py
+	$(PYTHON) ./bin/docs.py
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
@@ -25,5 +26,5 @@ internetarchive:
 	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 spec:
-	${PYTHON} ./bin/compile.py > data/sources-spec-`date "+%Y%m%d"`.json
+	$(PYTHON) ./bin/compile.py > data/sources-spec-`date "+%Y%m%d"`.json
 	cp data/sources-spec-`date "+%Y%m%d"`.json data/sources-spec-latest.json
