@@ -4,29 +4,11 @@ Where things come from in Who's On First.
 
 Click [here](sources/README.md) to see a full list of Who's On First sources.
 
-## Installation
-
-```
-sudo pip install -r requirements.txt .
-```
-
 ## Adding a new source
 
-1. Create a new source .json file using the [template file](source_template.json).
+1. Create a new source `{SOURCE}.json` file using the [template file](source_template.json) where `{SOURCE}` should be the same as the `prefix` property of the source itself.
 2. Fill out all required properties and optional properties, if available.
 3. Run the [Makefile](Makefile) using the `make all` command.
-
-### Python 3 Health Warning
-
-The scripts in this repo's `./bin` directory require and _assume_ Python 3.
-
-If your default Python is still 2.7.x (as many people's still are), this will cause these scripts to complain in a pained manner. Setting the `PYTHON` environment variable as part of running the `Makefile` will make the scripts happy and run, something like this ...
-
-```
-PYTHON=`which python3` make all
-```
-
-If your default Python _is_ 3.x then you can safely ignore this.
 
 ## Source Properties
 
