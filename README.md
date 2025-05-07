@@ -54,5 +54,4 @@ While a source .json file in the `whosonfirst-sources` repository does not requi
 
 ## See also
 
-* https://github.com/whosonfirst
-* https://github.com/whosonfirst-data
+* https://github.com/whosonfirst/whosonfirst-docs
